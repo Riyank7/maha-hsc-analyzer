@@ -2,9 +2,13 @@
 
 A local, static evidence viewer for main English-medium Class XII papers in the 2007–2026 research window. Subjects: Physics, Chemistry, Arts & Science Mathematics, English, bifocal Computer Science I and II theory.
 
-## Open locally
+## Google sign-in feature
 
-From this directory run `python3 -m http.server 8765 --bind 127.0.0.1`, then open <http://127.0.0.1:8765/>. No build or external API is required. The existing preview runs on this port.
+This branch adds required Google sign-in through Cloudflare Pages Functions. Follow [the activation guide](docs/GOOGLE_SIGN_IN.md) to create the missing Google OAuth client and configure the server secrets. The feature is a separate PR; it is not active on production yet. Use `npm ci`, `npm test`, and `npm run dev` for the authenticated app. Unconfigured authentication fails closed.
+
+## Open locally (static base only)
+
+From this directory run `python3 -m http.server 8765 --bind 127.0.0.1`, then open <http://127.0.0.1:8765/>. This static preview does not enforce the Google sign-in added by the feature branch. The existing preview runs on this port.
 
 ## Current coverage
 
