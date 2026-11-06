@@ -14,3 +14,5 @@ sources/text/
 sources/scans/
 sources/*exports.json
 sources/papers/*
+sources/*-log.txt
+sources/*-review.txt
