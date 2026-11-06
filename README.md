@@ -4,7 +4,7 @@ A local, static evidence viewer for main English-medium Class XII papers in the 
 
 ## Google sign-in feature
 
-This branch adds required Google sign-in through Cloudflare Pages Functions. Follow [the activation guide](docs/GOOGLE_SIGN_IN.md) to create the missing Google OAuth client and configure the server secrets. The feature is a separate PR; it is not active on production yet. Use `npm ci`, `npm test`, and `npm run dev` for the authenticated app. Unconfigured authentication fails closed.
+This branch adds required Google sign-in through Cloudflare Pages Functions. Follow [the activation guide](docs/GOOGLE_SIGN_IN.md) to create the missing Google OAuth client and configure the server secrets. The implementation was merged in [PR #1](https://github.com/Riyank7/maha-hsc-analyzer/pull/1). Google OAuth credentials are required before real sign-in can work. Use `npm ci`, `npm test`, and `npm run dev` for the authenticated app. Unconfigured authentication fails closed.
 
 ## Open locally (static base only)
 
@@ -34,4 +34,12 @@ Run `python3 scripts/reviewed.py`, followed by `node scripts/build_report.cjs`. 
 
 `collect.py` is the original collection pass and rewrites its output index; do not rerun it over the curated index without backing it up. Use recovery manifests plus `scripts/curate.py` to merge newly downloaded papers safely. `parse_halves.py` is exploratory only; its output is not accepted as reviewed evidence.
 
-The base app can be served by any static server. For Cloudflare Pages, build with `python3 scripts/build_site.py` and deploy `dist/` using Wrangler. The Google sign-in feature is developed separately in a pull request; it requires Pages Functions and Google OAuth configuration before activation.
+The base app can be served by any static server. For Cloudflare Pages, build with `python3 scripts/build_site.py` and deploy `dist/` using Wrangler. The merged Google sign-in implementation uses Pages Functions and requires Google OAuth configuration.
+
+## Automatic deployments
+
+GitHub Actions tests authentication, validates all paper files and marks, builds the site, and compiles its Worker on pull requests. Pushes and merges to `main` then deploy to <https://maha-hsc-analyzer.pages.dev> and verify that anonymous data/PDF requests remain blocked. The workflow can also be run manually from Actions.
+
+Required repository configuration: encrypted Actions secret `CLOUDFLARE_API_TOKEN` (dedicated Pages Edit token), and Actions variable `CLOUDFLARE_ACCOUNT_ID`. These are deployment credentials, separate from the Google client secrets stored only in Cloudflare. The token must be rotated before its expiry.
+
+Each build emits public, non-sensitive version metadata. Open analyzer and login pages check it every 15 seconds and reload when a new build appears. The analyzer preserves the selected tab, subject, year, and analysis period across that refresh. No login tokens are stored in browser storage.

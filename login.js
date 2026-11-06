@@ -10,3 +10,6 @@
     status.textContent=params.has('error')?'Sign-in could not be completed. Please try again.':'Sign in to open the papers and chapter analysis.';
   }catch{status.textContent='Sign-in is being set up. Please try again later.';}
 })();
+
+const loginVersion=document.querySelector('meta[name="app-version"]')?.content;
+setInterval(async()=>{if(!loginVersion)return;try{const r=await fetch('/version.json',{cache:'no-store'});if(!r.ok)return;const v=await r.json();if(v.version&&v.version!==loginVersion)location.reload()}catch{}},15000);

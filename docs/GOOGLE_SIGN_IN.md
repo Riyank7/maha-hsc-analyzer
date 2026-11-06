@@ -1,8 +1,8 @@
 # Activate required Google sign-in
 
-This pull request gates the analyzer, data, report, and every PDF at the Cloudflare Pages edge. Every Google account with a verified email can sign in; no email allowlist is configured. The public GitHub repository still contains the public examination PDFs. Website login does not make those repository files private.
+The merged Google sign-in implementation gates the analyzer, data, report, and every PDF at the Cloudflare Pages edge. Every Google account with a verified email can sign in; no email allowlist is configured. The public GitHub repository still contains the public examination PDFs. Website login does not make those repository files private.
 
-The feature is intentionally a separate PR. It is not merged or active on the base production deployment until configured, reviewed, merged, and deployed.
+The implementation was merged in PR #1. Real Google sign-in still requires the configuration below. Missing settings keep the protected routes closed.
 
 ## Google setup (one-time)
 
@@ -46,7 +46,7 @@ Requires Node 22+ and Python 3. Install with `npm ci`. Copy `.dev.vars.example` 
 - `npm run build` packages the site and active PDFs. Wrangler bundles `functions/_middleware.js` from the project root.
 - `npx wrangler pages functions build functions --outfile /tmp/hsc-auth-worker.js` checks the Workers bundle.
 - After configuring Google, test a real login, sign out, try a direct PDF while signed out, and test the return to that PDF after login. The automated provider tests use locally signed JWTs and a mocked code exchange; they do not prove live Google credentials work.
-- Merge the PR only when ready, then run `npm run deploy -- --branch main` (or `npm run build` followed by `npx wrangler pages deploy dist --project-name maha-hsc-analyzer --branch main`). A Git push alone does not deploy this Direct Upload project.
+- For a manual deployment run `npm run deploy -- --branch main` (or `npm run build` followed by `npx wrangler pages deploy dist --project-name maha-hsc-analyzer --branch main`). The GitHub Actions workflow now deploys pushes to main when its dedicated deployment secret is configured.
 
 Sessions last eight hours. Only the user's Google subject, verified email, and display name are stored inside an HttpOnly signed cookie. No Google access or refresh token is retained. Sign out clears the browser session; rotating `SESSION_SECRET` invalidates all existing sessions. There is no account database, tracking, or server-side session revocation store.
 
