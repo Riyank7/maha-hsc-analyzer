@@ -16,3 +16,4 @@ sources/*exports.json
 sources/papers/*
 sources/*-log.txt
 sources/*-review.txt
+!.dev.vars.example
