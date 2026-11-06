@@ -30,4 +30,4 @@ Run `python3 scripts/reviewed.py`, followed by `node scripts/build_report.cjs`. 
 
 `collect.py` is the original collection pass and rewrites its output index; do not rerun it over the curated index without backing it up. Use recovery manifests plus `scripts/curate.py` to merge newly downloaded papers safely. `parse_halves.py` is exploratory only; its output is not accepted as reviewed evidence.
 
-The site can be served by any static server. No deployment has been made.
+The base app can be served by any static server. For Cloudflare Pages, build with `python3 scripts/build_site.py` and deploy `dist/` using Wrangler. The Google sign-in feature is developed separately in a pull request; it requires Pages Functions and Google OAuth configuration before activation.
