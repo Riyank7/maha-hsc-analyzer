@@ -1,0 +1,68 @@
+[
+  {
+    "subject": "Physics",
+    "pdfs": 21,
+    "years": 17,
+    "missing": [
+      2007,
+      2011
+    ],
+    "partial": "—"
+  },
+  {
+    "subject": "Chemistry",
+    "pdfs": 21,
+    "years": 17,
+    "missing": [
+      2007,
+      2011
+    ],
+    "partial": "—"
+  },
+  {
+    "subject": "Mathematics & Statistics",
+    "pdfs": 20,
+    "years": 17,
+    "missing": [
+      2007,
+      2011
+    ],
+    "partial": "2012: Paper II missing"
+  },
+  {
+    "subject": "English",
+    "pdfs": 18,
+    "years": 18,
+    "missing": [
+      2007
+    ],
+    "partial": "—"
+  },
+  {
+    "subject": "Computer Science I",
+    "pdfs": 14,
+    "years": 14,
+    "missing": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2019
+    ],
+    "partial": "—"
+  },
+  {
+    "subject": "Computer Science II",
+    "pdfs": 13,
+    "years": 13,
+    "missing": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2014,
+      2019
+    ],
+    "partial": "—"
+  }
+]

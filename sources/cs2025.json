@@ -1,0 +1,19 @@
+[
+  {
+    "id": "a9a714475941",
+    "year": 2025,
+    "subject": "Computer Science I",
+    "set": "Paper I",
+    "session": "Main",
+    "medium": "English",
+    "source": "https://docs.aglasem.com/view/96a36076-c9d3-11f0-b87c-0a5e36bc6706",
+    "pdfUrl": "https://cdn.aglasem.com/aglasem-doc/96a36076-c9d3-11f0-b87c-0a5e36bc6706/96a36076-c9d3-11f0-b87c-0a5e36bc6706.pdf",
+    "analysisStatus": "pending",
+    "status": "downloaded",
+    "localPdf": "sources/papers/a9a714475941e4db.pdf",
+    "textPath": "sources/text/a9a714475941.txt",
+    "pages": 7,
+    "textCharacters": 1108,
+    "sha256": "488ff8d5c4ce41203e3b17565cb61aeb737ca32e7125c38d5dff278dd43f0eaa"
+  }
+]

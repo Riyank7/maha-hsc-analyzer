@@ -1,0 +1,4735 @@
+[
+  {
+    "subject": "Physics",
+    "window": 20,
+    "years": [
+      2008,
+      2009,
+      2010,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 21,
+    "basis": "offered",
+    "totalMarks": 1746,
+    "jointMarks": 140,
+    "majorityChapters": [
+      "Rotational Dynamics",
+      "Wave Optics",
+      "Superposition of Waves",
+      "Kinetic Theory of Gases and Radiation",
+      "Oscillations",
+      "Mechanical Properties of Fluids",
+      "Magnetic Fields due to Electric Current"
+    ],
+    "majorityShare": 0.5087001467253576,
+    "rankings": [
+      {
+        "chapter": "Rotational Dynamics",
+        "known": 165,
+        "shared": 14,
+        "lower": 0.09418100573562749,
+        "upper": 0.1025843670801653,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Wave Optics",
+        "known": 164,
+        "shared": 0,
+        "lower": 0.09379751900760294,
+        "upper": 0.09379751900760294,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Superposition of Waves",
+        "known": 129,
+        "shared": 35,
+        "lower": 0.07295251433906894,
+        "upper": 0.0939609177004134,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "known": 105,
+        "shared": 23,
+        "lower": 0.0587268240629585,
+        "upper": 0.07253234627184205,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Magnetic Fields due to Electric Current",
+        "known": 96,
+        "shared": 15,
+        "lower": 0.05503201280512205,
+        "upper": 0.06403561424569829,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "known": 95,
+        "shared": 7,
+        "lower": 0.05459517140189408,
+        "upper": 0.058796852074162985,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Structure of Atoms and Nuclei",
+        "known": 83,
+        "shared": 21,
+        "lower": 0.04859943977591036,
+        "upper": 0.06120448179271708,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Oscillations",
+        "known": 80,
+        "shared": 53,
+        "lower": 0.0458016539949313,
+        "upper": 0.07761437908496727,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Electrostatics",
+        "known": 79,
+        "shared": 14,
+        "lower": 0.04493797519007602,
+        "upper": 0.053341336534613835,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Semiconductor Devices",
+        "known": 76,
+        "shared": 0,
+        "lower": 0.043577430972388934,
+        "upper": 0.043577430972388934,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "known": 74,
+        "shared": 21,
+        "lower": 0.0423202614379085,
+        "upper": 0.05492530345471522,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Magnetic Materials",
+        "known": 69,
+        "shared": 4,
+        "lower": 0.03937575030012004,
+        "upper": 0.04177671068427371,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "known": 62,
+        "shared": 35,
+        "lower": 0.036057756435907695,
+        "upper": 0.05706615979725223,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Current Electricity",
+        "known": 63,
+        "shared": 18,
+        "lower": 0.03577430972388955,
+        "upper": 0.04657863145258104,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Gravitation (legacy)",
+        "known": 57,
+        "shared": 0,
+        "lower": 0.03217286914765906,
+        "upper": 0.03217286914765906,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "AC Circuits",
+        "known": 56,
+        "shared": 0,
+        "lower": 0.031902761104441776,
+        "upper": 0.031902761104441776,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Elasticity (legacy)",
+        "known": 53,
+        "shared": 7,
+        "lower": 0.029331732693077227,
+        "upper": 0.03353341336534615,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Thermodynamics",
+        "known": 47,
+        "shared": 6,
+        "lower": 0.027440976390556218,
+        "upper": 0.03104241696678671,
+        "years": [
+          2008,
+          2009,
+          2012,
+          2015,
+          2017,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Communication Systems (legacy)",
+        "known": 37,
+        "shared": 0,
+        "lower": 0.0207749766573296,
+        "upper": 0.0207749766573296,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Doppler Effect in Sound (legacy)",
+        "known": 7,
+        "shared": 7,
+        "lower": 0.004201680672268907,
+        "upper": 0.008403361344537815,
+        "years": [
+          2013,
+          2015,
+          2018,
+          2020
+        ]
+      },
+      {
+        "chapter": "Thermoelectricity (legacy)",
+        "known": 4,
+        "shared": 0,
+        "lower": 0.00196078431372549,
+        "upper": 0.00196078431372549,
+        "years": [
+          2008,
+          2012
+        ]
+      },
+      {
+        "chapter": "Lasers and Masers (legacy)",
+        "known": 3,
+        "shared": 0,
+        "lower": 0.0014705882352941176,
+        "upper": 0.0014705882352941176,
+        "years": [
+          2008
+        ]
+      },
+      {
+        "chapter": "Optical Fibres / Ray Optics (legacy)",
+        "known": 2,
+        "shared": 0,
+        "lower": 0.000980392156862745,
+        "upper": 0.000980392156862745,
+        "years": [
+          2008,
+          2012
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "window": 10,
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 9,
+    "basis": "offered",
+    "totalMarks": 874,
+    "jointMarks": 54,
+    "majorityChapters": [
+      "Rotational Dynamics",
+      "Wave Optics",
+      "Superposition of Waves",
+      "Mechanical Properties of Fluids",
+      "Magnetic Fields due to Electric Current",
+      "Structure of Atoms and Nuclei",
+      "Dual Nature of Radiation and Matter",
+      "Oscillations"
+    ],
+    "majorityShare": 0.5459309649785837,
+    "rankings": [
+      {
+        "chapter": "Rotational Dynamics",
+        "known": 79,
+        "shared": 0,
+        "lower": 0.09057697152935246,
+        "upper": 0.09057697152935246,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Wave Optics",
+        "known": 76,
+        "shared": 0,
+        "lower": 0.08737717309145877,
+        "upper": 0.08737717309145877,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Superposition of Waves",
+        "known": 62,
+        "shared": 14,
+        "lower": 0.07160493827160491,
+        "upper": 0.08747795414462081,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "known": 54,
+        "shared": 0,
+        "lower": 0.06162761400856636,
+        "upper": 0.06162761400856636,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Magnetic Fields due to Electric Current",
+        "known": 54,
+        "shared": 8,
+        "lower": 0.06152683295540435,
+        "upper": 0.07059712773998486,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Structure of Atoms and Nuclei",
+        "known": 51,
+        "shared": 14,
+        "lower": 0.05842781557067269,
+        "upper": 0.07430083144368858,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "known": 47,
+        "shared": 7,
+        "lower": 0.053691106072058424,
+        "upper": 0.06162761400856636,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "known": 45,
+        "shared": 7,
+        "lower": 0.05112118921642729,
+        "upper": 0.059057697152935226,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Electrostatics",
+        "known": 42,
+        "shared": 7,
+        "lower": 0.04792139077853362,
+        "upper": 0.05585789871504156,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Oscillations",
+        "known": 41,
+        "shared": 18,
+        "lower": 0.04749307130259509,
+        "upper": 0.06790123456790123,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Semiconductor Devices",
+        "known": 40,
+        "shared": 0,
+        "lower": 0.04565381708238849,
+        "upper": 0.04565381708238849,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Thermodynamics",
+        "known": 40,
+        "shared": 4,
+        "lower": 0.04535147392290247,
+        "upper": 0.04988662131519272,
+        "years": [
+          2017,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "known": 38,
+        "shared": 14,
+        "lower": 0.04348702443940537,
+        "upper": 0.059360040312421244,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "AC Circuits",
+        "known": 38,
+        "shared": 0,
+        "lower": 0.043386243386243376,
+        "upper": 0.043386243386243376,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Magnetic Materials",
+        "known": 37,
+        "shared": 4,
+        "lower": 0.04225245653817082,
+        "upper": 0.04678760393046107,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Current Electricity",
+        "known": 32,
+        "shared": 4,
+        "lower": 0.036583522297808,
+        "upper": 0.04111866969009824,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Gravitation (legacy)",
+        "known": 17,
+        "shared": 0,
+        "lower": 0.019576719576719574,
+        "upper": 0.019576719576719574,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Elasticity (legacy)",
+        "known": 12,
+        "shared": 7,
+        "lower": 0.013907785336356764,
+        "upper": 0.021844293272864697,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Communication Systems (legacy)",
+        "known": 11,
+        "shared": 0,
+        "lower": 0.012673217435122196,
+        "upper": 0.012673217435122196,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Doppler Effect in Sound (legacy)",
+        "known": 4,
+        "shared": 0,
+        "lower": 0.004535147392290249,
+        "upper": 0.004535147392290249,
+        "years": [
+          2018,
+          2020
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Physics",
+    "window": 5,
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 5,
+    "basis": "offered",
+    "totalMarks": 490,
+    "jointMarks": 8,
+    "majorityChapters": [
+      "Magnetic Fields due to Electric Current",
+      "Thermodynamics",
+      "Electromagnetic Induction",
+      "Mechanical Properties of Fluids",
+      "Rotational Dynamics",
+      "Wave Optics",
+      "Structure of Atoms and Nuclei"
+    ],
+    "majorityShare": 0.5163265306122452,
+    "rankings": [
+      {
+        "chapter": "Magnetic Fields due to Electric Current",
+        "known": 39,
+        "shared": 4,
+        "lower": 0.07959183673469386,
+        "upper": 0.08775510204081631,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Thermodynamics",
+        "known": 38,
+        "shared": 4,
+        "lower": 0.07755102040816325,
+        "upper": 0.0857142857142857,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "known": 35,
+        "shared": 0,
+        "lower": 0.07142857142857141,
+        "upper": 0.07142857142857141,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "known": 35,
+        "shared": 0,
+        "lower": 0.07142857142857141,
+        "upper": 0.07142857142857141,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Rotational Dynamics",
+        "known": 35,
+        "shared": 0,
+        "lower": 0.07142857142857141,
+        "upper": 0.07142857142857141,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Wave Optics",
+        "known": 35,
+        "shared": 0,
+        "lower": 0.07142857142857141,
+        "upper": 0.07142857142857141,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Structure of Atoms and Nuclei",
+        "known": 32,
+        "shared": 0,
+        "lower": 0.06530612244897958,
+        "upper": 0.06530612244897958,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Magnetic Materials",
+        "known": 31,
+        "shared": 0,
+        "lower": 0.06326530612244896,
+        "upper": 0.06326530612244896,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "AC Circuits",
+        "known": 30,
+        "shared": 0,
+        "lower": 0.06122448979591836,
+        "upper": 0.06122448979591836,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Electrostatics",
+        "known": 30,
+        "shared": 0,
+        "lower": 0.06122448979591835,
+        "upper": 0.06122448979591835,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Kinetic Theory of Gases and Radiation",
+        "known": 30,
+        "shared": 0,
+        "lower": 0.06122448979591835,
+        "upper": 0.06122448979591835,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Superposition of Waves",
+        "known": 27,
+        "shared": 0,
+        "lower": 0.05510204081632652,
+        "upper": 0.05510204081632652,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "known": 25,
+        "shared": 0,
+        "lower": 0.05102040816326529,
+        "upper": 0.05102040816326529,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Semiconductor Devices",
+        "known": 25,
+        "shared": 0,
+        "lower": 0.05102040816326529,
+        "upper": 0.05102040816326529,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Oscillations",
+        "known": 18,
+        "shared": 4,
+        "lower": 0.03673469387755102,
+        "upper": 0.04489795918367346,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Current Electricity",
+        "known": 17,
+        "shared": 4,
+        "lower": 0.03469387755102041,
+        "upper": 0.04285714285714285,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "window": 20,
+    "years": [
+      2008,
+      2009,
+      2010,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 21,
+    "basis": "offered",
+    "totalMarks": 1746,
+    "jointMarks": 392,
+    "majorityChapters": [
+      "Chemical Thermodynamics",
+      "Aldehydes, Ketones and Carboxylic Acids",
+      "Halogen Derivatives",
+      "Alcohols, Phenols and Ethers",
+      "Transition and Inner Transition Elements",
+      "Electrochemistry",
+      "Solutions",
+      "Chemical Kinetics"
+    ],
+    "majorityShare": 0.5174236361211159,
+    "rankings": [
+      {
+        "chapter": "Chemical Thermodynamics",
+        "known": 128,
+        "shared": 61,
+        "lower": 0.07224889955982389,
+        "upper": 0.10886354541816717,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "known": 123,
+        "shared": 79,
+        "lower": 0.06935774309723886,
+        "upper": 0.11556622649059614,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Electrochemistry",
+        "known": 111,
+        "shared": 60,
+        "lower": 0.06281846071762037,
+        "upper": 0.09839269040949705,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Transition and Inner Transition Elements",
+        "known": 107,
+        "shared": 38,
+        "lower": 0.06129451780712282,
+        "upper": 0.0838835534213685,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Halogen Derivatives",
+        "known": 107,
+        "shared": 46,
+        "lower": 0.0585500867013472,
+        "upper": 0.08594104308390013,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Solutions",
+        "known": 101,
+        "shared": 65,
+        "lower": 0.05681939442443644,
+        "upper": 0.0951747365612911,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "known": 88,
+        "shared": 66,
+        "lower": 0.0484126984126984,
+        "upper": 0.08703814859277037,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "known": 84,
+        "shared": 42,
+        "lower": 0.04815592903828197,
+        "upper": 0.07270574896625312,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "known": 55,
+        "shared": 27,
+        "lower": 0.03317326930772309,
+        "upper": 0.0493797519007603,
+        "years": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Ionic Equilibria",
+        "known": 61,
+        "shared": 18,
+        "lower": 0.03221288515406162,
+        "upper": 0.043017206882753095,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Solid State",
+        "known": 49,
+        "shared": 56,
+        "lower": 0.02962518340669601,
+        "upper": 0.06323862878484726,
+        "years": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Biomolecules",
+        "known": 50,
+        "shared": 60,
+        "lower": 0.028794851273842872,
+        "upper": 0.0643690809657196,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Elements of Groups 16, 17 and 18",
+        "known": 47,
+        "shared": 97,
+        "lower": 0.02863812191543284,
+        "upper": 0.08702147525676937,
+        "years": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Amines",
+        "known": 50,
+        "shared": 56,
+        "lower": 0.02829798586101107,
+        "upper": 0.06147125516873413,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Polymer Chemistry",
+        "known": 46,
+        "shared": 54,
+        "lower": 0.026670668267306925,
+        "upper": 0.058423369347739076,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Metallurgy (legacy)",
+        "known": 35,
+        "shared": 48,
+        "lower": 0.02028811524609844,
+        "upper": 0.048659463785514195,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Chemistry in Everyday Life (legacy)",
+        "known": 29,
+        "shared": 44,
+        "lower": 0.016686674669867948,
+        "upper": 0.042436974789915954,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "p-Block: Group 15 (legacy)",
+        "known": 24,
+        "shared": 18,
+        "lower": 0.014459116980125381,
+        "upper": 0.025423502734427103,
+        "years": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Nuclear Chemistry (legacy)",
+        "known": 23,
+        "shared": 2,
+        "lower": 0.011274509803921568,
+        "upper": 0.012254901960784314,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012
+        ]
+      },
+      {
+        "chapter": "Green Chemistry and Nanochemistry",
+        "known": 15,
+        "shared": 16,
+        "lower": 0.00900360144057623,
+        "upper": 0.018607442977190875,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Nitro Compounds (legacy)",
+        "known": 10,
+        "shared": 7,
+        "lower": 0.006002400960384154,
+        "upper": 0.01020408163265306,
+        "years": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2020
+        ]
+      },
+      {
+        "chapter": "Biomolecules: Lipids (legacy)",
+        "known": 9,
+        "shared": 12,
+        "lower": 0.004631852741096438,
+        "upper": 0.011394557823129252,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2017
+        ]
+      },
+      {
+        "chapter": "Gaseous State (legacy)",
+        "known": 2,
+        "shared": 0,
+        "lower": 0.000980392156862745,
+        "upper": 0.000980392156862745,
+        "years": [
+          2012
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "window": 10,
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 9,
+    "basis": "offered",
+    "totalMarks": 874,
+    "jointMarks": 229,
+    "majorityChapters": [
+      "Chemical Thermodynamics",
+      "Electrochemistry",
+      "Transition and Inner Transition Elements",
+      "Aldehydes, Ketones and Carboxylic Acids",
+      "Coordination Compounds",
+      "Halogen Derivatives",
+      "Elements of Groups 16, 17 and 18",
+      "Alcohols, Phenols and Ethers",
+      "Solutions"
+    ],
+    "majorityShare": 0.5524313429075339,
+    "rankings": [
+      {
+        "chapter": "Chemical Thermodynamics",
+        "known": 56,
+        "shared": 40,
+        "lower": 0.06439909297052153,
+        "upper": 0.10975056689342402,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Electrochemistry",
+        "known": 56,
+        "shared": 21,
+        "lower": 0.06419753086419751,
+        "upper": 0.08800705467372132,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Transition and Inner Transition Elements",
+        "known": 53,
+        "shared": 33,
+        "lower": 0.06099773242630383,
+        "upper": 0.09841269841269841,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "known": 52,
+        "shared": 47,
+        "lower": 0.05986394557823127,
+        "upper": 0.11315192743764171,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "known": 43,
+        "shared": 22,
+        "lower": 0.04925673973293019,
+        "upper": 0.07420005039052656,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Halogen Derivatives",
+        "known": 43,
+        "shared": 24,
+        "lower": 0.04925673973293019,
+        "upper": 0.0764676240866717,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "known": 41,
+        "shared": 21,
+        "lower": 0.04678760393046106,
+        "upper": 0.07059712773998486,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Solutions",
+        "known": 40,
+        "shared": 38,
+        "lower": 0.045855379188712506,
+        "upper": 0.08893927941546988,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Elements of Groups 16, 17 and 18",
+        "known": 38,
+        "shared": 69,
+        "lower": 0.043890148652053415,
+        "upper": 0.12242378432854623,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "known": 38,
+        "shared": 22,
+        "lower": 0.04348702443940538,
+        "upper": 0.06843033509700173,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Solid State",
+        "known": 32,
+        "shared": 42,
+        "lower": 0.036684303350970004,
+        "upper": 0.08430335097001763,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Biomolecules",
+        "known": 28,
+        "shared": 35,
+        "lower": 0.03214915595867976,
+        "upper": 0.07183169564121944,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Polymer Chemistry",
+        "known": 28,
+        "shared": 22,
+        "lower": 0.032048374905517756,
+        "upper": 0.05699168556311412,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Amines",
+        "known": 24,
+        "shared": 38,
+        "lower": 0.027714789619551518,
+        "upper": 0.07079868984630888,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Ionic Equilibria",
+        "known": 21,
+        "shared": 18,
+        "lower": 0.023809523809523808,
+        "upper": 0.044217687074829926,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Green Chemistry and Nanochemistry",
+        "known": 15,
+        "shared": 16,
+        "lower": 0.017006802721088433,
+        "upper": 0.03514739229024943,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Metallurgy (legacy)",
+        "known": 13,
+        "shared": 16,
+        "lower": 0.015041572184429327,
+        "upper": 0.033182161753590324,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Chemistry in Everyday Life (legacy)",
+        "known": 12,
+        "shared": 14,
+        "lower": 0.013907785336356764,
+        "upper": 0.02978080120937264,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "p-Block: Group 15 (legacy)",
+        "known": 9,
+        "shared": 11,
+        "lower": 0.010304862685815066,
+        "upper": 0.02307886117409927,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Nitro Compounds (legacy)",
+        "known": 3,
+        "shared": 0,
+        "lower": 0.003401360544217687,
+        "upper": 0.003401360544217687,
+        "years": [
+          2020
+        ]
+      },
+      {
+        "chapter": "Biomolecules: Lipids (legacy)",
+        "known": 0,
+        "shared": 3,
+        "lower": 0,
+        "upper": 0.003401360544217687,
+        "years": [
+          2017
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "window": 5,
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 5,
+    "basis": "offered",
+    "totalMarks": 490,
+    "jointMarks": 147,
+    "majorityChapters": [
+      "Electrochemistry",
+      "Coordination Compounds",
+      "Aldehydes, Ketones and Carboxylic Acids",
+      "Halogen Derivatives",
+      "Transition and Inner Transition Elements",
+      "Elements of Groups 16, 17 and 18",
+      "Chemical Thermodynamics",
+      "Ionic Equilibria"
+    ],
+    "majorityShare": 0.5244897959183679,
+    "rankings": [
+      {
+        "chapter": "Electrochemistry",
+        "known": 30,
+        "shared": 12,
+        "lower": 0.06122448979591836,
+        "upper": 0.0857142857142857,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Halogen Derivatives",
+        "known": 30,
+        "shared": 12,
+        "lower": 0.06122448979591835,
+        "upper": 0.08571428571428569,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "known": 29,
+        "shared": 35,
+        "lower": 0.059183673469387736,
+        "upper": 0.13061224489795917,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Transition and Inner Transition Elements",
+        "known": 29,
+        "shared": 26,
+        "lower": 0.059183673469387736,
+        "upper": 0.11224489795918365,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Chemical Thermodynamics",
+        "known": 27,
+        "shared": 26,
+        "lower": 0.05510204081632652,
+        "upper": 0.10816326530612243,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "known": 27,
+        "shared": 18,
+        "lower": 0.05510204081632651,
+        "upper": 0.09183673469387753,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "known": 23,
+        "shared": 15,
+        "lower": 0.046938775510204075,
+        "upper": 0.07755102040816324,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Solutions",
+        "known": 23,
+        "shared": 15,
+        "lower": 0.04693877551020407,
+        "upper": 0.07755102040816324,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Elements of Groups 16, 17 and 18",
+        "known": 21,
+        "shared": 37,
+        "lower": 0.04285714285714285,
+        "upper": 0.1183673469387755,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Ionic Equilibria",
+        "known": 21,
+        "shared": 18,
+        "lower": 0.04285714285714285,
+        "upper": 0.07959183673469387,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "known": 18,
+        "shared": 15,
+        "lower": 0.03673469387755102,
+        "upper": 0.0673469387755102,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Green Chemistry and Nanochemistry",
+        "known": 15,
+        "shared": 16,
+        "lower": 0.030612244897959183,
+        "upper": 0.06326530612244897,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Polymer Chemistry",
+        "known": 15,
+        "shared": 15,
+        "lower": 0.030612244897959183,
+        "upper": 0.06122448979591836,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Solid State",
+        "known": 13,
+        "shared": 28,
+        "lower": 0.026530612244897958,
+        "upper": 0.08367346938775509,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Amines",
+        "known": 12,
+        "shared": 15,
+        "lower": 0.024489795918367346,
+        "upper": 0.05510204081632651,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Biomolecules",
+        "known": 10,
+        "shared": 22,
+        "lower": 0.02040816326530612,
+        "upper": 0.06530612244897958,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics & Statistics",
+    "window": 20,
+    "years": [
+      2008,
+      2009,
+      2010,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 20,
+    "basis": "offered",
+    "totalMarks": 1986,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Vectors",
+      "Indefinite Integration",
+      "Line and Plane",
+      "Differentiation",
+      "Mathematical Logic",
+      "Trigonometric Functions",
+      "Differential Equations"
+    ],
+    "majorityShare": 0.5509284226272023,
+    "rankings": [
+      {
+        "chapter": "Vectors",
+        "known": 196,
+        "shared": 0,
+        "lower": 0.10097229945100135,
+        "upper": 0.10097229945100135,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Indefinite Integration",
+        "known": 174,
+        "shared": 0,
+        "lower": 0.08520877223209883,
+        "upper": 0.08520877223209883,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Line and Plane",
+        "known": 156,
+        "shared": 0,
+        "lower": 0.08043426503872753,
+        "upper": 0.08043426503872753,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Differentiation",
+        "known": 160,
+        "shared": 0,
+        "lower": 0.0773559367829145,
+        "upper": 0.0773559367829145,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Mathematical Logic",
+        "known": 138,
+        "shared": 0,
+        "lower": 0.07096579918080934,
+        "upper": 0.07096579918080934,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Trigonometric Functions",
+        "known": 133,
+        "shared": 0,
+        "lower": 0.06974789915966385,
+        "upper": 0.06974789915966385,
+        "years": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "known": 134,
+        "shared": 0,
+        "lower": 0.06624345078199034,
+        "upper": 0.06624345078199034,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Applications of Derivatives",
+        "known": 118,
+        "shared": 0,
+        "lower": 0.060585944536248805,
+        "upper": 0.060585944536248805,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Pair of Straight Lines",
+        "known": 112,
+        "shared": 0,
+        "lower": 0.05744273105327874,
+        "upper": 0.05744273105327874,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Matrices",
+        "known": 100,
+        "shared": 0,
+        "lower": 0.0514397706892636,
+        "upper": 0.0514397706892636,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Probability Distributions",
+        "known": 80,
+        "shared": 0,
+        "lower": 0.04097645022594314,
+        "upper": 0.04097645022594314,
+        "years": [
+          2009,
+          2010,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Definite Integration",
+        "known": 81,
+        "shared": 0,
+        "lower": 0.039712852522183165,
+        "upper": 0.039712852522183165,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2014,
+          2015,
+          2016,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Linear Programming",
+        "known": 68,
+        "shared": 0,
+        "lower": 0.03507749418499927,
+        "upper": 0.03507749418499927,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Conic Sections (legacy)",
+        "known": 65,
+        "shared": 0,
+        "lower": 0.032385834109972055,
+        "upper": 0.032385834109972055,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013
+        ]
+      },
+      {
+        "chapter": "Binomial Distribution",
+        "known": 60,
+        "shared": 0,
+        "lower": 0.03117647058823529,
+        "upper": 0.03117647058823529,
+        "years": [
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Continuity (legacy)",
+        "known": 55,
+        "shared": 0,
+        "lower": 0.027007956957247014,
+        "upper": 0.027007956957247014,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Applications of Definite Integration",
+        "known": 36,
+        "shared": 0,
+        "lower": 0.018581570559258187,
+        "upper": 0.018581570559258187,
+        "years": [
+          2013,
+          2014,
+          2016,
+          2017,
+          2018,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Circles (legacy)",
+        "known": 37,
+        "shared": 0,
+        "lower": 0.018433748149772493,
+        "upper": 0.018433748149772493,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012,
+          2013
+        ]
+      },
+      {
+        "chapter": "Boolean Algebra (legacy)",
+        "known": 24,
+        "shared": 0,
+        "lower": 0.009538950715421305,
+        "upper": 0.009538950715421305,
+        "years": [
+          2008,
+          2009,
+          2010
+        ]
+      },
+      {
+        "chapter": "Probability of Events (legacy)",
+        "known": 18,
+        "shared": 0,
+        "lower": 0.009538950715421305,
+        "upper": 0.009538950715421305,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2012
+        ]
+      },
+      {
+        "chapter": "Finite Differences (legacy)",
+        "known": 18,
+        "shared": 0,
+        "lower": 0.007154213036565978,
+        "upper": 0.007154213036565978,
+        "years": [
+          2008,
+          2009,
+          2010
+        ]
+      },
+      {
+        "chapter": "Limits (legacy)",
+        "known": 15,
+        "shared": 0,
+        "lower": 0.005961844197138315,
+        "upper": 0.005961844197138315,
+        "years": [
+          2008,
+          2009,
+          2010
+        ]
+      },
+      {
+        "chapter": "Correlation and Regression (legacy)",
+        "known": 6,
+        "shared": 0,
+        "lower": 0.0030425963488843813,
+        "upper": 0.0030425963488843813,
+        "years": [
+          2013
+        ]
+      },
+      {
+        "chapter": "Solids of Revolution (legacy)",
+        "known": 2,
+        "shared": 0,
+        "lower": 0.0010141987829614604,
+        "upper": 0.0010141987829614604,
+        "years": [
+          2013
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics & Statistics",
+    "window": 10,
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 9,
+    "basis": "offered",
+    "totalMarks": 1004,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Vectors",
+      "Trigonometric Functions",
+      "Indefinite Integration",
+      "Line and Plane",
+      "Applications of Derivatives",
+      "Differentiation"
+    ],
+    "majorityShare": 0.5334523809523807,
+    "rankings": [
+      {
+        "chapter": "Vectors",
+        "known": 106,
+        "shared": 0,
+        "lower": 0.10552818828680897,
+        "upper": 0.10552818828680897,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Trigonometric Functions",
+        "known": 95,
+        "shared": 0,
+        "lower": 0.09534756431308157,
+        "upper": 0.09534756431308157,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Indefinite Integration",
+        "known": 92,
+        "shared": 0,
+        "lower": 0.0917255062944718,
+        "upper": 0.0917255062944718,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Line and Plane",
+        "known": 88,
+        "shared": 0,
+        "lower": 0.0872632731253421,
+        "upper": 0.0872632731253421,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Applications of Derivatives",
+        "known": 77,
+        "shared": 0,
+        "lower": 0.07703201970443352,
+        "upper": 0.07703201970443352,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Differentiation",
+        "known": 77,
+        "shared": 0,
+        "lower": 0.07655582922824303,
+        "upper": 0.07655582922824303,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "known": 76,
+        "shared": 0,
+        "lower": 0.07578407224958951,
+        "upper": 0.07578407224958951,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Mathematical Logic",
+        "known": 70,
+        "shared": 0,
+        "lower": 0.06961138478379857,
+        "upper": 0.06961138478379857,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Pair of Straight Lines",
+        "known": 54,
+        "shared": 0,
+        "lower": 0.053568691844553915,
+        "upper": 0.053568691844553915,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Matrices",
+        "known": 52,
+        "shared": 0,
+        "lower": 0.051652983032293376,
+        "upper": 0.051652983032293376,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Probability Distributions",
+        "known": 50,
+        "shared": 0,
+        "lower": 0.04990695128626163,
+        "upper": 0.04990695128626163,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Definite Integration",
+        "known": 44,
+        "shared": 0,
+        "lower": 0.04392172961138478,
+        "upper": 0.04392172961138478,
+        "years": [
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Binomial Distribution",
+        "known": 41,
+        "shared": 0,
+        "lower": 0.0406896551724138,
+        "upper": 0.0406896551724138,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Linear Programming",
+        "known": 36,
+        "shared": 0,
+        "lower": 0.035916803503010394,
+        "upper": 0.035916803503010394,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Applications of Definite Integration",
+        "known": 24,
+        "shared": 0,
+        "lower": 0.023604269293924465,
+        "upper": 0.023604269293924465,
+        "years": [
+          2017,
+          2018,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Continuity (legacy)",
+        "known": 22,
+        "shared": 0,
+        "lower": 0.021891078270388616,
+        "upper": 0.021891078270388616,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics & Statistics",
+    "window": 5,
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 5,
+    "basis": "offered",
+    "totalMarks": 560,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Vectors",
+      "Indefinite Integration",
+      "Line and Plane",
+      "Trigonometric Functions",
+      "Differentiation",
+      "Applications of Derivatives"
+    ],
+    "majorityShare": 0.5428571428571417,
+    "rankings": [
+      {
+        "chapter": "Vectors",
+        "known": 60,
+        "shared": 0,
+        "lower": 0.10714285714285714,
+        "upper": 0.10714285714285714,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Indefinite Integration",
+        "known": 54,
+        "shared": 0,
+        "lower": 0.09642857142857145,
+        "upper": 0.09642857142857145,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Line and Plane",
+        "known": 50,
+        "shared": 0,
+        "lower": 0.08928571428571429,
+        "upper": 0.08928571428571429,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Trigonometric Functions",
+        "known": 50,
+        "shared": 0,
+        "lower": 0.08928571428571429,
+        "upper": 0.08928571428571429,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Differentiation",
+        "known": 47,
+        "shared": 0,
+        "lower": 0.08392857142857144,
+        "upper": 0.08392857142857144,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Applications of Derivatives",
+        "known": 43,
+        "shared": 0,
+        "lower": 0.07678571428571428,
+        "upper": 0.07678571428571428,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Differential Equations",
+        "known": 40,
+        "shared": 0,
+        "lower": 0.07142857142857144,
+        "upper": 0.07142857142857144,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Mathematical Logic",
+        "known": 40,
+        "shared": 0,
+        "lower": 0.07142857142857144,
+        "upper": 0.07142857142857144,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Matrices",
+        "known": 30,
+        "shared": 0,
+        "lower": 0.05357142857142858,
+        "upper": 0.05357142857142858,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Pair of Straight Lines",
+        "known": 30,
+        "shared": 0,
+        "lower": 0.05357142857142858,
+        "upper": 0.05357142857142858,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Definite Integration",
+        "known": 28,
+        "shared": 0,
+        "lower": 0.05,
+        "upper": 0.05,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Probability Distributions",
+        "known": 27,
+        "shared": 0,
+        "lower": 0.04821428571428572,
+        "upper": 0.04821428571428572,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Binomial Distribution",
+        "known": 23,
+        "shared": 0,
+        "lower": 0.04107142857142858,
+        "upper": 0.04107142857142858,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Linear Programming",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428572,
+        "upper": 0.03571428571428572,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Applications of Definite Integration",
+        "known": 18,
+        "shared": 0,
+        "lower": 0.03214285714285715,
+        "upper": 0.03214285714285715,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "window": 20,
+    "years": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 18,
+    "basis": "required-section",
+    "totalMarks": 1440,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Reading, Language Study, Notes & Summary"
+    ],
+    "majorityShare": 0.5243055555555556,
+    "rankings": [
+      {
+        "chapter": "Reading, Language Study, Notes & Summary",
+        "known": 755,
+        "shared": 0,
+        "lower": 0.5243055555555556,
+        "upper": 0.5243055555555556,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Written Communication",
+        "known": 327,
+        "shared": 0,
+        "lower": 0.2270833333333334,
+        "upper": 0.2270833333333334,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Poetry",
+        "known": 168,
+        "shared": 0,
+        "lower": 0.11666666666666661,
+        "upper": 0.11666666666666661,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Rapid Reading & Composition (legacy)",
+        "known": 104,
+        "shared": 0,
+        "lower": 0.07222222222222222,
+        "upper": 0.07222222222222222,
+        "years": [
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Novel",
+        "known": 80,
+        "shared": 0,
+        "lower": 0.05555555555555556,
+        "upper": 0.05555555555555556,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Printing-error credit (2023)",
+        "known": 6,
+        "shared": 0,
+        "lower": 0.004166666666666667,
+        "upper": 0.004166666666666667,
+        "years": [
+          2023
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "window": 10,
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 9,
+    "basis": "required-section",
+    "totalMarks": 720,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Reading, Language Study, Notes & Summary",
+      "Written Communication"
+    ],
+    "majorityShare": 0.7027777777777777,
+    "rankings": [
+      {
+        "chapter": "Reading, Language Study, Notes & Summary",
+        "known": 350,
+        "shared": 0,
+        "lower": 0.4861111111111111,
+        "upper": 0.4861111111111111,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Written Communication",
+        "known": 156,
+        "shared": 0,
+        "lower": 0.21666666666666665,
+        "upper": 0.21666666666666665,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Poetry",
+        "known": 96,
+        "shared": 0,
+        "lower": 0.13333333333333333,
+        "upper": 0.13333333333333333,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Novel",
+        "known": 80,
+        "shared": 0,
+        "lower": 0.11111111111111112,
+        "upper": 0.11111111111111112,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Rapid Reading & Composition (legacy)",
+        "known": 32,
+        "shared": 0,
+        "lower": 0.044444444444444446,
+        "upper": 0.044444444444444446,
+        "years": [
+          2017,
+          2018,
+          2019,
+          2020
+        ]
+      },
+      {
+        "chapter": "Printing-error credit (2023)",
+        "known": 6,
+        "shared": 0,
+        "lower": 0.008333333333333333,
+        "upper": 0.008333333333333333,
+        "years": [
+          2023
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "English",
+    "window": 5,
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 5,
+    "basis": "offered",
+    "totalMarks": 560,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Unseen Reading Comprehension",
+      "The Cop and the Anthem",
+      "Voyaging Towards Excellence",
+      "Around the World in Eighty Days",
+      "History of the Novel",
+      "Language Study / Grammar",
+      "Song of the Open Road",
+      "The Sign of Four",
+      "To Sir, with Love",
+      "Appeal",
+      "Blog Writing",
+      "Compering"
+    ],
+    "majorityShare": 0.514285714285713,
+    "rankings": [
+      {
+        "chapter": "Unseen Reading Comprehension",
+        "known": 60,
+        "shared": 0,
+        "lower": 0.10714285714285716,
+        "upper": 0.10714285714285716,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "The Cop and the Anthem",
+        "known": 24,
+        "shared": 0,
+        "lower": 0.042857142857142864,
+        "upper": 0.042857142857142864,
+        "years": [
+          2022,
+          2026
+        ]
+      },
+      {
+        "chapter": "Voyaging Towards Excellence",
+        "known": 24,
+        "shared": 0,
+        "lower": 0.042857142857142864,
+        "upper": 0.042857142857142864,
+        "years": [
+          2023,
+          2025
+        ]
+      },
+      {
+        "chapter": "Around the World in Eighty Days",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428572,
+        "upper": 0.03571428571428572,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "History of the Novel",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428572,
+        "upper": 0.03571428571428572,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Language Study / Grammar",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428572,
+        "upper": 0.03571428571428572,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Song of the Open Road",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428572,
+        "upper": 0.03571428571428572,
+        "years": [
+          2022,
+          2025
+        ]
+      },
+      {
+        "chapter": "The Sign of Four",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428572,
+        "upper": 0.03571428571428572,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "To Sir, with Love",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428572,
+        "upper": 0.03571428571428572,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Appeal",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Blog Writing",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Compering",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "E-mail Writing",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Expansion of Idea",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Group Discussion",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Interview",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Report Writing",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Review Writing",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Speech Writing",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Statement of Purpose",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Virtual Message",
+        "known": 20,
+        "shared": 0,
+        "lower": 0.03571428571428571,
+        "upper": 0.03571428571428571,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Mind Mapping",
+        "known": 15,
+        "shared": 0,
+        "lower": 0.026785714285714288,
+        "upper": 0.026785714285714288,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Summary Writing",
+        "known": 15,
+        "shared": 0,
+        "lower": 0.026785714285714288,
+        "upper": 0.026785714285714288,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "She Walks in Beauty",
+        "known": 14,
+        "shared": 0,
+        "lower": 0.025,
+        "upper": 0.025,
+        "years": [
+          2023,
+          2024
+        ]
+      },
+      {
+        "chapter": "Why We Travel",
+        "known": 12,
+        "shared": 0,
+        "lower": 0.02142857142857143,
+        "upper": 0.02142857142857143,
+        "years": [
+          2024
+        ]
+      },
+      {
+        "chapter": "Father Returning Home",
+        "known": 10,
+        "shared": 0,
+        "lower": 0.017857142857142856,
+        "upper": 0.017857142857142856,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "chapter": "Have You Earned Your Tomorrow",
+        "known": 8,
+        "shared": 0,
+        "lower": 0.014285714285714285,
+        "upper": 0.014285714285714285,
+        "years": [
+          2022,
+          2025
+        ]
+      },
+      {
+        "chapter": "The Inchcape Rock",
+        "known": 8,
+        "shared": 0,
+        "lower": 0.014285714285714285,
+        "upper": 0.014285714285714285,
+        "years": [
+          2023,
+          2024
+        ]
+      },
+      {
+        "chapter": "Printing-error credit (2023)",
+        "known": 6,
+        "shared": 0,
+        "lower": 0.010714285714285714,
+        "upper": 0.010714285714285714,
+        "years": [
+          2023
+        ]
+      },
+      {
+        "chapter": "Indian Weavers",
+        "known": 4,
+        "shared": 0,
+        "lower": 0.007142857142857143,
+        "upper": 0.007142857142857143,
+        "years": [
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Science I",
+    "window": 20,
+    "years": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 14,
+    "basis": "offered",
+    "totalMarks": 1316,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "C++ Programming",
+      "Operating System"
+    ],
+    "majorityShare": 0.6709726443768977,
+    "rankings": [
+      {
+        "chapter": "C++ Programming",
+        "known": 588,
+        "shared": 0,
+        "lower": 0.44680851063829746,
+        "upper": 0.44680851063829746,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Operating System",
+        "known": 295,
+        "shared": 0,
+        "lower": 0.22416413373860183,
+        "upper": 0.22416413373860183,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Data Structure",
+        "known": 223,
+        "shared": 0,
+        "lower": 0.16945288753799384,
+        "upper": 0.16945288753799384,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "HTML",
+        "known": 210,
+        "shared": 0,
+        "lower": 0.1595744680851062,
+        "upper": 0.1595744680851062,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Science I",
+    "window": 10,
+    "years": [
+      2017,
+      2018,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 8,
+    "basis": "offered",
+    "totalMarks": 752,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "C++ Programming",
+      "Operating System"
+    ],
+    "majorityShare": 0.6609042553191499,
+    "rankings": [
+      {
+        "chapter": "C++ Programming",
+        "known": 328,
+        "shared": 0,
+        "lower": 0.4361702127659574,
+        "upper": 0.4361702127659574,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Operating System",
+        "known": 169,
+        "shared": 0,
+        "lower": 0.22473404255319152,
+        "upper": 0.22473404255319152,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Data Structure",
+        "known": 129,
+        "shared": 0,
+        "lower": 0.17154255319148934,
+        "upper": 0.17154255319148934,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "HTML",
+        "known": 126,
+        "shared": 0,
+        "lower": 0.16755319148936165,
+        "upper": 0.16755319148936165,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Science I",
+    "window": 5,
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 5,
+    "basis": "offered",
+    "totalMarks": 470,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "C++ Programming",
+      "Operating System"
+    ],
+    "majorityShare": 0.6510638297872339,
+    "rankings": [
+      {
+        "chapter": "C++ Programming",
+        "known": 202,
+        "shared": 0,
+        "lower": 0.4297872340425534,
+        "upper": 0.4297872340425534,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Operating System",
+        "known": 104,
+        "shared": 0,
+        "lower": 0.22127659574468098,
+        "upper": 0.22127659574468098,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "HTML",
+        "known": 84,
+        "shared": 0,
+        "lower": 0.1787234042553191,
+        "upper": 0.1787234042553191,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Data Structure",
+        "known": 80,
+        "shared": 0,
+        "lower": 0.17021276595744686,
+        "upper": 0.17021276595744686,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Science II",
+    "window": 20,
+    "years": [
+      2011,
+      2012,
+      2013,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 13,
+    "basis": "offered",
+    "totalMarks": 1222,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Instruction Set and Programming of 8085",
+      "Introduction to Microprocessors and 8085"
+    ],
+    "majorityShare": 0.6620294599018001,
+    "rankings": [
+      {
+        "chapter": "Instruction Set and Programming of 8085",
+        "known": 564,
+        "shared": 0,
+        "lower": 0.46153846153846084,
+        "upper": 0.46153846153846084,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Microprocessors and 8085",
+        "known": 245,
+        "shared": 0,
+        "lower": 0.20049099836333883,
+        "upper": 0.20049099836333883,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Networking Technology",
+        "known": 236,
+        "shared": 0,
+        "lower": 0.19312602291325698,
+        "upper": 0.19312602291325698,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Microcontrollers",
+        "known": 104,
+        "shared": 0,
+        "lower": 0.08510638297872339,
+        "upper": 0.08510638297872339,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Intel x86 Family",
+        "known": 73,
+        "shared": 0,
+        "lower": 0.05973813420621931,
+        "upper": 0.05973813420621931,
+        "years": [
+          2011,
+          2012,
+          2013,
+          2015,
+          2016,
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Science II",
+    "window": 10,
+    "years": [
+      2017,
+      2018,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 8,
+    "basis": "offered",
+    "totalMarks": 752,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Instruction Set and Programming of 8085",
+      "Introduction to Microprocessors and 8085"
+    ],
+    "majorityShare": 0.6742021276595754,
+    "rankings": [
+      {
+        "chapter": "Instruction Set and Programming of 8085",
+        "known": 347,
+        "shared": 0,
+        "lower": 0.4614361702127662,
+        "upper": 0.4614361702127662,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Microprocessors and 8085",
+        "known": 160,
+        "shared": 0,
+        "lower": 0.2127659574468085,
+        "upper": 0.2127659574468085,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Networking Technology",
+        "known": 145,
+        "shared": 0,
+        "lower": 0.19281914893617022,
+        "upper": 0.19281914893617022,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Microcontrollers",
+        "known": 61,
+        "shared": 0,
+        "lower": 0.08111702127659573,
+        "upper": 0.08111702127659573,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Intel x86 Family",
+        "known": 39,
+        "shared": 0,
+        "lower": 0.05186170212765957,
+        "upper": 0.05186170212765957,
+        "years": [
+          2017,
+          2018,
+          2020,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Computer Science II",
+    "window": 5,
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "paperCount": 5,
+    "basis": "offered",
+    "totalMarks": 470,
+    "jointMarks": 0,
+    "majorityChapters": [
+      "Instruction Set and Programming of 8085",
+      "Introduction to Microprocessors and 8085"
+    ],
+    "majorityShare": 0.6680851063829782,
+    "rankings": [
+      {
+        "chapter": "Instruction Set and Programming of 8085",
+        "known": 221,
+        "shared": 0,
+        "lower": 0.47021276595744704,
+        "upper": 0.47021276595744704,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Microprocessors and 8085",
+        "known": 93,
+        "shared": 0,
+        "lower": 0.197872340425532,
+        "upper": 0.197872340425532,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Networking Technology",
+        "known": 91,
+        "shared": 0,
+        "lower": 0.19361702127659583,
+        "upper": 0.19361702127659583,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Microcontrollers",
+        "known": 37,
+        "shared": 0,
+        "lower": 0.07872340425531915,
+        "upper": 0.07872340425531915,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      {
+        "chapter": "Introduction to Intel x86 Family",
+        "known": 28,
+        "shared": 0,
+        "lower": 0.059574468085106386,
+        "upper": 0.059574468085106386,
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    ]
+  }
+]

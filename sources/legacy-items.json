@@ -1,0 +1,2648 @@
+[
+  {
+    "paperId": "971e07a83123",
+    "question": "1.1",
+    "marks": 1,
+    "text": "i. In body centred cubic structure, the space occupied is about _______.\n(A) 68 % (B) 53 %\n(C) 38 % (D) 32 %"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "1.2",
+    "marks": 1,
+    "text": "ii. For a gaseous reaction, the unit of rate of reaction is _______.\n(A) L atm s \u20131 (B) atm mol \u20131 s\u20131\n(C) atm s \u20131 (D) mol s"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "1.3",
+    "marks": 1,
+    "text": "iii. Which of the following compounds contains S = O as well as S = S bonds?\n(A) Sulphuric acid (B) Thiosulphuric acid\n(C) Sulphurous acid (D) Thiosulphurous acid"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "1.4",
+    "marks": 1,
+    "text": "iv. Which of the following solutions shows maximum depression in freezing point?\n(A) 0.5 M Li 2SO4 (B) 1 M NaCl\n(C) 0.5 M Al 2(SO4)3 (D) 0.5 M BaCl 2"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "1.5",
+    "marks": 1,
+    "text": "v. For a chemical reaction, \u2206S = \u2013 0.035 kJ/K and \u2206H = \u2013 20 kJ. At what temperature does the\nreaction turn non-spontaneous?\n(A) 5.14 K (B) 57.14 K\n(C) 571.4 K (D) 5714.0 K"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "1.6",
+    "marks": 1,
+    "text": "vi. The standard e.m.f of the following cell is 0.463 V\nCu | Cu++(1 M) || Ag+(1M) | Ag. If AgEo  = 0.800 V, \nWhat is the standard potential of Cu electrode? \n(A) 1.137 V (B) 0.337 V\n(C) 0.463 V (D) \u20130.463 V"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "1.7",
+    "marks": 1,
+    "text": "vii. Fe 2O3 is reduced to spongy iron near the top of blast furnace by _______.\n(A)\nH2 (B) CaO\n(C)\nSiO2 (D) CO"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "2.1",
+    "marks": 2,
+    "text": "i.\nDistinguish between crystalline solid and amorphous solid."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "2.2",
+    "marks": 2,
+    "text": "ii. State Kohlrausch Law and write mathematical expression of molar conductivity of the given\nsolution at infinite dilution."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "2.3",
+    "marks": 2,
+    "text": "iii. Write cell reactions in lead storage battery during discharge."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "2.4",
+    "marks": 2,
+    "text": "iv. Draw structures and write geometry of PCl 3 and PCl5."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "2.5",
+    "marks": 2,
+    "text": "v. Prove that \u2206 H = \u2206 U + \u2206nRT. What is the condition under which \u2206U = \u2206H?"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "2.6",
+    "marks": 2,
+    "text": "vi. Mention names and formulae of two ores of aluminium."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "2.7",
+    "marks": 2,
+    "text": "vii. Derive the relationship between relative lowering of vapour pressure and molar mass of\nnon-volatile solute."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "2.8",
+    "marks": 2,
+    "text": "viii. What is pseudo first order reaction? Give one example of it."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "3.1",
+    "marks": 3,
+    "text": "i. Calculate the mole fraction and molality of HNO 3 in a solution containing 12.2 % HNO3.\n(Given \u2013 a\ntomic masses : H = 1, N = 14, O = 16)"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "3.2",
+    "marks": 3,
+    "text": "ii. Consider the reaction,\n2 2\n(aq) 2 8 3(aq) 4(aq)3I S O I 2SO\u2212 \u2212 \u2212 \u2212+ \uf8e7\uf8e7 \u2192 +\nAt par\nticular time t, \n2\n4d SO\ndt\n\u2212\uf8ee \uf8f9\uf8f0 \uf8fb  = 2.2 \u00d7 10\u20132 M/s.\nWhat\n are the values of the following at the same time? \na. \u2013\nd I\ndt\n\u2212\uf8ee \uf8f9\uf8f0 \uf8fb b. \u2013\n2\n2 8d S O\ndt\n\u2212\uf8ee \uf8f9\uf8f0 \uf8fb c. \u2013\n3d I\ndt\n\u2212\uf8ee \uf8f9\uf8f0 \uf8fb"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "3.3",
+    "marks": 3,
+    "text": "iii. 300 M mol of perfect gas occupies 13 L at 320 K. Calculate the work done in joules when the\ngas expands \u2013\na. isothermally against a constant external pressure of 0.20 atm.\nb. isothermal and reversible process.\nc. into vaccum until the volume of gas is increased by 3 L. (R = 8.314 J mol \u20131 K\u20131)"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "3.4",
+    "marks": 3,
+    "text": "iv. What is the action of the following reagents on ammonia?\na.\nExcess of air\nb. Excess of chlorine\nc. Na metal"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "4.1",
+    "marks": 7,
+    "text": "i.\na. Explain with reason sign conventions of \u2206S in the following reactions : \n1. N 2(g) + 3H2(g) \uf8e7\u2192 2NH3(g) \n2. \nCO2(g) \uf8e7\u2192 CO2(s) \nb.\nExplain the following terms:\n1.\nSmelting\n2. Flux\nc. Gold occurs as face centred cube and has a density of 19.30 kg dm \u20133. Calculate atomic\nradi\nus of gold. (Molar mass of Au = 197)"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "4.2",
+    "marks": 7,
+    "text": "ii. a. Explain the trends in the following properties with reference to group 16:\n1.\nAtomic radii and ionic radii\n2. Density\n3. ionisation enthalpy\n4. Electronegativity\nb. In the electrolysis of AgNO 3 solution 0.7g of Ag is deposited after a certain period of\ntime. Calcu\nlate the quantity of electricity required in coulomb.\n(Molar mass of Ag is 107.9 g mol\u20131).\nc.\nDefine Osmosis.\n\n\nSECTION \u2013 II"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "5.1",
+    "marks": 1,
+    "text": "i. In which of the following pairs, highest oxidation states of transition metals are found?\n(A) nitriles and chlorides (B) fluorides and chlorides\n(C) fluorides and oxides (D) nitriles and oxides"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "5.2",
+    "marks": 1,
+    "text": "ii. Which of the following carbocations is least stable?\n \n(A)   (B) \n(C)    (D)"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "5.3",
+    "marks": 1,
+    "text": "iii. Compound having general formula             is called _______.        \n(A) diester (B) acid anhydride\n(C) hemiacetal (D) acetal"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "5.4",
+    "marks": 1,
+    "text": "iv. The complex ion [Co(H 2O)5 (ONO)]2+ and [Co(H2O)5NO2)]2+ are called _______.\n(A) linkage isomer (B) ionisation isomer\n(C) co-ordination isomer (D) geometrical isomer"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "5.5",
+    "marks": 1,
+    "text": "v. Inflammation of tongue is due to the deficiency of _______.\n(A) vitamin B 1 (B) vitamin B 2 \n(C) vitamin B 5 (D) vitamin B 6"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "5.6",
+    "marks": 1,
+    "text": "vi. Identify the compound \u2018B\u2019 in the following series of reaction:\npropanenitrile Na /alc\uf8e7\uf8e7\uf8e7 \u2192A \nNaNO2\ndil.HCl\uf8e7\uf8e7\uf8e7 \u2192B. \n(A) n-propyl chloride (B) Propanamine\n(C) n-propyl alcohol (D) Isopropyl alcohol"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "5.7",
+    "marks": 1,
+    "text": "vii. Which of the following reagents is best for the following conversion?\n(A) LiAlH 4 (B) H 3O+\n(C) H 2/ Ni, 453 K (D) Zn \u2013 Hg + HCl (con)\nC\nH3 \u2212 CH2 \u2212 C\nCH2 \u2013 CH3\nCH2 \u2013 CH3\n+\nCH3 \u2212 CH2 \u2212 CH \u2212 CH2 \u2212 CH3 \n+\nCH3 \u2212 CH2 \u2212  CH2\n+ CH3 \u2212 CH2 \u2212  CH \u2212 C \u2013 CH3\nCH3\n+\nH\nO\nH OH\n\uf8e7\u2192\nC\nR OR\nH OR"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "6.1",
+    "marks": 2,
+    "text": "i. Calculate magnetic moment of 2\n(aq)Fe +  ion (Z = 26)."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "6.2",
+    "marks": 2,
+    "text": "ii. How is ethanol prepared from methanal by using Grignard reagent?"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "6.3",
+    "marks": 2,
+    "text": "iii. Write the chemical reaction to prepare novolac polymer."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "6.4",
+    "marks": 2,
+    "text": "iv. Why does p-nitrochlorobenzene undergo displacement reactions readily with attack of\nnucleophilic           ion?"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "6.5",
+    "marks": 2,
+    "text": "v. What is the action of bromine in alkaline medium  on\na.\nCH3CH2NO2 b."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "6.6",
+    "marks": 2,
+    "text": "vi. Define antioxidants and mention two examples."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "6.7",
+    "marks": 2,
+    "text": "vii. How is 4-methylpent-3-en-2-one obtained from propan-2-one?"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "6.8",
+    "marks": 2,
+    "text": "viii. What are hormones? Write the structure of simple triglyceride s."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "7.1",
+    "marks": 3,
+    "text": "i. Write the different oxidation states of manganese. Why +2 oxidation state of manganese is\nmore stable?"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "7.2",
+    "marks": 3,
+    "text": "ii. How are the following compounds prepared?\na. benzaldehyde from benzene\nb. acetophenone from benzene\nc. benzaldehyde from benzoyl chloride"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "7.3",
+    "marks": 3,
+    "text": "iii. Define complex lipids and write the structures of nucleotide and nucleoside."
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "7.4",
+    "marks": 3,
+    "text": "iv. Write the formulae of the following compounds:\na. Sodium hexanitrito \u2013 N \u2013 cobaltate (III)\nb. Tetraaquodichlorochromium (III) chloride\nc. Potassium tetracyanoaurate (III) i on"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "8.1",
+    "marks": 7,
+    "text": "i. a. Explain the following terms: \n1. Homopolymers\n2. Elastomers\nb. Explain the mechanism of cleansing action of soaps.\nc. Write balanced chemical equations for the action of\n1. phosphorus trichloride on propan-2-ol\n2. hydrogen bromide on styrene in the presence of a peroxide\n3. methyl bromide on silver propanoate"
+  },
+  {
+    "paperId": "971e07a83123",
+    "question": "8.2",
+    "marks": 7,
+    "text": "ii. a. Write a short note on Hoffmann bromamide degradation.  \nb. Explain the mechanism of action of hydroiodic acid on 3-methylbutan-2-ol.\nc. Mention \u2018two\u2019 uses of propan-2-one.\nHO \u2013\nCH3\nCH3 \u2013 CH \u2013 NO2"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "1.1",
+    "marks": 7,
+    "text": "i. What is \u2018boiling point\u2019?\nDerive a relation between \u2206H and \u2206U for a chemical reaction.\nDraw neat labelled diagram of calomel electrode.\nResistance and conductivity of a cell containing 0.001 M KCl solution at 298 K are 1500 \u2126\nand 1.46 \u00d7 10\n\u22124 S. cm\u22121 respectively. What is the cell constant?"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "1.2",
+    "marks": 7,
+    "text": "ii. Write molecularity of the following reaction:\n2NO(g)  + O2 (g) \uf8e7\u2192  2NO2 (g)\nWhat is \u2018calcination\u2019? How does it differ from \u2018roasting\u2019?\nWrite resonating structures of ozone.\nThe decomposition of N2O5(g) at 320 K according to the following equation follows first order\nreaction:\nN2O5(g) \u2192 2NO2(g) + 1\n2 O2(g)\nThe\n initial concentration of N 2O5(g) is 1.24 \u00d7  10\u20132 mol. L \u20131 and after 60 minutes, 0.20 \u00d7  10\u20132\nmol. L\u20131. Calculate the rate constant of the reaction at 320 K."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "2.1",
+    "marks": 3,
+    "text": "i. One mole of a gas expands by 3 L against a constant pressure of 3 atmosphere . Calculate the\nwork done in:\na. L. atmosphere\nb. Joules\nc. Calories"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "2.2",
+    "marks": 3,
+    "text": "ii. Calculate the amount of CaCl 2 (van\u2019t Hoff factor i = 2.47) dissolved in 2.5 L solution so that\nits \nosmotic pressure at 300 K is 0.75 atmosphere.\nGiven: Molar mass of CaCl2 is 111 g. mol\u20131.\n  R = 0.082 L. \natm. K\u20131 mol\u20131"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "2.3",
+    "marks": 3,
+    "text": "iii. Describe anomalous behaviour of fluorine with the other elements  of group 17 with reference\nto:\na. Hydrogen bonding\nb. Oxidation state\nc. Polyhalide ions"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "2.4",
+    "marks": 3,
+    "text": "iv. Face centred cubic crystal lattice of copper has density of 8.966 g. cm \u20133. Calculate the volume\nof the unit cell.\nGiven: Molar mass of copper is 63.5 g. mol\u20131 and Avogadro number NA is 6.022 \u00d7 1023 mol\u20131."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "3.1",
+    "marks": 2,
+    "text": "i. What is the action of the following reagents on ammonia:\na. Nessler\u2019s reagent\nb. Sodium metal"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "3.2",
+    "marks": 2,
+    "text": "ii. State the first and second law of electrolysis."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "3.3",
+    "marks": 2,
+    "text": "iii. Draw neat and labelled diagram of Bessemer converter used in the extract ion of copper."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "3.4",
+    "marks": 2,
+    "text": "iv. Derive the relation between half-life period and rate constant for first order reaction."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "3.5",
+    "marks": 2,
+    "text": "v. Derive the relation between \u2206G\u00b0 a nd equilibrium constant (K) for the reaction,\naA + bB \u0001  cC + dD."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "3.6",
+    "marks": 2,
+    "text": "vi. Explain brown ring test with the help of chemical equation."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "3.7",
+    "marks": 2,
+    "text": "vii. Explain, why do aquatic animals prefer to stay at lower level of water during su mmer?"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "3.8",
+    "marks": 2,
+    "text": "viii. Distinguish between:\nCrystalline solids and Amorphous solids."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "4.1",
+    "marks": 1,
+    "text": "i. To prepare n-type semiconductor, the impurity to be added to silic on should have the\nfollowing number of valence electrons _______.\n(A) 2\n(B) 3 \n(C) 4\n(D) 5"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "4.2",
+    "marks": 1,
+    "text": "ii. Number of faradays  of electricity required to liberate 12 g of hydrogen is __ _____.\n(A) 1\n(B) 8 \n(C) 12 (D) 16"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "4.3",
+    "marks": 1,
+    "text": "iii. What is molecular formula of oleum?\n(A) H 2SO3 (B) H 2SO4 \n(C) H 2S2O7 (D) H 2S2O8"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "4.4",
+    "marks": 1,
+    "text": "iv. Purification of aluminium by electrolytic refining is carried out by _______.\n(A) Hoope process (B) Hall Process \n(C) Baeyer process (D) Serperck process"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "4.5",
+    "marks": 1,
+    "text": "v. The rate of reaction for certain reaction is expressed as:\n1\n3\n[ ]d A\nd t = \u2013 1\n2\n[ ]d B\nd t  = \u2013 [ ]d C\nd t \nThe reaction is _______. \n(A) 3A \uf8e7\u2192 2B + C (B) 2B \uf8e7\u2192 3A + C \n(C) 2B + C \uf8e7\u2192 3A (D) 3A + 2B \uf8e7\u2192 C"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "4.6",
+    "marks": 1,
+    "text": "vi. A system absorbs 640 J heat and does work of 260 J, the change in internal energy of the\nsystem will be _______.\n(A) + 380 J (B) \u2013 380 J\n(C) + 900 J (D) \u2013 900 J"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "4.7",
+    "marks": 1,
+    "text": "vii. Which of the following is \u2018not\u2019 a colligative property?\n(A) Vapour pressure (B) Depression in freezing point \n(C) Elevation in boiling point (D) Osmotic pressure\n\n\nSECTION \u2013 II"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "5.1",
+    "marks": 7,
+    "text": "i. Write the structural formula and IUPAC names of all possible isomers of the compound with\nmolecular formula C3H8O.\nWri\nte \u2018two\u2019 uses of phenol.\nWhat happens when glucose is treated with:\na. Bromine water\nb. Dilute nitric acid\nc. Hydrogen cyanide (HCN)"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "5.2",
+    "marks": 7,
+    "text": "ii. Write the molecular formula and  structural formula of BHA and BHT.\nWhat\n are thermoplastic polymers?\nWrite a note on aldol condensation."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "6.1",
+    "marks": 3,
+    "text": "i. What is the action of the following reagents on aniline?\na.\nBromine water\nb. Acetic anhydride\nc. Hot and conc. sulphuric acid"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "6.2",
+    "marks": 3,
+    "text": "ii. Discuss the optical activity of lactic acid."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "6.3",
+    "marks": 3,
+    "text": "iii. Write balanced chemical equations for action of potassium permanganate on :\na. Hydrogen\nb. Warm conc. sulphuric acid\nExplain why Mn2+ ion is more stable than Mn3+ ?\n(Given: \nMn \u2192 Z = 25)"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "6.4",
+    "marks": 3,
+    "text": "iv. What is effective atomic number (EAN)?\nCalcu\nlate EAN of cobalt (Z = 27) in [Co(NH3)6]+3 and of zinc (Z = 30) in [Zn(NH3)4]SO4."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "7.1",
+    "marks": 2,
+    "text": "i.\nWhat is a \u2018soap\u2019? How is it prepared?"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "7.2",
+    "marks": 2,
+    "text": "ii. Identify the compounds \u2018A\u2019 and \u2018B\u2019 in the following equation:\nCH3 \u2013 CH3 + HNO3 423 600K\u2212\uf8e7\uf8e7\uf8e7\uf8e7 \u2192\u2018A\u2019 Sn /conc.HCl\uf8e7\uf8e7\uf8e7\uf8e7 \uf8e7 \u2192\u2018B\u2019 + H2O"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "7.3",
+    "marks": 2,
+    "text": "iii. Write a note on self oxidation-reduction reaction of aldehyde with suitab le example."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "7.4",
+    "marks": 2,
+    "text": "iv. Write names and chemical formulae of monomers used in preparing Buna\u2013S."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "7.5",
+    "marks": 2,
+    "text": "v. Define complex lipids. Mention \u2018two\u2019 functions of lipids."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "7.6",
+    "marks": 2,
+    "text": "vi. Distinguish between S N\n1 and SN\n2 mechanisms."
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "7.7",
+    "marks": 2,
+    "text": "vii.\nWhat are lanthanoids? What is the position of actinoids in periodic table ?"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "7.8",
+    "marks": 2,
+    "text": "viii. How is methoxyethane prepared from:\na.\nMethyl iodide\nb. Diazomethane"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "8.1",
+    "marks": 1,
+    "text": "i. IUPAC name of K 4[Fe(CN)6] is _______.\n(A) tetrapotassium ferrocyanide (B) potassium ferricyanide \n(C) potassium ferrocyanide (D) potassium hexacyanoferrate"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "8.2",
+    "marks": 1,
+    "text": "ii. Carbon atom in methyl carbocation contains how many pairs of electrons?\n(A) 8\n(B) 4 \n(C) 3\n(D) 5"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "8.3",
+    "marks": 1,
+    "text": "iii. How many moles of acetic anhydride will be required to form glucose pentaac etate from 2 M\nof glucose?\n(A) 2\n(B) 5 \n(C) 10 (D) 2.5"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "8.4",
+    "marks": 1,
+    "text": "iv. Identify the weakest base amongst the following _______.\n(A) p-methoxyaniline (B) o-toluidine\n(C) benzene-1,4-diamine (D) 4-aminobenzoic acid"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "8.5",
+    "marks": 1,
+    "text": "v. Bakelite is the polymer of _______.\n(A) Benzaldehyde and phenol (B) Acetaldehyde and phenol \n(C) Formaldehyde and phenol (D) Formaldehyde and benzyl alcohol"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "8.6",
+    "marks": 1,
+    "text": "vi. Formalin is 40% aqueous solution of _______.\n(A) Methanal (B) Methanoic acid \n(C) Methanol (D) Methanamine"
+  },
+  {
+    "paperId": "05bf0da8ea6d",
+    "question": "8.7",
+    "marks": 1,
+    "text": "vii. Which among the following pairs of elements is \u2018not\u2019 an example of chem ical twins?\n(A) Zr and Hf (B) Nb and Ta \n(C) Mo and W (D) Ta and Re"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "1.1",
+    "marks": 1,
+    "text": "i. p-type semi-conductors are made by mixing silicon with impurities of _______.\n(A) germanium (B) boron\n(C) arsenic (D) antimony"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "1.2",
+    "marks": 1,
+    "text": "ii. Amongst the following, identify the criterion for a process to be at equilibrium.\n(A) \u2206G < 0 (B) \u2206G > 0\n(C) \u2206Stotal = 0 (D) \u2206S < 0"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "1.3",
+    "marks": 1,
+    "text": "iii. Colligative property depends only on  _______ in a solution.\n(A) number of solute particles (B) number of solvent particles\n(C) nature of solute particles (D) nature of solvent particles"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "1.4",
+    "marks": 1,
+    "text": "iv. The charge of how many coulombs is required to deposit 1.0 g of sodium metal (molar mass\n23.0 g mol\u22121) from sodium ions?\n(A) 2098 C (B) 96500 C\n(C) 193000 C (D) 4196 C"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "1.5",
+    "marks": 1,
+    "text": "v. What is the chemical composition of malachite?\n(A) CuO.CuCO 3 (B) Cu(OH) 2.CuCO3\n(C) CuO.Cu(OH) 2 (D) Cu 2O.Cu(OH)2"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "1.6",
+    "marks": 1,
+    "text": "vi. The element that does NOT exhibit allotropy is _______.\n(A) As (B) Sb\n(C) Bi (D) N"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "1.7",
+    "marks": 1,
+    "text": "vii. The integrated rate equation for first order reaction A \u2192 products is _______ .\n(A) k = 2.303 t log 10\n[ ]\n[ ]\n0\nt\nA\nA (B) k = \u2212 [ ]\n[ ]\nt\n0\nA1 lnt A\n(C) k = 2.303\nt log10 [ ]\n[ ]\nt\n0\nA\nA (D) k = 1 lnt\n[ ]\n[ ]\nt\n0\nA\nA"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "2.1",
+    "marks": 2,
+    "text": "i. Define the following terms:\na. Enthalpy of fusion\nb. Enthalpy of atomization"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "2.2",
+    "marks": 2,
+    "text": "ii. Derive van\u2019t Hoff general solution equation."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "2.3",
+    "marks": 2,
+    "text": "iii. Explain impurity defect in stainless steel with diagram."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "2.4",
+    "marks": 2,
+    "text": "iv. Derive the relation between half life and rate constant for a first ord er reaction."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "2.5",
+    "marks": 2,
+    "text": "v. Draw neat and labelled diagram of dry cell."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "2.6",
+    "marks": 2,
+    "text": "vi. Explain the structure of sulphur dioxide."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "2.7",
+    "marks": 2,
+    "text": "vii. What is calcination? Explain it with reactions."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "2.8",
+    "marks": 2,
+    "text": "viii. Arrange the following reducing agents in the order of increasing strength under standard state\nconditions. Justify the answer.\nElement Al (s) Cu (s) (aq)Cl\u2212 Ni(s) \nEo \u22121.66 V 0.34 V 1.36 V \u22120.26 V"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "3.1",
+    "marks": 3,
+    "text": "i. Determine whether the reactions with the following \u2206H and \u2206S values are spontaneous or\nnon-spontaneous. State whether the reactions are exothermic or endothermic.\na. \u2206H = \u2212 110 kJ, \u2206S = + 40 J K\u22121 at 400 K\nb. \u2206H = + 40 kJ, \u2206S = \u2212 120 J K\u22121 at 250 K"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "3.2",
+    "marks": 3,
+    "text": "ii. 1.0 \u00d7 10\u22123 kg of urea when dissolved in 0.0985 kg of a solvent, decreases freezing point of the\nsolvent by 0.211 K. 1.6 \u00d7 10 \u22123 kg of another non-electrolyte solute when dissolved in\n0.086 kg of the same solvent depresses the freezing point by 0.34 K. Calculate the molar\nmass of the another solute.\n(Given molar mass of urea = 60)"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "3.3",
+    "marks": 3,
+    "text": "iii. Sucrose decomposes in acid solution into glucose and fructose according to the first order\nrate law with t1/2 = 3 hours. What fraction of the sample of sucrose remains after 8 hours?"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "3.4",
+    "marks": 3,
+    "text": "iv. Explain how does nitrogen exhibit anomalous behaviour amongst group 15 elements."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "4.1",
+    "marks": 7,
+    "text": "i. Niobium crystallises as body centred cube (BCC) and has density of 8.55 kg dm \u22123. Calculate\nthe atomic radius of niobium.\n(Given: Atomic mass of niobium = 93)\nWrite one statement of first law of thermodynamics and its mathematical expression.\nWrite the reactions involved in the zone of reduction in blast furnace during extraction of\niron."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "4.2",
+    "marks": 7,
+    "text": "ii. Write molecular formulae and structures of the following compounds:\na.\nDithionic acid\nb.\nPeroxymonosulphuric acid\nc.\nPyrosulphuric acid\nd.\nDithionous acid\nCalculate Ecell and \u2206G for the following at 28 \u00b0C: \nMg(s) + Sn2+ (0.04 M) \u2192 Mg2+ (0.06 M) + Sn(s)\no\ncellE = 2.23 V \nIs the reaction spontaneous? \n\n\nSECTION \u2013 II"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "5.1",
+    "marks": 1,
+    "text": "i. Identify the product \u2018D\u2019 in the following sequence of reactions:\nH3C \u2212 CH2 \u2212 CH2 \u2212 Cl Alc.KOH\n\u2206\uf8e7\uf8e7\uf8e7\uf8e7 \u2192 \u2018B\u2019 HBr\uf8e7\uf8e7 \uf8e7 \u2192 \u2018C\u2019 Na\nEther\uf8e7\uf8e7\uf8e7 \u2192 \u2018D\u2019 \n(A) 2,2-dimethylbutane (B) 2,3-dimethylbutane\n(C) hexane (D) 2,4-dimethylpentane"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "5.2",
+    "marks": 1,
+    "text": "ii. Which of the following complexes will give a white precipitate on trea tment with a solution\nof\n barium nitrate?\n(A) [Cr(NH 3)4SO4]Cl (B) [Co(NH 3)4Cl2]NO2\n(C) [Cr(NH 3)4Cl2]SO4 (D) [CrCl 2(H2O)4]Cl"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "5.3",
+    "marks": 1,
+    "text": "iii. What is the geometry of chromate ion?\n(A) Tetrahedral (B) Octahedral\n(C) Trigonal planar (D) Linear"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "5.4",
+    "marks": 1,
+    "text": "iv. Primary and secondary nitroalkanes containing \u03b1- H atom show property of ________.\n(A) chain isomerism (B) tautomerism\n(C) optical isomerism (D) geometrical isomerism"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "5.5",
+    "marks": 1,
+    "text": "v. In phenol carbon atom attached to \u2212OH g roup undergoes ________.\n(A) sp 3 hybridisation (B) sp hybridisation\n(C) sp 2 hybridisation (D) no hybridisation"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "5.6",
+    "marks": 1,
+    "text": "vi. Identify the strongest acid amongst the following.\n(A) Chloroacetic acid (B) Acetic acid\n(C) Trichloroacetic acid (D) Dichloroacetic acid"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "5.7",
+    "marks": 1,
+    "text": "vii. Which of the following vitamins is water soluble?\n(A) A\n(B) D\n(C) E\n(D) B"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "6.1",
+    "marks": 2,
+    "text": "i. Write a note on Friedel Craft\u2019s acylation."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "6.2",
+    "marks": 2,
+    "text": "ii. How is ethylamine prepared from methyl iodide?"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "6.3",
+    "marks": 2,
+    "text": "iii. What are antibiotics? Give \u2018two\u2019 examples."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "6.4",
+    "marks": 2,
+    "text": "iv. Explain, why are boiling points of carboxylic acids higher than corresponding alcohols."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "6.5",
+    "marks": 2,
+    "text": "v. How are proteins classified on the basis of molecular shapes?"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "6.6",
+    "marks": 2,
+    "text": "vi. What are interstitial compounds? Why do these compounds have higher melting points t han\nc\norresponding pure metals?"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "6.7",
+    "marks": 2,
+    "text": "vii. Write the structures and IUPAC names of the following compounds:\na. Adipic acid\nb. \u03b1-methyl butyraldehyde"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "6.8",
+    "marks": 2,
+    "text": "viii. Explain with examples, branched and linear polymers."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "7.1",
+    "marks": 3,
+    "text": "i. On the basis of valence bond theory explain the nature of bonding in [CoF 6]3\u2212 ion.\nWrite the IUPAC name of [Co(NO2)3 (NH3)3]."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "7.2",
+    "marks": 3,
+    "text": "ii. Define lanthanoid contraction. Explain its effects."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "7.3",
+    "marks": 3,
+    "text": "iii. Write mechanism of Aldol addition reaction."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "7.4",
+    "marks": 3,
+    "text": "iv. Define carbohydrates. What are reducing and non-reducing sugars?"
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "8.1",
+    "marks": 7,
+    "text": "i. Write a note on Gabriel phthalimide synthesis.\nWhat\n are biodegradable polymers and non-biodegradable polymers? Write \u2018one example\u2019 of\neach.\nExplain cationic detergents."
+  },
+  {
+    "paperId": "fef3b9a9ebdd",
+    "question": "8.2",
+    "marks": 7,
+    "text": "ii. How is carbolic acid prepared from the following compounds:\na.\nAniline\nb. Chlorobenzene and steam at 698 K?\nDraw structure of DDT. Write its environmental effects.\nMention \u2018two\u2019 physical properties of carbolic acid."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "1.1",
+    "marks": 2,
+    "text": "i. What is ferromagnetism? Iron (Z = 26) is strongly ferromagnetic. Explain."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "1.2",
+    "marks": 2,
+    "text": "ii. Define boiling point. Write the formula to determine molar mass of a solute using freezing\npoint depression method."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "1.3",
+    "marks": 2,
+    "text": "iii. Write mathematical equations of first law of thermodynamics for the following processes:\na. Adiabatic process\nb. Isochoric process"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "1.4",
+    "marks": 2,
+    "text": "iv. Explain graphical method to determine activation energy of a reaction."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "1.5",
+    "marks": 2,
+    "text": "v. Write the names and chemical formulae of any one ore of iron and zinc each."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "1.6",
+    "marks": 2,
+    "text": "vi. What is the action of\na. Sodium on arsenic?\nb. Magnesium on bismuth?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "1.7",
+    "marks": 2,
+    "text": "vii. Define enthalpy of sublimation. How is it related to enthalpy of fusion and enthalpy of\nvaporization?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "1.8",
+    "marks": 2,
+    "text": "viii. What are Ellingham diagrams? Write any two features of it."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "2.1",
+    "marks": 3,
+    "text": "i. Silver crystallises in fcc structure. If density of silver is 10.51 g cm\n\u22123, calculate the volume of\nunit cell.\n[Atomic mass of silver (Ag) = 108 g mol\u22121]"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "2.2",
+    "marks": 3,
+    "text": "ii. The vapour pressure of pure benzene is 640 mm of Hg. 2.175 \u00d7 10\u22123 kg of non-volatile solute\nis added to 39 g of benzene, the vapour pressure of solution is 600 mm of Hg. Calculate\nmolar mass of solute (C = 12, H = 1)."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "2.3",
+    "marks": 3,
+    "text": "iii. Calculate C \u2212Cl bond enthalpy from the following reaction:\nCH3Cl(g) + Cl2(g) \uf8e7\u2192 CH2Cl2(g) + HCl(g) ; \u2206H\u00b0 = \u2212 104 kJ\nIf C\u2212H, Cl\u2212Cl and H\u2212Cl bond enthalpies are 414, 243 and 431 kJ mol\u22121 respectively."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "2.4",
+    "marks": 3,
+    "text": "iv. Define cell constant. Draw a neat and well labelled diagram of primary reference electrode."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "3.1",
+    "marks": 7,
+    "text": "i. Write four points of differences between properties of nitrogen and other elements of\ngroup 15.\nExplain the structure of ClF3.\nConductivity of a solution is 6.23 \u00d7 10 \u22125 \u2126\u22121cm\u22121 and its resistance is 13710 \u2126. If the\nelectrodes are 0.7 cm apart, calculate the cross-sectional area of the electrode.\nWhy is molality of a solution independent of the temperature?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "3.2",
+    "marks": 7,
+    "text": "ii. What are neutral oxides? Explain the nature of zinc oxide with the help of the reactions.\nDefine \u2018molar conductivity\u2019 and \u2018zero order reaction\u2019.\nIn a first order reaction x \u2192 y, 40% of the given sample of compound remains unreacted in\n45 minutes. Calculate rate constant of the reaction."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "4.1",
+    "marks": 1,
+    "text": "i. The molecular formula H 2S2O2 represents which oxoacid among the following?\n(A) Hydrosulphurous acid (B) Thiosulphurous acid\n(C) Sulphuric acid (D) Pyrosulphurous acid"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "4.2",
+    "marks": 1,
+    "text": "ii. Iodine exists as _______.\n(A) polar molecular solid (B) ionic solid\n(C) non-polar molecular solid (D) hydrogen bonded molecular solid"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "4.3",
+    "marks": 1,
+    "text": "iii. Absolute entropies of solids, liquids and gase s can be determined by _______.\n(A) measuring heat capacity of substance at various temperatures\n(B) subtracting standard entropy of reactants from products\n(C) measuring vibrational motion of molecules\n(D) using formula \u2206S\u00b0 = TS\u00b0 \u2212 0S\u00b0"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "4.4",
+    "marks": 1,
+    "text": "iv. The determination of molar mass from elevation i n boiling point is called as _______.\n(A) cryoscopy (B) colorimetry\n(C) ebullioscopy (D) spectroscopy"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "4.5",
+    "marks": 1,
+    "text": "v. The process of leaching alumina, using sodium carb onate is called _______.\n(A) Baeyer\u2019s process (B) decomposition\n(C) cyanide process (D) Hall\u2019s process"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "4.6",
+    "marks": 1,
+    "text": "vi. On calculating the strength of current in amperes if a c harge of 840 C (coulomb) passes through\nan electrolyte in 7 minutes, it will be _______.\n(A) 1 (B) 2\n(C) 3 (D) 4"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "4.7",
+    "marks": 1,
+    "text": "vii. A \u2192 B is a first order reaction with rate 6.6 \u00d7 10\u22125 M s\u22121. When [A] is 0.6 M, rate constant of\nthe reaction is _______.\n(A) 1.1 \u00d7 10\u22125 s\u22121 (B) 1.1 \u00d7 10\u22124 s\u22121\n(C) 9 \u00d7 10\u22125 s\u22121 (D) 9 \u00d7 10\u22124 s\u22121\nSE\nCTION \u2013 II"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "5.1",
+    "marks": 2,
+    "text": "i. Why is Sc 3+ colourless while Ti3+ coloured? (Atomic number Sc = 21, Ti = 22)"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "5.2",
+    "marks": 2,
+    "text": "ii. Illustrate with example, the difference between a double salt and a coordination compound."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "5.3",
+    "marks": 2,
+    "text": "iii. How is chlorobenzene prepared from aniline? How is chlorobenzene converted into\ndiphenyl?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "5.4",
+    "marks": 2,
+    "text": "iv. What is metamerism? Explain metamerism with suitable examples of ethers."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "5.5",
+    "marks": 2,
+    "text": "v. What are ketones? How are ketones classified?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "5.6",
+    "marks": 2,
+    "text": "vi. How are\na. 1-nitropropane  and b. 2-nitropropane\nprepared from suitable oxime?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "5.7",
+    "marks": 2,
+    "text": "vii. Define antioxidants. Draw structure of BHT."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "5.8",
+    "marks": 2,
+    "text": "viii. What are carbohydrates? Write the reaction for the preparation of nylon-6."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "6.1",
+    "marks": 3,
+    "text": "i. What are f-block elements? Distinguish between lanthanoids and actinoids."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "6.2",
+    "marks": 3,
+    "text": "ii. Explain the terms\na. Optical activity\nb. Ligand\nc. Interstitial compounds"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "6.3",
+    "marks": 3,
+    "text": "iii. Write the formula of Tetraamminedichloroplatinum(IV) chloride. How is propene converted\ninto 1-bromopropane and 2-bromopropane?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "6.4",
+    "marks": 3,
+    "text": "iv. What are broad-spectrum antibiotics?\nHow are polythene and neoprene prepared?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "7.1",
+    "marks": 7,
+    "text": "i.\nExplain the mechanism of esterification. Write the reactions involved in dehydration of 1\u00b0, 2\u00b0\nand 3\u00b0 alcohols."
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "7.2",
+    "marks": 7,
+    "text": "ii. What are vitamins? Name any two diseases caused by deficiency of vitamin A. Write the\nstructures of:\na. nucleoside   b. nucleotide\nHow are 1-nitropropane, 2-nitropropane and 2-methyl-2-nitropropane are distinguished from\neach other using nitrous acid?"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "8.1",
+    "marks": 1,
+    "text": "i. The preparation of alkyl fluoride from alkyl chloride, in presence of metallic fluorides is\nknown as _______.\n(A) Williamson\u2019s reaction (B) Finkelstein reaction\n(C) Swarts reaction (D) Wurtz reaction"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "8.2",
+    "marks": 1,
+    "text": "ii. Identify the weakest acidic compound amongst the following:\n(A)\np-Nitrophenol (B) p-Chlorophenol\n(C) p-Cresol (D) p-Aminophenol"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "8.3",
+    "marks": 1,
+    "text": "iii. On acid hydrolysis, propanenitrile gives _______.\n(A)\npropanal (B) acetic acid\n(C) propionamide (D) propanoic acid"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "8.4",
+    "marks": 1,
+    "text": "iv. Which of the following amines yield foul smelling product with h aloform and alcoholic\nKOH?\n(A) Ethylamine (B) Diethylamine\n(C) Triethylamine (D) Ethylmethylamine"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "8.5",
+    "marks": 1,
+    "text": "v. Which of the following is NOT present in DNA?\n(A)\nAdenine (B) Guanine\n(C) Thymine (D) Uracil"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "8.6",
+    "marks": 1,
+    "text": "vi. Amongst the following, identify a copolymer.\n(A)\nOrlon (B) PVC\n(C) PHBV (D) Teflon"
+  },
+  {
+    "paperId": "1dd5aac29de5",
+    "question": "8.7",
+    "marks": 1,
+    "text": "vii. Phenelzine is used as an _______.\n(A)\nanalgesic (B) antiseptic\n(C) antipyretic (D) antidepressant"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "1.1",
+    "marks": 1,
+    "text": "i. An antifriction alloy made up of antimony with tin and coppe r, which is extensively used i n\nmachine bearings is called ____\n___.\n(A)\nDuralumin (B)\nBabbitt metal\n(C)\nSpiegeleisen (D)\nAmalgam"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "1.2",
+    "marks": 1,
+    "text": "ii. Which of the following pairs is an intensive property?\n(A)\nDensity, viscosity (B)\nSurface tension, mass\n(C)\nViscosity, internal energy (D)\nHeat capacity, volume"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "1.3",
+    "marks": 1,
+    "text": "iii. Fe2+ ions react with nitric oxide formed from reduction of nitrate and yields a brown coloured\ncomplex _______.\n(A)\n[Fe(CO)5NO]2+ (B) [Fe(NH3)5NO]2+\n(C)\n[Fe(CH3NH2)5NO]2+ (D) [Fe(H2O)5NO]2+"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "1.4",
+    "marks": 1,
+    "text": "iv. MnO 2 and Ca3(PO4)2 present in iron ore get reduced to Mn and P in the zone of _______.\n(A)\ncombustion (B) reduction\n(C) fusion\n(D)\nslag formation"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "1.5",
+    "marks": 1,
+    "text": "v. An ionic compound crystallises in FCC type structure with \u2018 A\u2019  ions at the centre of each face\nand \u2018B\u2019 ions occupying corners of the cube. The formula of compound is _______.\n(A)\nAB4 ( B )  A 3B \n(C) AB\n(D)\nAB3"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "1.6",
+    "marks": 1,
+    "text": "vi. On passing 1.5 F charge, the number of moles of aluminium depo sited at cathode are _______.\n[Molar mass of Al = 27 gram mol\u20131]\n(A) 1.0 (B) 13.5\n(C) 0.50\n(D)\n0.75"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "1.7",
+    "marks": 1,
+    "text": "vii. For a chemical reaction, A\uf0ae products, the rate of reaction doubles when the concentration of\n\u2018A\u2019 is increased by\n a factor of 4, the order of reaction is _______.\n(A) 2\n(B)\n0.5\n(C) 4\n(D)\n1"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "2.1",
+    "marks": 2,
+    "text": "i. What are \u2018fuel cells\u2019? Write cathode and anode reaction in a fuel cell."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "2.2",
+    "marks": 2,
+    "text": "ii. Derive the relationship between half life and rate constant for first order reaction."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "2.3",
+    "marks": 2,
+    "text": "iii.\nExplain magnetic separation process of ores with the help of a neat, labelled diagram."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "2.4",
+    "marks": 2,
+    "text": "iv. Derive the relationship between relative lowering of vapou r pressure and molar mass of\nsolute."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "2.5",
+    "marks": 2,
+    "text": "v. Define the term \u2018enthalpy\u2019.\nWhat will happen to the internal energy if work is done by the system?"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "2.6",
+    "marks": 2,
+    "text": "vi. Nitrogen does not form pentahalides. Give reason."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "2.7",
+    "marks": 2,
+    "text": "vii. Calculate the percentage efficiency of packing in case of sim ple cubic cell."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "2.8",
+    "marks": 2,
+    "text": "viii.\nWrite the electronic configuration of the following elements:\na.\nSulphur (Z = 16) b. Krypton (Z = 36)"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "3.1",
+    "marks": 3,
+    "text": "i. How is phosphine prepared using the following reagents?\na . H C l\nb .  H 2SO4 \nc.\nCaustic soda"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "3.2",
+    "marks": 3,
+    "text": "ii. 0.05 M NaOH solution offered a resistance of 31.6 \uf057 in a conductivity cell at 298 K. If th e\ncell constant of the cell is 0.367 cm\uf02d1, calculate the molar conductivity of NaOH solution."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "3.3",
+    "marks": 3,
+    "text": "iii.\nCalculate \uf044H\uf0b0 for the reaction between ethene and water to form ethyl alcoho l from the\nfollowing data:\n\uf044cH\uf0b0 C2H5OH(l) = \uf02d1368 kJ\n\uf044cH\uf0b0 C2H4(g) = \uf02d1410 kJ\nDoes the calculated \uf044H\uf0b0 represent the enthalpy of formation of liquid ethanol?"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "3.4",
+    "marks": 3,
+    "text": "iv. In the Arrhenius equation for a first order reaction, the values of \u2018A\u2019 of \u2018Ea\u2019 are 4 \uf0b4 1013 sec\uf02d1\nand 98.\n6 kJ mol\uf02d1 respectively. At what temperature will its half life period be 10 minutes?\n[R = 8.314 J K\uf02d1 mol\uf02d1]"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "4.1",
+    "marks": 7,
+    "text": "i. State Faraday\n\u2019s first law of electrolysis.\nWrite any \u2018two\u2019 uses of each of the following:\na .  H 2SO4    b. C hlorine\nDistinguish between crystalline solids and amorphous solids.\nA solution of a substance having mass 1.8 \uf0b4 10\uf02d3 kg has the osmotic pressure of 0.52 atm at \n280 K. Calculate the molar mass of the substance used. \n[Volume = 1 dm3, R = 8.314 J K\uf02d1 mol\uf02d1]"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "4.2",
+    "marks": 7,
+    "text": "ii.\nDefine the following:\na.\nLeaching\nb. M etallurgy\nc.\nAnisotropy\nDerive an expression for maximum work.\nThe boiling point of benzene is 353.23 K. When 1.80 gram of n on-volatile solute was\ndissolved \nin 90 gram of benzene, the boiling point is raised to  354.11 K. Calculate the molar\nmass of solute.\n[ Kb for benzene = 2.53 K kg mol\uf02d1] \n\n\nSECTION \u2013 II"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "5.1",
+    "marks": 1,
+    "text": "i. When primary amine reacts with CHCl 3 in alcoholic KOH, the product is _______.\n(A) aldehyde (B) alcohol\n(C) cyanide (D) an isocyanide"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "5.2",
+    "marks": 1,
+    "text": "ii. CH 3\uf02dCH2\uf02dBr Alcoholic KOH\n\uf044\uf0be\uf0be\uf0be\uf0be\uf0be\uf0ae B HBr\uf0be\uf0be\uf0be\uf0ae C Na /ether\uf0be\uf0be\uf0be \uf0be\uf0ae D, the compound D is _______. \n(A) ethane (B) propane\n(C) n-butane (D) n-pentane"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "5.3",
+    "marks": 1,
+    "text": "iii. Cisplatin compound is used in the treatment of _______.\n(A) malaria (B) cancer\n(C) AIDS (D) ye\nllow fever"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "5.4",
+    "marks": 1,
+    "text": "iv. A gas when passed through K 2Cr2O7 and dil. H2SO4 solution turns it green, the gas is ______.\n(A) CO 2 (B) NH 3\n(C) SO2 (D) Cl 2"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "5.5",
+    "marks": 1,
+    "text": "v. The alcohol used in thermometers is _______.\n(A) methanol (B) ethanol\n(C) propanol (D) butanol"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "5.6",
+    "marks": 1,
+    "text": "vi. Which of the following vita mins is the vitamin of alicy clic series?\n(A) Vitamin C (B) Vitamin K\n(C) Vitamin B (D) Vitamin A"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "5.7",
+    "marks": 1,
+    "text": "vii. Which of the following is the first oxidation product of secondary alcohol?\n(A) Alkene (B)\nAldehyde\n(C) Ketone (D) Carbox\nylic acid"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "6.1",
+    "marks": 2,
+    "text": "i. How is diethyl ether prepared by continuous etherification p rocess?"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "6.2",
+    "marks": 2,
+    "text": "ii. Write a note on Hoffmann\n bromamide degradation."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "6.3",
+    "marks": 2,
+    "text": "iii. How is ethanoic acid prepared from dry ice?"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "6.4",
+    "marks": 2,
+    "text": "iv. W\nrite the molecular and structural formula of BHA and BHT."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "6.5",
+    "marks": 2,
+    "text": "v. Explain the preparation of glucose from\n cane sugar."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "6.6",
+    "marks": 2,
+    "text": "vi. Write the factors which are related to the colour of transition metal ions."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "6.7",
+    "marks": 2,
+    "text": "vii. Explain the following terms:\na. Homopolymers b. Elastomers"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "6.8",
+    "marks": 2,
+    "text": "viii. Define racemic mixture.\nGive IUPAC name of                                       ."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "7.1",
+    "marks": 3,
+    "text": "i. What is \u2018effective atomic number\u2019 (EAN)?\nCalculate the effective ato\nmic number of the central metal atom in the following compounds:\na .  K 4Fe(CN)6 b. Cr(CO) 6\nFe (Z = 26) Cr (Z = 24)"
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "7.2",
+    "marks": 3,
+    "text": "ii. Write the \ndifferent oxidation states of iron. Why +2 oxida tion state of manganese is more\nstable? (Z of Mn = 25)."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "7.3",
+    "marks": 3,
+    "text": "iii. Write a note on \u2018aldol condensation\u2019."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "7.4",
+    "marks": 3,
+    "text": "iv. W hat are \u2018nucleic acids\u2019?\nDefine complex lipids. Mention any \u2018two\u2019 functions of lipids."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "8.1",
+    "marks": 7,
+    "text": "i. What is the action of mixture of NaNO 2 and dil. HCl on:\na. Ethylamine   b. Aniline c. Diethylamine\nHow is nyl\non 6,6 prepared?\nWhat are \u2018antacids\u2019?\nWrite any\n \u2018two\u2019 side effects of tranquilizers."
+  },
+  {
+    "paperId": "dbcaa8f358ec",
+    "question": "8.2",
+    "marks": 7,
+    "text": "ii. Explain the mechanism of alkaline hydrolysis of tert-butyl  b ro mide with energy profile\ndiagram.\nDefine carbolic acid.\nHow carbolic acid is prepared from benzene sulphonic acid?\nCH3 \u2013 CH2 \u2013 CH \u2013 CHO\nCH3"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "1.1",
+    "marks": 1,
+    "text": "i. The moment of inertia of a thin uniform rod of mass M and length L, about an axis passing\nthrough a point, midway between the centre and one end, perpendicular to its length is\n______.\n(A) 48\n7 ML2 (B) 7\n48 ML2 (C) 1\n48 ML2 (D) 1\n16 ML2"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "1.2",
+    "marks": 1,
+    "text": "ii. \u2018n\u2019 droplets of equal size of radius r coalesce to form a bigger drop of radius R. The energy\nliberated is equal to _______. (T = Surface tension of water)\n(A) 4 \u03c0R2T[\n1\n3n 1\u2212 ] (B) 4 \u03c0r2T[\n1\n3\nn 1\u2212 ]\n(C) 4 \u03c0R2T[\n2\n3\nn 1\u2212 ] (D) 4 \u03c0r2T[\n2\n3\nn 1\u2212 ]"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "1.3",
+    "marks": 1,
+    "text": "iii. The buckling of a beam is found to be more if _______.\n(A)\nthe breadth of the beam is large.\n(B) the beam material has large value of Young\u2019s modulus.\n(C) the length of the beam is small.\n(D) the depth of the beam is small."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "1.4",
+    "marks": 1,
+    "text": "iv. When a transverse wave on a string is reflected from the f ree end, the phase change produced\nis _______.\n(A) zero rad (B) 2\n\u03c0 rad (C) 3\n4\n\u03c0 rad (D) \u03c0 rad"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "1.5",
+    "marks": 1,
+    "text": "v. The number of degrees of freedom for a rigid diatomic molecule is _______.\n(A) 3 (B) 5 (C) 6 (D) 7"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "1.6",
+    "marks": 1,
+    "text": "vi. Two particles perform linear simple harmonic motion along the same path of length 2A and\nperiod T as shown in the graph below. The phase difference between them is _______.\n(A) zero rad\n(B) 4\n\u03c0 rad \n(C) 2\n\u03c0 rad \n(D) 3\n4\n\u03c0 rad \nT\n4\nDisplacement\u2192 \nO \nA \nA \nX\nT\n2\n3T\n4\nT \nA\n2\n(Time) \u2192"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "1.7",
+    "marks": 1,
+    "text": "vii.\nThe light from the Sun is found to have a maximum intensity near the wavelength of 470 nm .\nAssum\ning the surface of the Sun as a black body, the temperature of the Sun is _______.\n(Wien\u2019s constant  b = 2.898 \u00d7 10\u22123 mK)\n(A) 5800 K (B) 6050 K (C) 6166 K (D) 6500 K"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "2.1",
+    "marks": 2,
+    "text": "i. State Kepler\u2019s law of orbit and law of equal areas."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "2.2",
+    "marks": 2,
+    "text": "ii. A car of mass 1500 kg rounds a curve of radius 250m at 90 km/hour. Calculate the centripet al\nforce acting on it."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "2.3",
+    "marks": 2,
+    "text": "iii. Draw a neat labelled diagram for Ferry\u2019s perfectly black body."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "2.4",
+    "marks": 2,
+    "text": "iv. A mass M attached to a spring oscillates with a period of 2 seconds. If  the mass is increased\nby 2 kg, the period increases by 1 second. Find the initial mass, assuming that Hooke\u2019s law is\nobeyed."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "2.5",
+    "marks": 2,
+    "text": "v. Differentiate between free and forced vibrations."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "2.6",
+    "marks": 2,
+    "text": "vi. The surface tension of water at 0 \u00b0C  is 75.5 dyne/cm. Find surface tension of water at 25 \u00b0C.\n(\u03b1 f\nor water = 0.0021/\u00b0C)"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "2.7",
+    "marks": 2,
+    "text": "vii. Derive the relation between surface tension and surface energy per unit ar ea."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "2.8",
+    "marks": 2,
+    "text": "viii. A wheel of moment of inertia 1 kgm 2 is rotating at a speed of 40 rad/s. Due to friction on the\naxis, the wheel comes to rest in 10 minutes. Calculate the angular momentum of the wheel,\ntwo minutes before it comes to rest."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "3.1",
+    "marks": 3,
+    "text": "i. A particle of mass m, just completes the vertical circular motion. Derive the expression for\nthe difference in tensions at the highest and the lowest points."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "3.2",
+    "marks": 3,
+    "text": "ii. The Earth is rotating with angular velocity \u03c9 about its own axis. R is the radius of the Earth.\nIf R \u03c92 = 0.03386m/s 2, calculate the weight of a body of mass 100 gram at latitude 25 \u00b0.\n(\ng = 9.8 m/s2)"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "3.3",
+    "marks": 3,
+    "text": "iii. Derive an expression for kinetic energy, when a rigid body is r olling on a horizontal surface\nwithout slipping. Hence find kinetic energy for a solid sphere."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "3.4",
+    "marks": 3,
+    "text": "iv. A steel wire of diameter 1 \u00d7 10\u22123 m is stretched by a force of 20 N. Calculate the strain\nenergy per unit volume. (Y steel = 2 \u00d7 1011 N/m2)"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "4.alternative1",
+    "marks": 7,
+    "text": " De fine an ideal simple pendulum. Show that, under certain conditions, simple pendulum  performs\nlinear simple harmonic motion. \nA train blows a whistle of frequency 640 Hz in air. Find the difference in apparent frequencies of \nthe whistle for a stationary observer, when the train moves towards and away from the observer \nwith the speed of 72 km/hour. (Speed of sound in air = 340 m/s)  [7] \n"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "4.alternative2",
+    "marks": 7,
+    "text": " W ith a neat labelled diagram, show that all harmonics are present in an air column contained in a\npipe open at both the ends. Define end correction. \nCalculate the kinetic energy of 10 gram of Argon molecules at 127 \u00b0C . \n(Universal gas constant R = 8320 J/k mole K, Atomic weight of Argon = 40) [7]\n\n\nSECTION \u2013 II \n"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "5.1",
+    "marks": 1,
+    "text": "i. In the diffraction pattern due to a single slit of width \u2018d\u2019 with incident light of wavelength \u2018 \u03bb\u2019,\nat an angle of diffraction \u2018\u03b8\u2019, the condition for first minimum is _______.\n(A) \u03bb sin \u03b8 = d (B) d cos \u03b8 = \u03bb\n(C) d sin \u03b8 = \u03bb (D) \u03bb cos \u03b8 = d"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "5.2",
+    "marks": 1,
+    "text": "ii. Kirchhoff\u2019s junction law is equivalent to _______.\n(A) conservation of energy\n(B) conservation of charge\n(C) conservation of electric potential\n(D) conservation of electric flux"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "5.3",
+    "marks": 1,
+    "text": "iii. let \u2018p\u2019 and \u2018E\u2019 denote the linear momentum and energy of e mitted photon respectively. If the\nwavelength of incident radiation is increased _______.\n(A) both p and E increase\n(B) p increases and E decreases\n(C) p decreases and E increases\n(D) both p and E decrease"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "5.4",
+    "marks": 1,
+    "text": "iv. The nuclei having same number of protons but different number of neutrons are called\n_______.\n(A) isobars (B) \u03b1 - particles\n(C) isotopes (D) \u03b3 - particles"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "5.5",
+    "marks": 1,
+    "text": "v. In case of transistor oscillator, to obtain sustained oscillations, t he product of voltage gai n\nwi\nthout feedback and feedback factor should be _______.\n(A) zero (B) less than 1\n(C) one (D) infinity"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "5.6",
+    "marks": 1,
+    "text": "vi. The process of regaining of information from carrier wave at the r eceiver is called _____.\n(A) modulation (B) transmission\n(C) propagation (D) demodulation"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "5.7",
+    "marks": 1,
+    "text": "vii. Reactance of a coil is 157 \u2126. On connecting the coil across a source of frequency 100 Hz, the\ncurrent lags behind e.m.f. by 45\u00b0. The inductance of the coil is _______.\n(A) 0.25 H (B) 0.5 H\n(C) 4 H (D) 314 H"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "6.1",
+    "marks": 2,
+    "text": "i. Draw a neat labelled diagram of a parallel plate capacitor completely filled with dielectric."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "6.2",
+    "marks": 2,
+    "text": "ii. A point is situated at 7 cm and 7.2 cm from two coherent sources. Find th e nature of\nillumination at the point if wavelength of light is 4000 \u00c5."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "6.3",
+    "marks": 2,
+    "text": "iii. Obtain the expression for current sensitivity of moving coil galvanom eter."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "6.4",
+    "marks": 2,
+    "text": "iv. In a cyclotron, magnetic field of 3.5 Wb/m 2 is used to accelerate protons. What should be the\ntime interval in which the electric field between the dees be reversed?\n(Mass of proton = 1.67 \u00d7 10\u221227 kg, Charge on proton = 1.6 \u00d7 10\u221219 C)."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "6.5",
+    "marks": 2,
+    "text": "v. Define magnetization. State its formula and S.I. unit."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "6.6",
+    "marks": 2,
+    "text": "vi. Electrostatic energy of 3.5 \u00d7 10\u22124 J is stored in a capacitor at 700 V. What is the charge on the\ncapacitor?"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "6.7",
+    "marks": 2,
+    "text": "vii. What is space wave propagation? State its three components."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "6.8",
+    "marks": 2,
+    "text": "viii. Find the value of energy of electron in eV in the third Bohr orbit of hydrog en atom.\n(Rydberg\u2019s constant (R) = 1.097 \u00d7 107 m\u22121,\nPlanck\u2019s constant (h) = 6.63 \u00d7 10\u221234 J \u2013 s,\nVelocity of light in air (c) = 3 \u00d7 108 m/s.)"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "7.1",
+    "marks": 3,
+    "text": "i. With the help of neat labelled circuit diagram explain the working of half wave rectifier using\nsemiconductor diode. Draw the input and output waveforms."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "7.2",
+    "marks": 3,
+    "text": "ii. A cell balances against a length of 200 cm on a potentiometer wi re, when it is shunted by a\nresistance of 8 \u2126. The balancing length reduces by 40 cm, when it is shunted by a resistance\nof 4 \u2126. Calculate the balancing length when the cell is in open circuit. Also calculate the\ninternal resistance of the cell."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "7.3",
+    "marks": 3,
+    "text": "iii. State the law of radioactive decay. Hence derive the expres sion N = N oe\u2212\u03bbt where symbols\nhave their usual meanings."
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "7.4",
+    "marks": 3,
+    "text": "iv. The photoelectric work function for a metal is 4.2 eV. If the stopping potential i s 3 V, find the\nthreshold wavelength and maximum kinetic energy of emitted electrons.\n(Velocity of light in air = 3 \u00d7 108 m/s,\nPlanck\u2019s constant = 6.63 \u00d7 10\u221234 J - s,\nCharge on electron = 1.6 \u00d7 10\u221219 C)"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "8.alternative1",
+    "marks": 7,
+    "text": " S tate Faraday\u2019s laws of electromagnetic induction and Lenz\u2019s law.\nProve theoretically, the relation between e.m.f. induced and rate of change of magnetic flux in a \ncoil moving in a uniform magnetic field. \nA circular coil of 250 turns and diameter 18 cm carries a current of 12 A. What is the magnitude of \nmagnetic moment moment associated with the coil?  [7] \n"
+  },
+  {
+    "paperId": "6d2f0ed58142",
+    "question": "8.alternative2",
+    "marks": 7,
+    "text": " On the basis of Huygens\u2019 wave theory of light prove that velocity of light in a rarer medium is\ngreater than velocity of light in a denser medium. \nI n Young\u2019s experiment the ratio of intensity at the maxima and minima in the interference pattern is \n36:16. What is the ratio of the widths of the two slits? [7]"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "1.1",
+    "marks": 2,
+    "text": "i. Explain the rise of liquid in the capillary on the basis of pressure difference."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "1.2",
+    "marks": 2,
+    "text": "ii. Show graphical representation of energy distribution spectrum of perfectly black body."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "1.3",
+    "marks": 2,
+    "text": "iii. The escape velocity of a body from the surface of the earth is 11.2 km/s. If a satellite were to\norbit close to the surface, what would be its critical velocity?"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "1.4",
+    "marks": 2,
+    "text": "iv. A pipe which is open at both ends is 47 cm long and has an inner diameter 5 cm. If the speed\nof sound in air is 348 m/s, calculate the fundamental frequency of air column in that pipe."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "1.5",
+    "marks": 2,
+    "text": "v. Show that R.M.S. velocity of gas molecules is directly proportional to square root of its\nabsolute temperature."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "1.6",
+    "marks": 2,
+    "text": "vi. For a particle performing uniform circular motion v r\n\u2192 \u2192 \u2192\n= \u03c9 \u00d7  obtain an expression for linear \nacceleration of the particle performing non-uniform circular motion."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "1.7",
+    "marks": 2,
+    "text": "vii. A stone of mass 1 kg is whirled in horizontal circle attached at the end of a 1 m long string. If\nthe string makes an angle of 30 \u00b0 with vertical, calculate the centripetal force acting on the\nstone. (g = 9.8 m/s2)."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "1.8",
+    "marks": 2,
+    "text": "viii.\nA solid cylinder of uniform density of radius 2 cm has mass of 50 g. If its length is 12 cm,\ncalculate its moment of inertia about an axis passing through its centre and perpendicular to\nits length."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "2.1",
+    "marks": 3,
+    "text": "i. Derive an expression for acceleration due to gravity at depth \u2018d\u2019 below th e earth\u2019s surface."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "2.2",
+    "marks": 3,
+    "text": "ii. A copper metal cube has each side of length 1 m. The bottom edge of the cube is fixed and\ntangential force 4.2 \u00d7 108 N is applied to a top surface. Calculate the lateral displacement of\nthe \ntop surface if modulus of rigidity of copper is 14 \u00d7 1010 N/m2."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "2.3",
+    "marks": 3,
+    "text": "iii. State an expression for K.E. (kinetic energy) and P.E. (potent ial energy) at displacement \u2018x\u2019\nfor a particle performing linear S.H.M. Represent them graphically. Find the displacement at\nwhich K.E. is equal to P.E."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "2.4",
+    "marks": 3,
+    "text": "iv. The equation of simple harmonic progressive wave is  given by y = 0.05 sin \u03c0 x20t 6\n\uf8ee \uf8f9 \u2212\uf8ef \uf8fa\uf8f0 \uf8fb\n, where\nall quantities are in S. I. units. Calculate the displacement of a particle at 5 m from origin and \nat the instant 0.1 second."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "3.alternative1",
+    "marks": 7,
+    "text": " State and prove the theorem of \u2018parallel axes\u2019. \nCalculate the density of paraffin oil, if glass capillary o f diameter 0.25 mm dipped in paraffin oil of \nsurface tension 0.0245 N/m rises to a height of 4 cm.  \n(Angle of contact of paraffin with glass = 28\u00b0 and acceleration due to gravity = 9.8 m/s2.) [7]  \n"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "3.alternative2",
+    "marks": 7,
+    "text": " A wire of density \u2018 \u03c1\u2019 and Young\u2019s modulus \u2018Y\u2019 is stretched between two rigid supports separated\nby a distance \u2018L\u2019 under tension \u2018T\u2019. Derive an expression for its frequency in fundamental mode. \nHence show that n = 1 Y\n2L \u03c1L\nl , where symbols have their usual meanings. \nWhen the length of a simple pendulum is decreased by 20 cm, the period c hanges by 10%. Find the \noriginal length of the pendulum.  [7]  \n"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "4.1",
+    "marks": 1,
+    "text": "i. The bulging of earth at the equator and flattening at the poles is due to _______.\n(A) centripetal force (B) centrifugal force\n(C) gravitational force (D) electrostatic force"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "4.2",
+    "marks": 1,
+    "text": "ii. Young\u2019s modulus of material of wire is \u2018Y\u2019 and strain energy per un it volume is \u2018E\u2019, then the\nstrain is\n(A)  Y\n2E     (B) E\nY  (C)  2E\nY  (D) 2EY"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "4.3",
+    "marks": 1,
+    "text": "iii. The wavelength range of thermal radiation is\n(A) from 4000 \u00c5 to 7000 \u00c5 (B) from 7700 \u00c5 to 4 \u00d7 106 \u00c5\n(C) from 10 6 \u00c5 to 108 \u00c5 (D) from 4 \u00d7 10\u221212 \u00c5 to 4 \u00d7 108 \u00c5"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "4.4",
+    "marks": 1,
+    "text": "iv. A pipe open at both ends resonates to a frequency \u2018n 1\u2019 and a pipe closed at one end resonates\nto a frequency \u2018n 2\u2019. If they are joined to form a pipe closed at one end, then the fundamental\nfrequency will be ______.\n(A) 1 2\n2 1\nn n\n2n n+      (B) 2 1\n2 1\n2n n\n2n n+ \n(C) 2 1\n1 2\n2n n\nn n+ (D) 2 1\n1 2\nn 2n\nn n\n+"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "4.5",
+    "marks": 1,
+    "text": "v. The phase difference between displacement and acceleration of  a particle performing S.H.M.\nis _______.\n(A) rad2\n\u03c0 (B) \u03c0 r ad (C) 2 \u03c0 rad (D) 3 rad2\n\u03c0"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "4.6",
+    "marks": 1,
+    "text": "vi. Let n1 and n2 be the two slightly different frequencies of two sound waves. The time interval\nbetween waxing and immediate next waning is ______.\n(A) \n1 2\n1\nn n\u2212 (B)\n1 2\n2\nn n\u2212 (C) 1 2n n\n2\n\u2212 (D)\n1 2\n1\n2(n n )\u2212"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "4.7",
+    "marks": 1,
+    "text": "vii. A metal ball cools from 64 \u00b0C to 50 \u00b0C in 10 minutes and to 42 \u00b0C i n next 10 minutes. The\nratio of rates of fall of temperature during the two intervals is _______.\n(A)  4\n7      (B) 7\n4 \n(C) 2\n(D) 2.5\n\n\nSECTION \u2013 II"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "5.1",
+    "marks": 2,
+    "text": "i. Show that the orbital magnetic dipole moment of a revolving electron i s evr\n2 ."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "5.2",
+    "marks": 2,
+    "text": "ii. Describe the construction of photoelectric cell."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "5.3",
+    "marks": 2,
+    "text": "iii. For a glass plate as a polariser with refractive inde x l.633, calculate the angle of incidence at\nwhich light is polarised."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "5.4",
+    "marks": 2,
+    "text": "iv. The susceptibility of magnesium at 300 K is 2.4 \u00d7 10\u22125. At what temperature will the \nsusceptibility increase to 3.6 \u00d7 10\u22125?"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "5.5",
+    "marks": 2,
+    "text": "v. Draw a neat labelled diagram for Davisson and Germer experiment, for diffrac tion of electron\nwave."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "5.6",
+    "marks": 2,
+    "text": "vi. Explain the terms : (a) Transmitter and (b) receiver in communic ation system."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "5.7",
+    "marks": 2,
+    "text": "vii. A metal r od 1\n\u03c0\nm long rotates about one of its ends perpendicular to a plane whose \nm\nagnetic induction is 4 \u00d7 10 \u22123 T. Calculate the number of revolutions made by the rod per\nsecond if the e.m.f. induced between the ends of the rod is 16 mV."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "5.8",
+    "marks": 2,
+    "text": "viii. Find the wave number of a photon having energy of 2.072 eV.\nGiven :  Charge on electron = 1.6 \u00d7 10\u221219 C, \nVelocity of light in air = 3 \u00d7 108 m/s, \nPlanck\u2019s constant = 6.63 \u00d7 10\u221234 J-s."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "6.1",
+    "marks": 3,
+    "text": "i. State Ampere\u2019s circuital law. Obtain an expression for magnetic induction along the axis of\ntoroid."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "6.2",
+    "marks": 3,
+    "text": "ii. Calculate the radius of second Bohr orbit in hydrogen atom from the given data.\nMass of electron = 9.1 \u00d7 10\u221231 kg \nCharge on the electron = 1.6 \u00d7 10\u221219 C \nPlanck\u2019s constant = 6.63 \u00d7 10\u221234 J-s. \nPermittivity of free space = 8.85 \u00d7 10\u221212 C2/Nm2"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "6.3",
+    "marks": 3,
+    "text": "iii. Explain the working of P-N junction diode in forward and reverse biased mode."
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "6.4",
+    "marks": 3,
+    "text": "iv. A network of four capacitors of 6 \u00b5F each is connected to a 240 V supply. Determine the\ncharge on each capacitor.\n6 \u00b5F \n6 \u00b5F 6 \u00b5F \n6 \u00b5F \nC1\nC2\nC3\nC4\n240 V"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "7.alternative1",
+    "marks": 7,
+    "text": " Describe biprism experiment to find the wavelength of monochromatic light. Draw the necessary\nray diagram for magnified and diminished images of virtual sources. \nIf the difference in velocities of light in glass and water is 2.7 \u00d7 107 m/s, find the velocity of light in \nair. \n(Refractive index of glass = 1.5, Refractive index of water = 1.333) [7] \n"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "7.alternative2",
+    "marks": 7,
+    "text": " State the principle of a transformer. Explain its construction and working. Derive an expression for\nthe ratio of e.m.f.s in terms of number of turns in primary and secondary coil.  \nTwo diametrically opposite points of a metal ring are connected to two t erminals of the left gap of \nmetre bridge. The resistance of 11 \u2126 is connected in right gap. If null point is obtained at a distance \nof 45 cm from the left end, find the resistance of metal ring. [7] \n"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "8.1",
+    "marks": 1,
+    "text": "i. Intensity of electric field at a point close to and outside a charged conducting cylinder i s\npr\noportional to ______.\n(r is the distance of a point from the axis of cylinder)\n(A) 1\nr      (B) 2\n1\nr \n(C) 3\n1\nr (D) r 3"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "8.2",
+    "marks": 1,
+    "text": "ii. When a hole is produced in P-type semiconductor, there is _______.\n(A) extra electron in valence band\n(B) extra electron in conduction band\n(C) missing electron in valence band\n(D) missing electron in conduction band"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "8.3",
+    "marks": 1,
+    "text": "iii. The outermost layer of the earth\u2019s atmosphere is _______.\n(A) stratosphere (B) mesosphere\n(C) troposphere (D) ionosphere"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "8.4",
+    "marks": 1,
+    "text": "iv. Accuracy of potentiometer can be easily increased by _______.\n(A) increasing resistance of wire (B) decreasing resistance of wire\n(C) increasing the length of wire (D) decreasing the length of wire"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "8.5",
+    "marks": 1,
+    "text": "v. When electron in hydrogen atom jumps from second orbit to first orbit , the wavelength of\nradiation emitted is \u03bb. When electron jumps from third orbit to first orbit, the wavelength of\nemitted radiation would be _______.\n(A) 27\n32 \u03bb      (B) 32\n27 \u03bb \n(C) 2\n3 \u03bb (D) 3\n2 \u03bb"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "8.6",
+    "marks": 1,
+    "text": "vi. An ideal voltmeter has _______.\n(A) low resistance (B) high resistance\n(C) infinite resistance (D) zero resistance"
+  },
+  {
+    "paperId": "855e96ba1b7e",
+    "question": "8.7",
+    "marks": 1,
+    "text": "vii. The resolving power of telescope of aperture 100 cm for lig ht of wavelength 5.5 \u00d7 10\u22127 m is \n_______.\n(A) 0.149 \u00d7 10+7 (B) 1.49 \u00d7 10+7\n(C) 14.9 \u00d7 10+7 (D) 149 \u00d7 10+7"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "1.1",
+    "marks": 1,
+    "text": "i. The period of a conical pendulum in terms of its length ( l), semivertical angle ( \u03b8) and\nacceleration due to gravity (g) is:\n(A) 1 cos\n2 g\nl \u03b8\n\u03c0   (B)  1 sin\n2 g\nl \u03b8\n\u03c0\n(C)\n cos4 4g\nl \u03b8\u03c0 (D) tan4 g\nl \u03b8\u03c0"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "1.2",
+    "marks": 1,
+    "text": "ii. The kinetic energy of a rotating body depends upon\n(A)\ndistribution of mass only.\n(B) angular speed only.\n(C) distribution of mass and angular speed.\n(D) angular acceleration only."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "1.3",
+    "marks": 1,
+    "text": "iii. If the metal bob of a simple pendulum is replaced by a wooden bob \n of the same size, then its\ntime period will\n(A) increase. (B) remain same.\n(C) decrease. (D) first increase and then decrease."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "1.4",
+    "marks": 1,
+    "text": "iv. The graph between applied force and change in the length of wire within elastic  limit is a\n(A) straight line with positive slope. (B) straight line with negative slope.\n(C) curve with positive slope. (D) curve with negative slope."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "1.5",
+    "marks": 1,
+    "text": "v. When longitudinal wave is incident at the boundary of denser medium, then\n(A)\ncompression reflects as a compression.\n(B) compression reflects as a rarefaction\n(C) rarefaction reflects as a compression.\n(D) longitudinal wave reflects as transverse wave."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "1.6",
+    "marks": 1,
+    "text": "vi. The dimensions of universal gravitational constant are\n(A)\n[L1M0T0] (B) [L2M1T0]\n(C)\n[L\u20131M1T\u20132] (D) [L3M\u20131T\u20132]"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "1.7",
+    "marks": 1,
+    "text": "vii.\nTwo copper spheres of radii 6 cm and 12 cm respectively are suspe nded in an evacuated\nenclosure. Each of them are at a temperature 15 \u00b0C above the surroundings. The ratio of their\nrate of loss of heat is\n(A) 2 : 1 (B) 1 : 4\n(C) 1 : 8 (D) 8 : 1"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "2.1",
+    "marks": 2,
+    "text": "i. In circular motion, assuming v r\n\u2192 \u2192 \u2192\n= \u03c9\u00d7 , obtain an expression for the resultant acceleration of \na particle in terms of tangential and radial component."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "2.2",
+    "marks": 2,
+    "text": "ii. Explain why an astronaut in an orbiting satellite has a feeling of weightlessness."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "2.3",
+    "marks": 2,
+    "text": "iii. State theorem of parallel axes and theorem of perpendicular axes about m oment of inertia."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "2.4",
+    "marks": 2,
+    "text": "iv. State:\na. Wien\u2019s displacement law a nd\nb. first law of thermodynamics."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "2.5",
+    "marks": 2,
+    "text": "v. A particle in S.H.M. has a period of 2 seconds and amplitude of 10 c m. Calculate the\nacceleration when it is at 4 cm from its positive extreme position."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "2.6",
+    "marks": 2,
+    "text": "vi. The surface tension of water at 0 \u00b0C  is 75.5 dyne/cm. Calculate surface tension of water at\n25  \u00b0C. (\u03b1 for water = 2.7 \u00d7 10\u20133/ \u00b0C)"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "2.7",
+    "marks": 2,
+    "text": "vii. The spin dryer of a washing machine rotating at 15 r.p.s. s lows down to 5 r.p.s. after making\n50 revolutions. Find its angular acceleration."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "2.8",
+    "marks": 2,
+    "text": "viii. Calculate the period of revolution of Jupiter around the Sun. The ratio of the radius of\nJupiter\u2019s orbit to that of the Earth\u2019s orbit is 5.\n(Period of revolution of the Earth is 1 year)"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "3.1",
+    "marks": 3,
+    "text": "i. Derive an expression for excess pressure inside a drop of liquid."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "3.2",
+    "marks": 3,
+    "text": "ii. Explain what is Doppler effect in sound and state its any \u2018four\u2019 applications."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "3.3",
+    "marks": 3,
+    "text": "iii. Calculate the average molecular kinetic energy:\na. per kilomole,\nb. per kilogram, of oxygen at 27 \u00b0C.\n(R = 8320 J/k mole K, Avogadro\u2019s number = 6.03 \u00d7 1026 molecules/K mole)"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "3.4",
+    "marks": 3,
+    "text": "iv. A uniform steel rod of 5 mm 2 cross section is heated from 0 \u00b0C to 25 \u00b0C. Calculate the force\nwhich must be exerted to prevent it from expanding. Also calculate strain.\n(\u03b1 for steel = 12 \u00d7 10\u20136/ \u00b0C and \u03b3 for steel = 20 \u00d7 1010 N/m2)"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "4.alternative1",
+    "marks": 7,
+    "text": "  A. W hat are forced vibrations and resonance? Show that only odd harmonics are present in an\nair column vibrating in a pipe closed at one end.\nB. A stretched wire emits a fundamental note of frequency 256 Hz. Keeping the stretching force\nconstant and reducing the length of wire by 10 cm, the frequency becomes 320 Hz. Calculate\nthe original length of wire.\n"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "4.alternative2",
+    "marks": 7,
+    "text": " A. Obtain an expression for potential energy of a particle performing simple harmonic motion. \nHence evaluate the potential energy  \ni. at mean position a nd\nii. at extreme position.\nB . A horizontal disc is freely rotating about a transverse axis passing through its centre at the\nrate of 100 revolutions per minute. A 20 gram blob of wax falls on the disc and sticks to the\ndisc at a distance of 5 cm from its axis. Moment of intertia of the disc about its axis passing\nthrough its centre of mass is 2 \u00d7 10\n\u20134 kg m 2. Calculate the new frequency of rotation of the\ndisc. [7]\n\n\nSECTION \u2013 II \n"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "5.1",
+    "marks": 1,
+    "text": "i. Electric field intensity in free space at a distance \u2018r\u2019 outside the charged conducting sphere of\nradius \u2018R\u2019 in terms of surface charge density \u2018\u03c3\u2019 is\n(A) \n2\n0\nR\nr\n\u03c3 \uf8ee \uf8f9\n\uf8ef \uf8fa\u03b5 \uf8f0 \uf8fb\n   (B) \n2\n0 R\nr\n\u03b5 \uf8ee \uf8f9\n\uf8ef \uf8fa\u03c3 \uf8f0 \uf8fb\n(C) \n2\n0\nR\nr\n\uf8ee \uf8f9\u03c3\n\uf8ef \uf8fa\u03b5\uf8f0 \uf8fb\n(D) \n2\n0\nR r\uf8ee \uf8f9\n\uf8ef \uf8fa\u03c3 \u03b5\uf8f0 \uf8fb"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "5.2",
+    "marks": 1,
+    "text": "ii. Instrument which can measure terminal potential difference as well as electro motive force\n(e.m.f.) is\n(A) Wheatstone\u2019s meter bridge (B) Voltmeter\n(C) Potentiometer (D) Galvanometer"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "5.3",
+    "marks": 1,
+    "text": "iii. If the frequency of incident light falling on a photosensitive  material is doubled, then the\nkinetic energy of the emitted photoelectron will be\n(A) same as its initial value. (B) two times its initial value.\n(C) more than two times its initial value. (D) less than two times its initial value."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "5.4",
+    "marks": 1,
+    "text": "iv. Linear momentum of an electron in Bohr orbit of H-atom (principa l quantum number n) is\nproportional to\n(A) 2\n1\nn    (B) 1\nn \n(C) n\n(D) n 2"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "5.5",
+    "marks": 1,
+    "text": "v. In a semiconductor, acceptor impurity i s\n(A) antimony (B) indium\n(C) phosphorous (D) arsenic"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "5.6",
+    "marks": 1,
+    "text": "vi. The power radiated by linear antenna of length \u2018 l\u2019  is proportional to (\u03bb = wavelength)\n(A) l\n\u03bb    (B) \n2\nl\n\u03bb\uf8eb \uf8f6\n\uf8ec \uf8f7\uf8ed \uf8f8\n(C) l\n\u03bb (D) \n2\nl\uf8eb \uf8f6\n\uf8ec \uf8f7\u03bb\uf8ed \uf8f8"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "5.7",
+    "marks": 1,
+    "text": "vii. The numerical aperture of objective of a microscope is 0.12. The limit of resolution, when\nlight of wavelength 6000 \u00c5 is used to view an object is\n(A) 0.25 \u00d7 10\u20137 m (B) 2.5 \u00d7 10\u20137 m\n(C) 25 \u00d7 10\u20137 m (D) 250 \u00d7 10\u20137 m"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "6.1",
+    "marks": 2,
+    "text": "i.\nWhat is a polaroid? State its \u2018two\u2019 uses."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "6.2",
+    "marks": 2,
+    "text": "ii. Draw a neat and labelled diagram of suspended coil type moving coil galvanome ter."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "6.3",
+    "marks": 2,
+    "text": "iii. Define:\na. Magnetization a nd\nb. magnetic intensity ."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "6.4",
+    "marks": 2,
+    "text": "iv. Draw a block diagram of generalized communication system."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "6.5",
+    "marks": 2,
+    "text": "v. A solenoid 3.142 m long and 5.0 cm in diameter has two layers of windings o f 500 turns each\nand carries a current of 5 A. Calculate the magnetic induction at its centre along the axis."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "6.6",
+    "marks": 2,
+    "text": "vi. A circular coil of 300 turns and average area 5 \u00d7 10\u20133  m2 carries a current of 15 A. Calculate\nthe magnitude of magnetic moment associated with the coil."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "6.7",
+    "marks": 2,
+    "text": "vii. The magnetic flux through a loop varies accroding to the r elation \u03c6 = 8t2 + 6t + C, where \u2018C\u2019\nis constant, \u2018\u03c6\u2019 is in milliweber and \u2018t\u2019 is in second. What is the magnitude of induced e.m.f.\nin the loop at t = 2 second?"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "6.8",
+    "marks": 2,
+    "text": "viii. An electron is orbiting in 5 th Bohr orbit. Calculate ionisation energy for this atom, if the\nground state energy is \u221213.6 eV."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "7.1",
+    "marks": 3,
+    "text": "i. Obtain an expression for the radius of Bohr orbit for H-atom."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "7.2",
+    "marks": 3,
+    "text": "ii. What are \u03b1 a nd \u03b2 parameters for a transistor? Obtain a relation between them."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "7.3",
+    "marks": 3,
+    "text": "iii. Two metal spheres having charge densities 5 \u00b5C /m2 and \u22122 \u00b5C/m2 with radii 2 mm and 1 mm\nrespectively are kept in a hypothetical closed surface. Calculate total normal electric\ninduction over the closed surface."
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "7.4",
+    "marks": 3,
+    "text": "iv. The threshold wavelength of silver is 3800 \u00c5. Calculate the maximum kinetic  energy in eV of\nphotoelectrons emitted, when ultraviolet light of wavelength 2600 \u00c5 falls on it.\n(Planck\u2019s constant, h = 6.63 \u00d7 10\u201334 J.s., velocity of light in air, c = 3 \u00d7 108   m/s)"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "8.1",
+    "marks": 7,
+    "text": "  A. Obtain an expression for e.m.f. induced in a coil rotating with uniform angular velocity in a\nuniform magnetic field. Show graphically the variation of e.m.f. with time (t).\nB . Resistance of a potentiometer wire is 0.1 \u2126/cm. A cell of e.m.f. 1.5 V is balanced at 300 cm\non this potentiometer wire. Calculate the current and balancing length for another cell of\ne.m.f. 1.4 V on the same potentiometer wire. [7] \n"
+  },
+  {
+    "paperId": "5ad889a918fb",
+    "question": "8.2",
+    "marks": 7,
+    "text": " \nA.\n Describe biprism experiment to calculate the wavelength of a monochromatic light. Draw the\nnecessary ray diagram.\nB. If the critical angle of a medium is sin\u22121 3\n5\n\uf8eb \uf8f6\n\uf8ec \uf8f7\uf8ed \uf8f8\n, find the polarising angle. [7]"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "2.1",
+    "marks": 1,
+    "text": "i.\nA particle rotates in U.C.M. with tangential velocity \"v' along a\nhorizontal circle of diameter\n'D'. Total angular displacement of the\nparticle in time 't' is\n(A)\nvt\n(B)\n(C)\nvt\n2D\n2vt\n(D)"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "2.2",
+    "marks": 1,
+    "text": "ii. Two springs of force constants K, and Kz (K, > Kz) are stretched by\nsame force. If W, and W, be the work done stretching the springs then\n(A)\nW.\n=\nWa\n(B) W, < W2\n(C)\nW,\nWa\n(D) W, = W2= 0"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "2.3",
+    "marks": 1,
+    "text": "iii. A and B are two steel wires and the radius of A is twice that of B. If\nthey are stretched by the same load, then the stress on B is\n(A) four\ntimes\nthat\nA\n(B)\ntwo times that of A\n(C) three\ntimes\nthat\nof\nA\n(D)\nsame as that of A"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "2.4",
+    "marks": 1,
+    "text": "iv. If sound waves are reflected from surface of denser medium, there is\nphase change of _\n(A)\nrad\n(B)\n4rad\n(C)\n= rad\n(D) nrad"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "2.5",
+    "marks": 1,
+    "text": "v. A sonometer wire vibrates with frequency ni in air under suitable\nload of specific gravity 'o'. When the load is immersed in water, the\nfrequency of vibration of wire n2 will be _\n0+1\n(A)\n(B)\n0-1\n(C)\nn,Vo+1\n\n\n(D)\nnVo-1"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "2.6",
+    "marks": 1,
+    "text": "vi. For polyatomic molecules having \"f' vibrational\nmodes, the ratio of\ntwo specific heats,\nCe is\nCv\n1+f\n(A)\n2 +f\n2 +f\n(B)\n3 +f\n4 +f\n(C)\n3 +f\n5 +f\n(D)\n4+f"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "2.7",
+    "marks": 1,
+    "text": "vii. Abody of moment of inertia 5 kgm2 rotating with an angular velocity\n6 rad/s has the same kinetic energy as a mass of 20 kg moving with a\nvelocity of\n(A)\nm/s\n(B) 4 m/s\n(C)\nm/s\n(D) 2 m/s"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "3.1",
+    "marks": 7,
+    "text": "\nA.\nDefine linear S.H.M. Show that S.H.M. is a projection of U.C.M. on\nany diameter.\nB.\nA metal sphere cools at the rate of 4 \u00b0C/min. when its temperature\nis 50 \u00b0C. Find its rate of cooling at 45 \u00b0C if the temperature of\nsurroundings\nis\n25\n[7]\n"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "3.2",
+    "marks": 7,
+    "text": "\nA.\nExplain analytically how the stationary waves are formed. Hence\nshow that the distance between rode and adjaccent antinode is\nA set of 48 tuning forks is arranged in a series of descending\nfrequencies such that each fork gives 4 beats per second with preceding\none. The frequency of first fork is 1.5 times the frequency of the last fork,\nfind\nthe\nfrequency\nof the\nfirst\nand\n42 nd\ntuning\nfork.\n[7]\n"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "7.1",
+    "marks": 7,
+    "text": "\nState the principle on which\ntransformer\nworks. Explain its\nworking with construction. Derive an expression for ratio of e.m.f.s and\ncurrents in terms of number of turns in primary and\nsecondary coil.\nA conductor of any shape, having area 40 cm2 placed in air is\nuniformly charged with a charge 0.2 uC. Determine the electric intensity\nat a point just outside its surface. Also, find the mechanical force per unit\narea of the charged conductor.\n[Eo\n8.85\n10-12\nS\nI. units]\n[7]\n"
+  },
+  {
+    "paperId": "a92405463d24",
+    "question": "7.2",
+    "marks": 7,
+    "text": "\nA.\nWith the help of a neat labelled diagram, describe the Geiger-\nMarsden experiment. What is mass defect?\nB.\nThe photoelectric work function for a metal surface is 2.3 eV. If the\nlight of wavelength\n6800 \u00c0 is incident on the surface of metal,\nfind\nthreshold frequency\nand incident frequency. Will there be an\nemission of photoelectrons or not?\n\n\n[Velocity of light c = 3 X 108 m/s, Planck's constant, h = 6.63 X 10- 34 Js]\n[7]\n"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "1.1",
+    "marks": 1,
+    "text": "i. If the pressure of an ideal gas decreases by 10% isothermally, then its volume will _______.\n(A) decrease by 9% (B) increase by 7%\n(C) increase by 10% (D) increase by 11.4%"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "1.2",
+    "marks": 1,
+    "text": "ii. Stretching of a rubber band results in _______.\n(A) no change in \npotential energy. (B) zero value of potential energy.\n(C)\nincrease in potential energy. (D) d\necrease in potential energy."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "1.3",
+    "marks": 1,
+    "text": "iii. When the angular acceleration of a rotating body is zero,  w hich physical quantity will be\nequal to zero?\n(A) Angular momentum (B) Moment of inertia\n(C) Torque (D) Radius of gyration"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "1.4",
+    "marks": 1,
+    "text": "iv. In a damped harmonic osc illator, periodic oscillations have ______ _ amplitude.\n(A) gradually incr easing (B) suddenly increasing\n(C) suddenly decreasing (D) gradually decreasing"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "1.5",
+    "marks": 1,
+    "text": "v. A sine wave of wavelength \u2018 \uf020\uf06c\u2019 is travelling in a medium. W hat is the minimum distance\nbetween two particles of the medium which always have the same speed?\n(A) \uf06c ( B )  2\n\uf06c\n(C) 3\n\uf06c ( D )  4\n\uf06c"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "1.6",
+    "marks": 1,
+    "text": "vi. Velocity of transverse wave along a stretched string is pr oportiona l to _______. (T = tension\nin the string)\n(A) T ( B ) T\n(C) 1\nT\n( D ) 1\nT"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "1.7",
+    "marks": 1,
+    "text": "vii. Find the wavelength at which a black body radiates maximu m energy, if its remperature is\n427\uf0b0C.\n(Wein\u2019s constant b = 2.898 \uf0b4 10\uf02d3 mK)\n(A) 0.0414 \uf0b4 10\uf02d6 m (B) 4.14 \uf0b4 10\uf02d6 m\n(C) 41.4 \uf0b4 10\uf02d6 m (D) 414 \uf0b4 10\uf02d6 m"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "2.1",
+    "marks": 2,
+    "text": "i. Explain the concept of centripetal force."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "2.2",
+    "marks": 2,
+    "text": "ii.\nProve that root mean square velocity of gas molecule is di rectly proportional to the square\nroot of its absolute temperature."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "2.3",
+    "marks": 2,
+    "text": "iii.\nObtain the differential equation of linear simple harmonic motion."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "2.4",
+    "marks": 2,
+    "text": "iv.\nDraw a neat, labelled diagram for a liquid surface in cont act with a solid, when the angle of\ncontact is acute."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "2.5",
+    "marks": 2,
+    "text": "v.\nA hole is drilled half way to the centre of the Earth. A bo dy is dropped into the hole. H ow\nm\nuch will it weigh at the bottom of the hole if the weight of the body on the Earth\u2019s surface is\n350 N?"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "2.6",
+    "marks": 2,
+    "text": "vi.\nA solid sphere of mass 1 kg rolls on a table with linear s peed 2 m/s, find its total kinetic\nenergy."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "2.7",
+    "marks": 2,
+    "text": "vii. A transverse wave is produced on a stretched string 0.9 m  long and fixed at its ends. Find the\nspeed \nof the transverse wave, whe n the string vibrates while em itting second overtone o f\nfrequency\n 324 Hz."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "2.8",
+    "marks": 2,
+    "text": "viii.\nA body cools at the rate of 0.5 \uf0b0C / minute when it is 25 \uf0b0 C above the surroundings. Calculate\nthe rate of cooling when i\nt is 15\uf0b0C above the same surroundings."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "3.1",
+    "marks": 3,
+    "text": "i. Show that period of a sate llite revolving around the Earth depends upon mass of the Earth."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "3.2",
+    "marks": 3,
+    "text": "ii.\nObtain an expression for torque acting on a rotating body with constant angular acceleration.\nHence state the dim\nensions and SI unit of torque."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "3.3",
+    "marks": 3,
+    "text": "iii.\nThe total energy of free surface of a liquid drop is 2 \uf070 times the surface tension of the liquid.\nWhat is the dia\nmeter of the drop?\n(Assume all terms in SI unit)."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "3.4",
+    "marks": 3,
+    "text": "iv.\nA vehicle is moving on a circular track whose surface is i nclined towards the horizon at an\nangle of 10 \uf0b0. The maximum velocity with which it can move safely is 36 km /  hr. Calculate\nthe length of the circular track. [\uf070 = 3.142]"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "4.1",
+    "marks": 7,
+    "text": " A. Prove the law of conservation of energy for a particle performi ng simple harmonic motio n.\nHence \ngraphically show the varia tion of kinetic energy and pote ntial energy w. r. t. \ninstantaneous displacement. \nB. Two sound notes have wavelengths 83\n170 m and 83\n172 m in the air. These notes when sounded\ntogether produce 8 beats per s econd. Calculate the velocity of sound in the air and \nfrequencies of the two notes. [7] \n"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "4.2",
+    "marks": 7,
+    "text": " \nA. Explain the formation of stationary waves by analytical method.  Show the formation of\nstationary wave diagramatically.\nB. A mass of 1 kg is hung from a steel wire if radius 0.5 mm and length 4 m. Calculate t he\nextension \nproduced. What should be the area of cross-section of  the wire so that elastic limit\nis not exceeded? Change in radius is negligible.\n(Given : g = 9.8 m/s2; Elastic limit of steel is 2.4 \uf0b4 108 N/m2;\nY for steel (Ysteel) = 20 \uf0b4 1010 N/m2; \uf070 = 3.142) [7]\n\n\nSECTION \u2013 II \n"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "5.1",
+    "marks": 1,
+    "text": "i.\nIf A.C. voltage is applied to a pure capacitor, then voltage across the capacitor ______.\n(A)\nleads the current by phase angle 2\n\uf070\uf0e6\uf0f6\n\uf0e7\uf0f7\uf0e8\uf0f8\n rad. \n(B)\nleads the current by phase angle (\uf070) rad.\n(C)\nlags behind the current by phase angle 2\n\uf070\uf0e6\uf0f6\n\uf0e7\uf0f7\uf0e8\uf0f8\n rad. \n(D)\nlags behind the current by phase angle (\uf070) rad."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "5.2",
+    "marks": 1,
+    "text": "ii. In Doppler effect of light, the term \u201cred shift\u201d is used for ___ ___.\n(A)\nfrequency increase (B)\nfrequency decrease\n(C) wavelength decrease\n(D) frequency\n and wavelength increase"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "5.3",
+    "marks": 1,
+    "text": "iii. If a watch-glass containing a small quantity of water is placed on two dissimilar magnetic\npoles, then w\nater ______.\n(A)\nshows a depression in the middle.\n(B)\nshows an elevation in the middle.\n(C)\nsurface remains horizontal. (D)\nevaporates immediately."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "5.4",
+    "marks": 1,
+    "text": "iv. Any device that converts one form of energy into another i s term ed as ______.\n(A)\namplifier (B) transducer\n(C)\nreceiver (D)\ndemodulator"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "5.5",
+    "marks": 1,
+    "text": "v. When a p-n-p transistor is operated in saturation regio n, then its ______.\n(A)\nbase-emitter junction is forward biased and base-collector junction is reverse biased.\n(B)\nboth base-emitter and base-collector junctions are reverse biased.\n(C)\nboth base-emitter and base-collector junctions are forward biased.\n(D)\nbase-emitter junction is reverse biased and base-collector junction is forward biased."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "5.6",
+    "marks": 1,
+    "text": "vi. In a photon-electron collision ______.\n(A)\nonly total energy is conserved.\n(B)\nonly total momentum is conserved.\n(C)\nboth total energy and total momentum are conserved.\n(D)\nboth total momentum and total energy are not conserved."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "5.7",
+    "marks": 1,
+    "text": "vii. If the charge on the condenser of 10 \uf06dF is doubled, then the energy stored in it become s\n____\n__.\n(A) zero (B)\ntwice that of initial energy\n(C)\nhalf the initial energy (D)\nfour times the initial energy"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "6.1",
+    "marks": 2,
+    "text": "i. Distinguish between the phenomenon of interference and diffraction of light."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "6.2",
+    "marks": 2,
+    "text": "ii.\nExplain how moving coil galvanometer is converted into a voltmeter. Derive the necessary\nformula."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "6.3",
+    "marks": 2,
+    "text": "iii.\nState the advantages of potentiometer over voltmeter."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "6.4",
+    "marks": 2,
+    "text": "iv.\nDraw a neat, labelled block diagram of a receiver for the detection of amplitude modulated\nwave."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "6.5",
+    "marks": 2,
+    "text": "v. A rectangular coil of a moving coil galvanometer contains 100 turns, each having area\n15 \ncm2. It is suspended in the radial magnetic field 0.03 T. The twis t constant of suspension\nfibre is 15 \uf0b4 10\uf02d10 N-m/degree. Calculate the sensitivity of the moving coil galvanometer."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "6.6",
+    "marks": 2,
+    "text": "vi.\nThe magnetic flux through a loop is varying according to a relation \uf066 = 6t2\n + 7t + 1 where \uf066 is\nin m\nilliweber and t is in second. What is the e.m.f. induced in the loop at t = 2 second?"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "6.7",
+    "marks": 2,
+    "text": "vii.\nAn unknown resistance is placed in the left gap and resistance of 50 ohm is placed in the right\ngap of a meter bridge. The null point is obtained at 40 cm from  the left end. Determine t he\nunknown resistance."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "6.8",
+    "marks": 2,
+    "text": "viii.\nFind the frequency of revolution of an electron in Bohr\u2019 s 2nd orbit; if the radius and speed of\nelectron in that orbit is 2.14 \uf0b4 10\uf02d10 m and 1.09 \uf0b4 106 m/s respectively. [\uf070 = 3.142]"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "7.1",
+    "marks": 3,
+    "text": "i. Explain with a neat diagram, how a p-n junction diode is used as a half wave rectifier."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "7.2",
+    "marks": 3,
+    "text": "ii.\nExplain self induction and mutual induction."
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "7.3",
+    "marks": 3,
+    "text": "iii.\nA cube of marble having each side 1 cm is kept in an elec tric field of intensity 300 V/m.\nDetermine the energy contained in the cube of dielectric constant 8.\n[ G i v e n  :  \uf0ce0 = 8.85 \uf0b4 10\u201312 C2/Nm2]"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "7.4",
+    "marks": 3,
+    "text": "iv. An electron in an atom revolves around the nucleus in an o rbit of radius 0.53 \u00c5. If the\nfrequency\n of revolution of an electron is 9 \uf0b4 1 09 MHz, calculate the orbital angular\nmo\nmentum.\n[Given : Charge on an electron = 1.6 \uf0b4 10\u201319 C;\nGyromagnetic ratio = 8.8 \uf0b4 1010 C/kg; \uf070 = 3.142]"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "8.1",
+    "marks": 7,
+    "text": " A. Describe the biprism experiment to find the wavelength of the monochromatic light. Draw\nthe necess\nary ray diagram. \nB. The width of plane incident wavefront is found to be doubled on ref raction in denser medium.\nIf \nit makes an angle of 65 \uf0b0 with the normal, calculate the refractive index for the denser\nm e d i u m .  [7] \n"
+  },
+  {
+    "paperId": "8d5730d136ee",
+    "question": "8.2",
+    "marks": 7,
+    "text": " \nA\n. Draw a neat, labelled energy level diagr am for H atom showing the transitions.\nExplain the series of spectral lines for H atom, whose fixed inner orbit numbers are 3 and 4\nrespectively\n.\nB. The work functions for potassium and caesium are 2.25 eV and 2 .14 eV respectively. Is the\nphotoelectric effect possible for either of them if the incident wavelength is 5180 \u00c5?\n[Given : Planck\u2019s constant = 6.63 \uf0b4 10\u201334 J.s.;\nVelocity of light = 3 \uf0b4 108 m/s; 1 eV = 1.6 \uf0b4 10\u201319 J] [7]"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "1.1",
+    "marks": 1,
+    "text": "(i) In stationary wave, the distance between a node and its\nadjacent antinode is __ .\n(a) \n'A. \n(c) \n'A. \n(b) -4 \n(d) 2'A.\nPage 1 P. T. 0. \n\u2022"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "1.2",
+    "marks": 1,
+    "text": "(ii) If the source is moving away from the observer, then the\napparent frequency __ .\n(a) will increase\n( c) will be zero\n(b) will remain the same\n(d) will decrease"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "1.3",
+    "marks": 1,
+    "text": "(iii) A particle of mass m performs vertical 1notion in a circle\nof radius r. Its potential energy at _the highest point is __ .\n(g is acceleration due to gravity)\n(a) 2 mgr\n(c) 0\n(b) mgr\n(d) 3 mgr"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "1.4",
+    "marks": 1,
+    "text": "(iv) The compressibility of a substance is the reciprocal of\n\u2022 \n(a) Young's modulus (b) bulk modulus\n( c) modulus of rigidity ( d) Poisson's ratio"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "1.5",
+    "marks": 1,
+    "text": "(v) If the particle starts its motion from mean position, the\nphase difference between di.splacement and acceleration is.. \n\u2022 \n21trad \n(c) 1t rad .\n(b) \n. (d)\n1t \n- rad\n1t - rad\n. \n\u2022.\u00b7 . ."
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "1.6",
+    "marks": 1,
+    "text": "(vi) The kinetic energy per molecule of a gas at temperature .T\nIS\n(a) \n(c) \nI O I 2 I 3 I 6 I \n\u2022\nI RT 2 \n2 - RT3 \n. . .\n(b) \n(d) \nPage 2 \nRT \nM \n\u2022"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "1.7",
+    "marks": 1,
+    "text": "(vii) A thin ring has .mass 0\u00b725 kg and radius 0\u00b75m. Its moment\nof inertia about an axis passing through its centre and\nperpendicular to its plane is --\n(a) 0\u00b70625 kg m2\n(c) 6\u00b725 kg m2"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "2.alternative1",
+    "marks": 7,
+    "text": " , Attempt A.ny SIX:\n(b) \n(d) \n0\u00b7625 kg m 2\n. 62\u00b75 kg m 2\n(i) State Kepler's law of orbit and law of equal areas.\n(ii) State any 'four' assumptions of kinetic theory of gases.\n(iii) Define moment of inertia. State its SI unit and dimensions .\n(iv) Distinguish between centripetal and centrifugal force.\n(v) In Melde's experiment, when tension in the string is 10 g\n. .\nwt then three loops are obtained. Determine the tension in\nthe string required to obtain four \u00b7 1oops, if. all other\nconditions are constant.\n(vi) Calculate the work done in increasing the radius of a soap\nbubble in air from 1 cm to 2 cm. 'fhe surface tension of\nsoap solution is 30 dyne / cm. (7t = 3 \u00b7 142) ..\n(vii) A flat curve on a highway has a radius of curvature 400 m.\nA car goes around a .curve at a speed of 32 mis. What is\nthe minimum value of coefficient of friction that will prevent\nthe car from sliding? (g = 9\u00b78 m/s2)\n(viii) A particle performing linear S. H. M. has maximum velocity\nof 25 cm/s arid 1naximum acceleration of l 00 cm/s 2. Find\nthe amplitude and period of oscillation. (1t = 3 \u00b7 142)\nPage 3 \n(12] \n\u2022 \nP. T. 0. \n\n\n., \n\u00b7. "
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "3.1",
+    "marks": 3,
+    "text": "(i) \n, ' \nDerive Laplace's lsiw for a spherical membrane."
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "3.2",
+    "marks": 3,
+    "text": "(ii) State and prove principle of conservation. of angular\nmomentum."
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "3.3",
+    "marks": 3,
+    "text": "(iii) Calculate the strain energy per unit volume in a brass wire\nof length 3 m and area of cross-section 0\u00b76 mm2 when it is\n'stretched by 3 mm and a force of 6 kgwt is applied to its\nfree end."
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "3.4",
+    "marks": 3,
+    "text": "(iv) What is the decrease in weight of a body of mass 500 Kg\nwhen it is taken into a mine of depth I 000 Km.?. . 2 (Radius of earth R= 6400 km, g = 9\u00b78 mis )\n[9) \n\u00b7"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "4.1",
+    "marks": 7,
+    "text": " State the \u00b7differential equation of linear simple harmonic motion. [7] \u00b7\nHence obtain the expression for acceleration, \u00b7 veto.city and \n. . , \n. \u00b7 displacement of a particle performing linear S. H. M . \nA body cools from 80\u00b0C to 70\u00b0C in 5 minutes and to 62\u00b0C \nin the next 5 minutes. \u00b7 Calculate the temperature of the \nsurroundings. \n"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "4.2",
+    "marks": 7,
+    "text": " \nWhat is meant by -harmonics? Show that only odd harmonics \nare present as overtones -in the case of an air column vibrating \n. , \nin a pipe closed at one end. ' . '\n81 The wavelengths of two sound waves in air are 1 73 m and. \n81 \n170 m . They produce IO beats per second. Calculate \u00b7the \nvelocity of sound \u00b7in air. \nPage 4 \n\u2022\n\n\n\u2022 \u2022 \n\u2022 \nSECTION .:... II \n. . \n"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "6.1",
+    "marks": 2,
+    "text": "(i) State the conditions to get constructive arid destructive\ninterference of light."
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "6.2",
+    "marks": 2,
+    "text": "(ii) State and explain Ampere's circuital law."
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "6.3",
+    "marks": 2,
+    "text": "(iii) Draw a neat and labelled block diagra1n ot\u00b7 a receiver.\n. . -"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "6.4",
+    "marks": 2,
+    "text": "(iv) Define magnetization. Write its SI unit and dimensions."
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "6.5",
+    "marks": 2,
+    "text": "(v) . The electron in the hydrogen atom is moving witn a speed\nof 2\u00b73 x I 06 m/s in an orbit of radius 0;53A. Calculate the \nperiod of revolution of electron. (7t = 3 \u00b7 142)"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "6.6",
+    "marks": 2,
+    "text": "(vi) A capacitor of capacitance O \n\u00b7 5 \u00b5F is connected to a source\nof alternating e.m.f. of frequency 100 Hz. What is the\ncapacitive reactance? (7t = \n3 -142)\nPage 6 \nl 121\n\n\n\u2022"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "6.7",
+    "marks": 2,
+    "text": "(vii) Calculate the de-Broglie wavelength of an electron moving\n-with orie fifth of the speed of light. Neglect relativistic\nf'C \u00b7 \n\u00b7 -34 3 08 / e ,ects. (h = 6\u00b763 x 10 \u00b7 J.s., c = x I ms , \n, I -3 I k mass ot e ectron = 9 x IO \u00b7 g)"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "6.8",
+    "marks": 2,
+    "text": "(viii)In a cyclotron, magnetic field of I \u00b74 Wb/ m2 is used. To\naccelerate protons, how rapidly should the electric field\nbetween the Dees be reversed?\n(1t=3-142, Mp= 1\u00b767 x 10- 27 kg,\n-19 e = I \u00b76 x IO C)"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "8.1",
+    "marks": 7,
+    "text": " Prove theoretically the relation between e.m.t\ufffd induced in a coil 171 \n0 \nand rate of change_ of 1riagnetic \ntlux in electromagnetic induction. . \u00b7. \ufffd .\nA parallel plate air condenser has a capacity of 20 \u00b5F., What \nwill be the new capacity if: \n(a) ,.\n(b) \n\u2022 \nthe distance between the two plates is doubled? \na marble slab of dielectric constant 8 is introdt1ced between . . . . \nthe two plates? \n,"
+  },
+  {
+    "paperId": "b26ff4aee429",
+    "question": "8.2",
+    "marks": 7,
+    "text": " \nDraw a neat and labelled energy level diagra1n and explain Baitner \nseries and Brackett series of spectral lines for l1ydr<)gen atom . \n. . \nThe work fu11ction ft)r a 111etal surface. is 2-,2eV. If light of \nwavelength 5000A is incident on \ntl1J surti1ce (lf the 1netal, tind \n\u2022 I \u2022 \u2022 \u2022 \n\u2022 i.\nl ; . ., \nthe threshold freq ti ency a11d inciderit fre<.1L1ency. Wi 11 tl1ere be . . \nan emission of phott1electrons or n<)t? . \n., (c=3\"\nx 108 m/s, .l eV= 1\u00b76X 1()' 19 J,h -- (-,\u00b763 x I0-\ufffd34 J.s.) \n. ' \n\u2022 \n\u2022 \n\u2666\u2666\u2666\n\u00b7 I 0\u00b7 I 2 I 3 1 61 Page 8 \n\u2022"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "2.alternative1",
+    "marks": 7,
+    "text": "\n= \n(iii) In hydrogen-oxygen fuel cell the carbon rods are immersed\nin hot aqueous solution of-\n(a) KCI\n(c) H2S0 4\n(iv) The chemical formula of willemite is -\n(a) ZnS\n(c) ZnO\n(b) ZnCO3\n(d) Zn2Si0 4\n(v) The oxidation state of nitrogen in dinitrogcn tr ioxide is -\n(a) +I\n(c) +3\n(b) +2\n(d) +4\n(vi) Which of the following 0\u00b7 1 M aqueous solutions will exert\nhighest osmotic pressure?\n(a) Al/SO 4)3\n(c) MgCl2\n(b) Na2S0 4\n(d) KC!\n(vii) The half-life period of zero order reaction A\u2794 product is\ngiven by-\n[A]o 0-693\n(a) k (b) k\n(c) [A]o (d) 2[Alo \n2k k \nAnswer any SIX of the following : \n(i) Derive the relation between elevation of bo iling point and\nmolar mass of solute.\n(ii) State third law of thermodynamics. Give 'two' us es.\n(iii) Draw a neat and labelled diagram of lead storage battery.\n(iv) Ionic sol ids are hard and brittle. Explain.\nPage 2 \n(121 \n\n\n(v) A certain reaction occurs in the f ollowing steps -\n(i) Cl(g.) + 0 3(g.) -7 C\\O(g.) + O:i_(g.) \n(ii) C\\O(g.) + O(g.) -7 Cl(g.) + O:,.(g.) \n(a) What is the molecularity of each of the elementary \nsteps? \n(b) Identify the reaction intermediate and write the \nch emical equation for overall reaction. \n(vi) Define: (a) Semipermeable membrane\n(b) Refer ence el ectrode\n(vii) Wh at is the action of chlori ne on :\n(a) cs2 \n(b) E cess NH3 \n(viii) Write the chemical equations involved in van Ar ke\\ method \nfor refi ning zirconium metal.\n"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "3.1",
+    "marks": 3,
+    "text": "(i) Write balanced chemical equations for the following:\n(a) Phosphorus r eacts with magnesium.\n(b) Flowers of sulphur boiled with calci um hydroxide.\n( c) Action of ozone on hydrogen peroxide."
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "3.2",
+    "marks": 3,
+    "text": "(ii) The density of iron cry stal is 8\u00b754 gram cm- 3\u2022 \\fthe edge \nl ength of unit cell is 2\u00b78 A0 and atomic mass is 56 gram\nmor 1, find the numb er of atoms in the unit cell. \n(Given : Avogadro's numb er ~ 6\u00b7022 x I 023 \u2022 \n\\A\n0 =\\x\\0-8cm)"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "3.3",
+    "marks": 3,
+    "text": "(iii) How many far adays of electr icity are required to produce \n. \n\\ 3 gram ofal uminium from aluminium chlor ide solution?\n-1 \n(Given : Molar nrnss of Al = 27\u00b70 gram n10l ) \n\\9\\ \nP.T.0 \n. ...:.----=================----------_-_-_-_--_ _:-_:-_-- --- - - - -----I \u2022"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "3.4",
+    "marks": 3,
+    "text": "(iv) Calculate the internal energy at 298K for the formation of\none mole or ammonia, if the enthalpy change at constant\npressure is -42\u00b70 kJ mor 1\u2022\n(Given: R = 8\u00b7314 J K- 1 mor 1)"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "4.1",
+    "marks": 7,
+    "text": " (i) Define: (a) Enthalpy of atomization\n( b) bnthal py of vaporization\n(ii) Draw the structure of IF 7\" Write its geometry and the type\nof hybridization.\n(iii) (a) State Henry's law.\n(b) 22\u00b722 gram of urea was d.issolved in 300 grams of\nwater. Calculate the number of moles of urea and\nmolality of the urea solution.\n(Given: Molar mass of urea = 60 gram mol- 1)\n"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "4.2",
+    "marks": 7,
+    "text": " \n(i) What is the action of carbon on the following metal oxides:\n(a) Fe203 in blast furnace\n(b) ZnO in vertical retort furnace\n(ii) Write the molecular and structural formulae of:\n(a) Thiosulphuric acid\n(b) Oithionous acid\n\u00b7(iii) The reaction A+ B--? products is first order in each of tJ,e\nreactants. \n(a) How does the rate of react ion 1ch a nge if the\nconcentration of A is increased by factor 3?\n(b) What is the change in the rate of reaction if the\nconcentration of A is halved and concentration of\nB is doubled?\nPage 4 \n(71 \n\n\nSE\ufffdTION -II \n"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "5.1",
+    "marks": 1,
+    "text": "(i) A po lymer used in paints is -\n(b) Thiokol\n(d) G lyptal\n( a) omex\n( c) Saran"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "5.2",
+    "marks": 1,
+    "text": "(ii) The number of primary a nd secondary hydroxy l groups in\nribo e are -\n(a) L .., (b) 2,3\n(c) 3. l (d) 3,2"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "5.3",
+    "marks": 1,
+    "text": "(iii) The Hgand diethylene triamine is-\n(a monodentate (b) bidentate\n(c) tridentate (d) tetradentate"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "5.4",
+    "marks": 1,
+    "text": "(iv) Propene on oxidatio n with diborane in presence of alkaline\nhydrogen peroxide gives -\n(a propa n-1-o l (b) propan-2-o l\n(c) allyl alcohol (d) propan-1, 2-diol"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "5.5",
+    "marks": 1,
+    "text": "(v) Baeyer's reagent is -\n(a) acidified potassium dichromate\n(b) alkaline potassium dichromate .\n( c) alkaline potassium permanganate\n(d) acidified potassium permanganate"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "5.6",
+    "marks": 1,
+    "text": "(vi) Identify' A' in the following reaction -\nDry \nA+ 2Na ether 2, 2, 5, 5- Tetramethylhexane+ 2NaBr.\n(a) 2-Bromo-2-methylbutane\n(b) l -B romo -2, 2-d i methy lprop ane\n(c) I -Bromo-3-methylbutane\n(d) l-Bromo-2-methy lpropane\nPage 5 \nP.T.0 \n. ...!---====;;;::::=::::::=====::::=;=;=====\ufffd=======-= - -\nI \n\u2022"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "5.7",
+    "marks": 1,
+    "text": "(vii) An anti fertility drug is -\n(a) Novestrol\n(c) Veranal\n(b) Histamine\n(d) Equanil"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "6.1",
+    "marks": 2,
+    "text": "(i) Write balanced chemical equatio_ns for the conversion of\nCro/- to Cr2o /- in acidic medium and Cr2o/ - to \nCro/- in basic medium.\n3+"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "6.2",
+    "marks": 2,
+    "text": "(ii) Explain the geometry of [ Co(NH:d6] on the basis of\nhybridisation.\n(Z of Co = 27)"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "6.3",
+    "marks": 2,
+    "text": "(iii) Why ethanol has hi gher boiling point than ethane?"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "6.4",
+    "marks": 2,
+    "text": "(iv) Write only reactions for the preparation of benzop henone\nfrom benzonitrile."
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "6.5",
+    "marks": 2,
+    "text": "(v) What is the action of p-tolunesulp honylch loride on\nethylamine and diethylamine?"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "6.6",
+    "marks": 2,
+    "text": "(vi) What are amino acids? Write the correct reaction for\nformation of peptide bond between amino acids."
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "6.7",
+    "marks": 2,
+    "text": "(vii) Define:\n( l) Antiseptics\n(2) Antiox idants"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "6.8",
+    "marks": 2,
+    "text": "(viii) Explain only reaction mechanism for alkaline hydrolysis of\ntert-butylbromide."
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "7.1",
+    "marks": 3,
+    "text": "(i) Complete and rewrite the balanced chemical equations -\nNaCN +CuCN \n(a) Chlorobenzene 473K. pressure\n') \nPage () \nr 12 I \n19)\n\n\n50% KOI I \n(h) Isohutyralde hyde--------4\n->\nH+\n(c) Butanone + 2, 4 dinitro-phenyl hydrazine----?"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "7.2",
+    "marks": 3,
+    "text": "(ii) Prepare carbolic acid fr om benzene sulp honic acid.\nWrite a chemical equation for the action of ne utral ferric\nchloride on phenol."
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "7.3",
+    "marks": 3,
+    "text": "(iii) Explain the preparation and uses of ny l on-2--nylon-6."
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "7.4",
+    "marks": 3,
+    "text": "(iv) How gl ucose is prepared fr om cane \ufffdug ar?\nWrite the formula of the complex copper (II) hexacy ano\nferrate ( 1 I)."
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "8.1",
+    "marks": 7,
+    "text": " What is la nthanide contraction?\nExplain the ca use of la nthanide contraction.\nOra\\\\ the structures of chloroxylenol a nd adenine.\nHow are ethylamine and ethyl methyl amine distinguished by using\nnitrous acid? \n"
+  },
+  {
+    "paperId": "8e72a3a7437a",
+    "question": "8.2",
+    "marks": 7,
+    "text": " \nWhat is the action of the foll owing reagents on ethanoic acid?\n(a) Li I H / H10 \nI\u00b7 \n(b) PC\\ 3,he at\n(c) P205, heat\nIdentify 'A' and 'B' in the following reaction and rewrite the\ncomplete reaction:\nNa \nExplain Hoffmann bromarnide degradation reaction .\n\u2022\u2022\u2022 \nPage 7 \n17\\ "
+  }
+]

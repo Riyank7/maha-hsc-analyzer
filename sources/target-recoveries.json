@@ -1,0 +1,36 @@
+[
+  {
+    "id": "b79134a43bfc",
+    "year": 2025,
+    "subject": "Computer Science I",
+    "session": "Main",
+    "medium": "English",
+    "set": "Main",
+    "source": "https://targetpublications.org/download/hsc-science-computer-science-i-question-paper-march-2025",
+    "pdfUrl": "https://cdn.targetpublications.org/admin/downloads/pFkbi5F2fhLBeEUZmh47fnS0sS4Z6uLIPu6IcJe3.pdf",
+    "status": "downloaded",
+    "localPdf": "sources/papers/b79134a43bfc83bb.pdf",
+    "textPath": "sources/text/b79134a43bfc.txt",
+    "pages": 3,
+    "textCharacters": 107,
+    "sha256": "d78dee62b7b1411de7e850f975e30625a13b49ea8c5726b640f88cfe25c8c736",
+    "analysisStatus": "needs OCR"
+  },
+  {
+    "id": "e1783c14ad07",
+    "year": 2025,
+    "subject": "Computer Science II",
+    "session": "Main",
+    "medium": "English",
+    "set": "Main",
+    "source": "https://targetpublications.org/download/hsc-science-computer-science-ii-question-paper-march-2025",
+    "pdfUrl": "https://cdn.targetpublications.org/admin/downloads/4r93D1l03IFZ5XGmv7lNL5ro8DjFcZr9p167jR88.pdf",
+    "status": "downloaded",
+    "localPdf": "sources/papers/e1783c14ad07de31.pdf",
+    "textPath": "sources/text/e1783c14ad07.txt",
+    "pages": 2,
+    "textCharacters": 71,
+    "sha256": "9930f68e6c1d18a244f9a2d3c0a054ea6de7904a45db5aa083540d900d3da297",
+    "analysisStatus": "needs OCR"
+  }
+]

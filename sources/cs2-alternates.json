@@ -1,0 +1,53 @@
+[
+  {
+    "id": "5cdf065763ca",
+    "year": 2022,
+    "subject": "Computer Science II",
+    "set": "Paper II",
+    "session": "Main",
+    "medium": "English",
+    "source": "https://www.collegedekho.com/news/maharashtra-class-12-computer-science-2-sample-question-paper-2023-pdf-download-37732/",
+    "pdfUrl": "https://static.collegedekho.com/media/uploads/2023/03/13/maharashtra_hsc_computer_science_2_pyq_2022.pdf",
+    "analysisStatus": "needs OCR",
+    "status": "downloaded",
+    "localPdf": "sources/papers/5cdf065763caaa8b.pdf",
+    "textPath": "sources/text/5cdf065763ca.txt",
+    "pages": 4,
+    "textCharacters": 182,
+    "sha256": "a7344dc888ab3acf99ac53c72e491c03dabbcb45afd2248d7bc4397c05233c20"
+  },
+  {
+    "id": "ba4915db5bbd",
+    "year": 2018,
+    "subject": "Computer Science II",
+    "set": "Paper II",
+    "session": "Main",
+    "medium": "English",
+    "source": "https://www.collegedekho.com/news/maharashtra-class-12-computer-science-2-sample-question-paper-2023-pdf-download-37732/",
+    "pdfUrl": "https://static.collegedekho.com/media/uploads/2023/03/13/maharashtra_hsc_computer_science_2_pyq_2018.pdf",
+    "analysisStatus": "needs OCR",
+    "status": "downloaded",
+    "localPdf": "sources/papers/ba4915db5bbd959a.pdf",
+    "textPath": "sources/text/ba4915db5bbd.txt",
+    "pages": 4,
+    "textCharacters": 67,
+    "sha256": "d040d50f15234186567f2ffaa14011cc39271b6a7cccc557cb8b12756691217f"
+  },
+  {
+    "id": "9e56d1be740c",
+    "year": 2017,
+    "subject": "Computer Science II",
+    "set": "Paper II",
+    "session": "Main",
+    "medium": "English",
+    "source": "https://www.collegedekho.com/news/maharashtra-class-12-computer-science-2-sample-question-paper-2023-pdf-download-37732/",
+    "pdfUrl": "https://static.collegedekho.com/media/uploads/2023/03/13/maharashtra_hsc_computer_science_2_pyq_2017.pdf",
+    "analysisStatus": "needs OCR",
+    "status": "downloaded",
+    "localPdf": "sources/papers/9e56d1be740c6eaf.pdf",
+    "textPath": "sources/text/9e56d1be740c.txt",
+    "pages": 4,
+    "textCharacters": 67,
+    "sha256": "30a3a275a2b9b2531e427a679a0f58b496505879fc666e3a929ba350dfbc1a50"
+  }
+]

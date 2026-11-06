@@ -1,0 +1,36 @@
+[
+  {
+    "id": "5500d129312c",
+    "subject": "Computer Science I",
+    "year": 2016,
+    "session": "Main",
+    "medium": "English",
+    "set": "Paper I",
+    "source": "https://vocationalacademy.co.in/board-papers/",
+    "pdfUrl": "https://vocationalacademy.co.in/uploads/hsc-computer-science-question-paper-1-march-2016.pdf",
+    "status": "downloaded",
+    "localPdf": "sources/papers/5500d129312c8922.pdf",
+    "textPath": "sources/text/5500d129312c.txt",
+    "pages": 4,
+    "textCharacters": 67,
+    "sha256": "6a23dc5c6f8cdc33659a17a873a651ec69f283ffc369b77a7c3a7cd448d467c6",
+    "analysisStatus": "needs OCR"
+  },
+  {
+    "id": "1b2c52e0d149",
+    "subject": "Computer Science II",
+    "year": 2016,
+    "session": "Main",
+    "medium": "English",
+    "set": "Paper II",
+    "source": "https://vocationalacademy.co.in/board-papers/",
+    "pdfUrl": "https://vocationalacademy.co.in/uploads/hsc-computer-science-question-paper-2-march-2016.pdf",
+    "status": "downloaded",
+    "localPdf": "sources/papers/1b2c52e0d149081d.pdf",
+    "textPath": "sources/text/1b2c52e0d149.txt",
+    "pages": 4,
+    "textCharacters": 67,
+    "sha256": "a6cd9a9aff8d79a86c7636bbe50600f9919034edfeda4ef0eb03fc561c1a3f2e",
+    "analysisStatus": "needs OCR"
+  }
+]

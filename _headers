@@ -1,0 +1,9 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+/data/*
+  Cache-Control: public, max-age=60
+/sources/papers/*
+  Content-Type: application/pdf
+  Cache-Control: public, max-age=86400

@@ -1,0 +1,227 @@
+[
+  {
+    "subject": "Chemistry",
+    "year": 2025,
+    "failedUrls": [
+      "https://hscexam.vercel.app/assets/DATA/2025/2025_MARCH/Chemistry_2025_March.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "8ae579ae23a1",
+        "source": "https://zollege.in/exams/maharashtra-board/question-paper-2025",
+        "pdf": "sources/papers/b2a41e53590c0b8e.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "English",
+    "year": 2025,
+    "failedUrls": [
+      "https://hscexam.vercel.app/assets/DATA/2025/2025_MARCH/English_2025_March.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "2c2b8d014803",
+        "source": "https://zollege.in/exams/maharashtra-board/question-paper-2025",
+        "pdf": "sources/papers/461f5c50a1145da4.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Mathematics & Statistics",
+    "year": 2025,
+    "failedUrls": [
+      "https://hscexam.vercel.app/assets/DATA/2025/2025_MARCH/Mathematics_2025_March.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "852769a971f1",
+        "source": "https://zollege.in/exams/maharashtra-board/question-paper-2025",
+        "pdf": "sources/papers/daf02c249390f713.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Physics",
+    "year": 2025,
+    "failedUrls": [
+      "https://hscexam.vercel.app/assets/DATA/2025/2025_MARCH/Physics_2025_March.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "dd76c75b9a74",
+        "source": "https://zollege.in/exams/maharashtra-board/question-paper-2025",
+        "pdf": "sources/papers/b553884a3537e6d8.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science I",
+    "year": 2016,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/903/2038.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "5500d129312c",
+        "source": "https://vocationalacademy.co.in/board-papers/",
+        "pdf": "sources/papers/5500d129312c8922.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science II",
+    "year": 2016,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/784/8286.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "1b2c52e0d149",
+        "source": "https://vocationalacademy.co.in/board-papers/",
+        "pdf": "sources/papers/1b2c52e0d149081d.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science I",
+    "year": 2015,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/903/5491.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "81c78cf73059",
+        "source": "https://www.maharashtrastudy.com/papers/mh-board-class-12-computer-science-v-634-2015.html",
+        "pdf": "sources/papers/81c78cf730598338.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science II",
+    "year": 2015,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/784/3092.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "66017371b88d",
+        "source": "https://www.maharashtrastudy.com/papers/mh-board-class-12-computer-science-v-668-2015.html",
+        "pdf": "sources/papers/66017371b88d45cc.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science I",
+    "year": 2014,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/903/9626.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "a17cf534ba01",
+        "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-computer-science-1-12th-standard-board-exam-2013-2014_83",
+        "pdf": "sources/papers/a17cf534ba01.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science I",
+    "year": 2013,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/903/5448.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "bd4b166378c1",
+        "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-computer-science-1-12th-standard-board-exam-2012-2013_82",
+        "pdf": "sources/papers/bd4b166378c1.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science II",
+    "year": 2013,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/784/6992.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "9f5ef2bf01ca",
+        "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-computer-science-2-12th-standard-board-exam-2012-2013_127",
+        "pdf": "sources/papers/9f5ef2bf01ca.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science I",
+    "year": 2012,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/903/8881.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "1fe78b373a54",
+        "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-computer-science-1-12th-standard-board-exam-2011-2012_81",
+        "pdf": "sources/papers/1fe78b373a54.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science II",
+    "year": 2012,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/784/1791.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "ab62462405d1",
+        "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-computer-science-2-12th-standard-board-exam-2011-2012_126",
+        "pdf": "sources/papers/ab62462405d1.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science I",
+    "year": 2011,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/903/3020.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "256b5adb0229",
+        "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-computer-science-1-12th-standard-board-exam-2010-2011_80",
+        "pdf": "sources/papers/256b5adb0229.pdf"
+      }
+    ],
+    "status": "recovered"
+  },
+  {
+    "subject": "Computer Science II",
+    "year": 2011,
+    "failedUrls": [
+      "https://www.respaper.com/vrajparesh/261/784/2555.pdf"
+    ],
+    "replacements": [
+      {
+        "id": "36fc2a580213",
+        "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-computer-science-2-12th-standard-board-exam-2010-2011_125",
+        "pdf": "sources/papers/36fc2a580213.pdf"
+      }
+    ],
+    "status": "recovered"
+  }
+]
