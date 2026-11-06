@@ -6,7 +6,7 @@ ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'dist'
 if OUT.exists():shutil.rmtree(OUT)
 OUT.mkdir()
-for name in ['index.html','styles.css','app.js','stats.js','404.html','_headers','_redirects','_routes.json','login.html','auth.css','login.js','auth-ui.js']:
+for name in ['index.html','styles.css','app.js','stats.js','404.html','_headers','_redirects','_routes.json','login.html','auth.css','login.js','auth-ui.js','privacy.html']:
  p=ROOT/name
  if p.exists():shutil.copy2(p,OUT/name)
 for name in ['data','reports']:

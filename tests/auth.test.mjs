@@ -50,3 +50,5 @@ test('Google identity verification checks signature, issuer, audience, nonce and
 
 test('missing OAuth settings still show a login screen at the home URL',async()=>{const c=context('/',{},{});const r=await createAuthHandler()(c);assert.equal(r.status,303);assert.match(r.headers.get('Location'),/^\/login\?next=/);assert.equal(c.served,0)});
 test('deployment version is public without OAuth settings',async()=>{const c=context('/version.json',{},{});c.next=async()=>Response.json({version:'release-1'});const r=await createAuthHandler()(c);assert.equal(r.status,200);assert.equal((await r.json()).version,'release-1');assert.equal(r.headers.get('Cache-Control'),'private, no-store')});
+
+test('public privacy notice remains available without sign-in',async()=>{const c=context('/privacy',{},{});c.next=async()=>new Response('Privacy and sign-in');const r=await createAuthHandler()(c);assert.equal(r.status,200);assert.match(await r.text(),/Privacy/)});
