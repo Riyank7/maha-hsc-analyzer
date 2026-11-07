@@ -6,11 +6,13 @@ ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'dist'
 if OUT.exists():shutil.rmtree(OUT)
 OUT.mkdir()
-for name in ['index.html','styles.css','app.js','stats.js','404.html','_headers','_redirects','_routes.json','login.html','auth.css','login.js','auth-ui.js','privacy.html']:
+for name in ['index.html','styles.css','app.js','stats.js','404.html','_headers','_redirects','_routes.json','login.html','auth.css','login.js','auth-ui.js','privacy.html','answers.js','answers.css']:
  p=ROOT/name
  if p.exists():shutil.copy2(p,OUT/name)
 for name in ['data','reports']:
  shutil.copytree(ROOT/name,OUT/name)
+if (ROOT/'vault').is_dir():
+ shutil.copytree(ROOT/'vault',OUT/'vault')
 papers=json.loads((ROOT/'data/papers.json').read_text())
 active=[p for p in papers if p.get('localPdf') and not p.get('duplicateOf') and not p.get('excluded')]
 for p in active:

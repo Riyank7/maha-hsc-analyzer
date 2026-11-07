@@ -2,7 +2,7 @@
 
 The merged Google sign-in implementation gates the analyzer, data, report, and every PDF at the Cloudflare Pages edge. Every Google account with a verified email can sign in; no email allowlist is configured. The public GitHub repository still contains the public examination PDFs. Website login does not make those repository files private.
 
-The implementation was merged in PR #1. Real Google sign-in still requires the configuration below. Missing settings keep the protected routes closed.
+The implementation was merged in PR #1. Production is configured in personal project riyank7-maha-hsc (691544762688), with the External audience published. The Web client is Maharashtra HSC Web; its sole redirect is the production callback below. A real Google login opened the analyzer successfully on 6 November 2026. All four bindings are saved as encrypted Cloudflare production secrets. These instructions are retained for recovery. Missing settings keep protected routes closed.
 
 ## Google setup (one-time)
 

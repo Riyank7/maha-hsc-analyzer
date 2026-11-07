@@ -30129,5 +30129,959 @@
     "topic": "Programming alternative",
     "reviewed": true,
     "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "1(1)",
+    "marks": 1,
+    "chapter": "Superposition of Waves",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "1(2)",
+    "marks": 1,
+    "chapter": "Superposition of Waves",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "1(3)",
+    "marks": 1,
+    "chapter": "Elasticity (legacy)",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "1(4)",
+    "marks": 1,
+    "chapter": "Oscillations",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "1(5)",
+    "marks": 1,
+    "chapter": "Rotational Dynamics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "1(6)",
+    "marks": 1,
+    "chapter": "Gravitation (legacy)",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "1(7)",
+    "marks": 1,
+    "chapter": "Rotational Dynamics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "1(8)",
+    "marks": 1,
+    "chapter": "Kinetic Theory of Gases and Radiation",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "2(A)(1)",
+    "marks": 2,
+    "chapter": "Elasticity (legacy)",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "2(A)(2)",
+    "marks": 2,
+    "chapter": "Kinetic Theory of Gases and Radiation",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "2(B)(1)",
+    "marks": 3,
+    "chapter": "Rotational Dynamics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "2(B)(2)",
+    "marks": 3,
+    "chapter": "Oscillations",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "2(B)(3)",
+    "marks": 3,
+    "chapter": "Rotational Dynamics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "3(A)(1)",
+    "marks": 2,
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "3(A)(2)",
+    "marks": 2,
+    "chapter": "Kinetic Theory of Gases and Radiation",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "3(B)(1)",
+    "marks": 3,
+    "chapter": "Kinetic Theory of Gases and Radiation",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "3(B)(2)",
+    "marks": 3,
+    "chapter": "Oscillations",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "3(B)(3)",
+    "marks": 3,
+    "chapter": "Elasticity (legacy)",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "4(A)(1)",
+    "marks": 2,
+    "chapter": "Rotational Dynamics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "4(A)(2)",
+    "marks": 2,
+    "chapter": "Rotational Dynamics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "4(A)(3)",
+    "marks": 2,
+    "chapter": "Superposition of Waves",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "4(B)(1)",
+    "marks": 4,
+    "chapter": "Gravitation (legacy)",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "4(B)(2)",
+    "marks": 4,
+    "chapter": "Mechanical Properties of Fluids",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "5(1)",
+    "marks": 4,
+    "chapter": "Kinetic Theory of Gases and Radiation",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "5(2)",
+    "marks": 4,
+    "chapter": "Superposition of Waves",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "30c05e4b506a",
+    "question": "5(3)",
+    "marks": 4,
+    "chapter": "Superposition of Waves",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "1(1)",
+    "marks": 1,
+    "chapter": "Wave Optics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "1(2)",
+    "marks": 1,
+    "chapter": "AC Circuits",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "1(3)",
+    "marks": 1,
+    "chapter": "Wave Optics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "1(4)",
+    "marks": 1,
+    "chapter": "Gravitation (legacy)",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "1(5)",
+    "marks": 1,
+    "chapter": "Electrostatics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "1(6)",
+    "marks": 1,
+    "chapter": "Current Electricity",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "1(7)",
+    "marks": 1,
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "1(8)",
+    "marks": 1,
+    "chapter": "Current Electricity",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "2(A)(1)",
+    "marks": 2,
+    "chapter": "Electrostatics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "2(A)(2)",
+    "marks": 2,
+    "chapter": "AC Circuits",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "2(B)(1)",
+    "marks": 3,
+    "chapter": "Current Electricity",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "2(B)(2)",
+    "marks": 3,
+    "chapter": "Dual Nature of Radiation and Matter",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "2(B)(3)",
+    "marks": 3,
+    "chapter": "Semiconductor Devices",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "3(A)(1)",
+    "marks": 2,
+    "chapter": "Current Electricity",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "3(A)(2)",
+    "marks": 2,
+    "chapter": "Wave Optics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "3(B)(1)",
+    "marks": 3,
+    "chapter": "Electrostatics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "3(B)(2)",
+    "marks": 3,
+    "chapter": "Communication Systems (legacy)",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "3(B)(3)",
+    "marks": 3,
+    "chapter": "Magnetic Fields due to Electric Current",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "4(A)(1)",
+    "marks": 2,
+    "chapter": "Structure of Atoms and Nuclei",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "4(A)(2)",
+    "marks": 2,
+    "chapter": "Semiconductor Devices",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "4(A)(3)",
+    "marks": 2,
+    "chapter": "Magnetic Fields due to Electric Current",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "4(B)(1)",
+    "marks": 4,
+    "chapter": "Magnetic Materials",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "4(B)(2)",
+    "marks": 4,
+    "chapter": "Electromagnetic Induction",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "5(1)",
+    "marks": 4,
+    "chapter": "Wave Optics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "5(2)",
+    "marks": 4,
+    "chapter": "Structure of Atoms and Nuclei",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "eb9b17e05c68",
+    "question": "5(3)",
+    "marks": 4,
+    "chapter": "Wave Optics",
+    "topic": "Historical Paper I/II; archive-attributed year",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "1(1)",
+    "marks": 1,
+    "chapter": "Chemical Thermodynamics",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "1(2)",
+    "marks": 1,
+    "chapter": "Ionic Equilibria",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "1(3)",
+    "marks": 1,
+    "chapter": "Electrochemistry",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "1(4)",
+    "marks": 1,
+    "chapter": "Nuclear Chemistry (legacy)",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "1(5)",
+    "marks": 1,
+    "chapter": "Chemical Kinetics",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "1(6)",
+    "marks": 1,
+    "chapter": "Transition and Inner Transition Elements",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "1(7)",
+    "marks": 1,
+    "chapter": "Solutions",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "1(8)",
+    "marks": 1,
+    "chapter": "Chemical Thermodynamics",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "2(A)(1)",
+    "marks": 2,
+    "chapter": "Chemical Thermodynamics",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "2(A)(2)",
+    "marks": 2,
+    "chapter": "Solutions",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "2(B)(1)",
+    "marks": 2,
+    "chapter": "Mixed: Ionic Equilibria / Electrochemistry",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "joint"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "2(B)(2)",
+    "marks": 2,
+    "chapter": "Chemical Kinetics",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "2(C)(1)",
+    "marks": 2,
+    "chapter": "Transition and Inner Transition Elements",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "2(C)(2)",
+    "marks": 2,
+    "chapter": "Solutions",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "3(A)(1)",
+    "marks": 3,
+    "chapter": "Solutions",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "3(A)(2)",
+    "marks": 3,
+    "chapter": "Nuclear Chemistry (legacy)",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "3(B)(1)",
+    "marks": 3,
+    "chapter": "Chemical Kinetics",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "3(B)(2)",
+    "marks": 3,
+    "chapter": "Transition and Inner Transition Elements",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "3(C)(1)",
+    "marks": 2,
+    "chapter": "Electrochemistry",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "4(A)(1)",
+    "marks": 4,
+    "chapter": "Chemical Thermodynamics",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "4(B)(1)",
+    "marks": 4,
+    "chapter": "Ionic Equilibria",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "4(B)(2)",
+    "marks": 4,
+    "chapter": "Electrochemistry",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "5(A)(1)",
+    "marks": 4,
+    "chapter": "Chemical Thermodynamics",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "5(A)(2)",
+    "marks": 4,
+    "chapter": "Ionic Equilibria",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "5(B)(1)",
+    "marks": 2,
+    "chapter": "Nuclear Chemistry (legacy)",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "5(B)(2)",
+    "marks": 2,
+    "chapter": "Electrochemistry",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "aebe1e3544a7",
+    "question": "5(B)(3)",
+    "marks": 2,
+    "chapter": "Solutions",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "1(1)",
+    "marks": 1,
+    "chapter": "Chemistry in Everyday Life (legacy)",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "1(2)",
+    "marks": 1,
+    "chapter": "Transition and Inner Transition Elements",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "1(3)",
+    "marks": 1,
+    "chapter": "Halogen Derivatives",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "1(4)",
+    "marks": 1,
+    "chapter": "Alcohols, Phenols and Ethers",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "1(5)",
+    "marks": 1,
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "1(6)",
+    "marks": 1,
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "1(7)",
+    "marks": 1,
+    "chapter": "Amines",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "1(8)",
+    "marks": 1,
+    "chapter": "Biomolecules",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "2(A)(1)",
+    "marks": 2,
+    "chapter": "Amines",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "2(A)(2)",
+    "marks": 2,
+    "chapter": "Introduction to Polymer Chemistry",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "2(B)(1)",
+    "marks": 2,
+    "chapter": "Alcohols, Phenols and Ethers",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "2(B)(2)",
+    "marks": 2,
+    "chapter": "Biomolecules: Lipids (legacy)",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "2(C)(1)",
+    "marks": 2,
+    "chapter": "Transition and Inner Transition Elements",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "2(C)(2)",
+    "marks": 2,
+    "chapter": "Halogen Derivatives",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "3(A)(1)",
+    "marks": 3,
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "3(A)(2)",
+    "marks": 3,
+    "chapter": "Halogen Derivatives",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "3(B)(1)",
+    "marks": 3,
+    "chapter": "Biomolecules",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "3(B)(2)",
+    "marks": 3,
+    "chapter": "Alcohols, Phenols and Ethers",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "3(C)(1)",
+    "marks": 2,
+    "chapter": "Mixed: Introduction to Polymer Chemistry / Alcohols, Phenols and Ethers",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "joint"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "4(A)(1)",
+    "marks": 4,
+    "chapter": "Halogen Derivatives",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "4(B)(1)",
+    "marks": 4,
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "4(B)(2)",
+    "marks": 4,
+    "chapter": "Alcohols, Phenols and Ethers",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "5(A)(1)",
+    "marks": 4,
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "5(A)(2)",
+    "marks": 4,
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "5(B)(1)",
+    "marks": 2,
+    "chapter": "Chemistry in Everyday Life (legacy)",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "5(B)(2)",
+    "marks": 2,
+    "chapter": "Amines",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
+  },
+  {
+    "paperId": "d595723e1edd",
+    "question": "5(B)(3)",
+    "marks": 2,
+    "chapter": "Transition and Inner Transition Elements",
+    "topic": "Historical Chemistry part; alternatives included",
+    "reviewed": true,
+    "allocation": "single chapter"
   }
 ]

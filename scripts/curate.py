@@ -4,7 +4,7 @@ from pathlib import Path
 from harvest import ROOT
 def main():
     rows=json.loads((ROOT/'data/papers.json').read_text());byid={p['id']:p for p in rows}
-    for name in ['downloads','scan-papers','more-papers','cs-alternates','cs2-alternates','cs2025','cs1-2022-check','study-alternates','target-recoveries','cs2016-recoveries','shaalaa-recoveries']:
+    for name in ['downloads','scan-papers','more-papers','cs-alternates','cs2-alternates','cs2025','cs1-2022-check','study-alternates','target-recoveries','cs2016-recoveries','shaalaa-recoveries','gap-recoveries']:
         f=ROOT/'sources'/f'{name}.json'
         if f.exists():
             for p in json.loads(f.read_text()):

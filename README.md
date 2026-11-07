@@ -4,7 +4,7 @@ A local, static evidence viewer for main English-medium Class XII papers in the 
 
 ## Google sign-in feature
 
-This branch adds required Google sign-in through Cloudflare Pages Functions. Follow [the activation guide](docs/GOOGLE_SIGN_IN.md) to create the missing Google OAuth client and configure the server secrets. The implementation was merged in [PR #1](https://github.com/Riyank7/maha-hsc-analyzer/pull/1). Google OAuth credentials are required before real sign-in can work. Use `npm ci`, `npm test`, and `npm run dev` for the authenticated app. Unconfigured authentication fails closed.
+Required Google sign-in is active through Cloudflare Pages Functions using the dedicated personal Google project. [Configuration and recovery instructions](docs/GOOGLE_SIGN_IN.md) describe the setup. The implementation was merged in [PR #1](https://github.com/Riyank7/maha-hsc-analyzer/pull/1). Live Google sign-in has been tested. Use `npm ci`, `npm test`, and `npm run dev` for the authenticated app. Unconfigured authentication fails closed.
 
 ## Open locally (static base only)
 
@@ -12,7 +12,7 @@ From this directory run `python3 -m http.server 8765 --bind 127.0.0.1`, then ope
 
 ## Current coverage
 
-107 distinct usable PDFs; 94 question / question-block reviews and 13 older English section reviews. All five recent years (2022–2026) have all six paper types. Historical coverage is incomplete. See `reports/analysis.html` and `data/coverage.json` for gaps, including Mathematics 2012 Paper II. 2021's cancelled main exam is excluded.
+111 distinct usable PDFs; 98 question / question-block reviews and 13 older English section reviews. All five recent years (2022–2026) have all six paper types. Historical coverage is incomplete. See `reports/analysis.html` and `data/coverage.json` for gaps, including Mathematics 2012 Paper II. 2021's cancelled main exam is excluded.
 
 The four original failed 2025 PCM / English downloads were recovered, as were 2015–2016 CS copies. All 15 previously failed subject/year entries now have local replacements, including seven older CS papers assembled from complete public scan pages; see `data/download-recovery.json`. Incomplete and mislabeled copies remain only in the audit trail.
 
@@ -43,3 +43,9 @@ GitHub Actions tests authentication, validates all paper files and marks, builds
 Required repository configuration: encrypted Actions secret `CLOUDFLARE_API_TOKEN` (dedicated Pages Edit token), and Actions variable `CLOUDFLARE_ACCOUNT_ID`. These are deployment credentials, separate from the Google client secrets stored only in Cloudflare. The token must be rotated before its expiry.
 
 Each build emits public, non-sensitive version metadata. Open analyzer and login pages check it every 15 seconds and reload when a new build appears. The analyzer preserves the selected tab, subject, year, and analysis period across that refresh. No login tokens are stored in browser storage.
+
+## Locked answer library
+
+The Answers tab requires the shared password after Google sign-in. The password is not in the repository. The edge verifies a salted PBKDF2 hash and issues a two-hour HttpOnly unlock cookie tied to the Google user. Answer files are AES-256-GCM encrypted before committing; the decryption key and password verifier are encrypted Cloudflare secrets. Plaintext drafts and the local credential file remain under ignored private/. Public publisher solutions are linked with attribution and remain public on their own sites.
+
+See [answer-library maintenance](docs/ANSWERS.md). The locked catalog reports published references, original worked answers and remaining preparation separately.

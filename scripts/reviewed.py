@@ -312,6 +312,14 @@ cs('256b5adb0229',CS1,[1,2,3,4,1,2,4,3,2,2,1,3,3,1,3,1,2,2,1,3,3,1,3,3,4,3,3,4])
 cs('ab62462405d1',CS2,[1,4,2,5,1,2,5,1,2,5,3,2,1,2,5,1,4,2,2,4,5,5]+[2]*6)
 cs('36fc2a580213',CS2,[5,4,2,1,1,4,2,1,5,2,1,3,5,1,4,4,1,5,2,2,5,5]+[2]*6)
 
+# Recovered main-exam scans have printed dates; all alternatives were inspected.
+half_science('30c05e4b506a',P,[[6,6,18,5,1,17,1,3],[18,3],[1,5,1],[2,3],[3,5,18],[1,1,6],[17,2],[3,6,6]])
+half_science('eb9b17e05c68',P,[[7,13,7,17,8,9,14,9],[8,13],[9,14,16],[9,7],[8,19,10],[15,16,10],[11,12],[7,15,7]])
+half_chem('aebe1e3544a7',[[4,3,5,22,6,8,2,4],[4,2],[(3,5),6],[8,2],[2,22],[6,8],[5],[4],[3,5],[4,3],[22,5,2]])
+half_chem('d595723e1edd',[[19,8,10,11,12,12,13,14],[13,15],[11,21],[8,10],[12,10],[14,11],[(15,11)],[10],[12,11],[12,12],[19,13,8]])
+for ident in ['30c05e4b506a','eb9b17e05c68','aebe1e3544a7','d595723e1edd']:
+    REVIEWS[ident]['reviewNote']='Complete dated March 2011 main-exam scan. Every printed alternative mapped; 60 offered marks and 40 attainable marks per part. Mixed chapter blocks retain their unprinted allocation.'
+
 def publish():
     papers=json.loads((ROOT/'data/papers.json').read_text())
     for p in papers:

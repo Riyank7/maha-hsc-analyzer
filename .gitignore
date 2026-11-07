@@ -17,3 +17,6 @@ sources/papers/*
 sources/*-log.txt
 sources/*-review.txt
 !.dev.vars.example
+
+# Plaintext answer drafts and local vault credentials stay off GitHub.
+private/
