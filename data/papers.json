@@ -2037,13 +2037,13 @@
     "set": "Paper-A",
     "session": "Main",
     "medium": "English",
-    "source": "https://maharashtraboardbooks.com/papers/HSC/English/2013/Paper-A",
+    "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_71",
     "localPdf": "sources/papers/7da6ea074b56.pdf",
     "pages": 12,
     "status": "verified",
     "analysisStatus": "complete",
-    "sha256": "b5b36d4ece62033f95478d298fe1c28881b700471c72e238d336ffefe322bf4d",
-    "notes": "Local PDF assembled from the publicly displayed original page scans.",
+    "sha256": "4bda5f3814bbca329914a1cd3b2c0c1bb7c30b39b4cd2c289ceb0b9ea17d079c",
+    "notes": "Replaced obscured/cut-off archive scan with all 12 readable public original scans from Shaalaa; essay topics on final page are present. Stable paper ID retained.",
     "scanUrls": [
       "https://maharashtraboardbooks.com/webp/Maharashtra-board-previous-year-paper-12th-English-Paper-A-2013-1.webp",
       "https://maharashtraboardbooks.com/webp/Maharashtra-board-previous-year-paper-12th-English-Paper-A-2013-2.webp",
@@ -2061,7 +2061,22 @@
     "requiredMarks": 80,
     "maxMarks": 80,
     "analysisResolution": "section",
-    "reviewNote": "Section totals reviewed (80 required marks). Older literature chapter titles and individual alternative distributions are not mapped; excluded from offered chapter rankings."
+    "reviewNote": "Section totals reviewed (80 required marks). Older literature chapter titles and individual alternative distributions are not mapped; excluded from offered chapter rankings.",
+    "previousScanSha256": "b5b36d4ece62033f95478d298fe1c28881b700471c72e238d336ffefe322bf4d",
+    "scanSources": [
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:c303a76bfbbf40f592f03d98ad03aa5b.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:6259ee0845cb4c03b861bd6922072b1e.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:124491d5680f4a728ef8ed946ea65deb.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:a12b325a11b94cad959058f58285a4ab.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:0bafeeb8655944cbabdd988610192a9d.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:53c413292e4447039d458fabdb0361d2.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:18ece01a0458410692de93afc8b5d9a4.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:b98c8b5b6c2e4485ae19c7bf8e821ef6.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:ba7aa629ef3f4a8d82eec16122fdbbed.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:58793e63e3d34bda8edc07cec4cdfeac.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:ce21d201913144638bf798ddf8d3c6e2.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2012-2013_2:5bfc0ad2e5284f3a8824fb4a9a78ffe9.jpg"
+    ]
   },
   {
     "id": "e6e170c4e1b9",
@@ -2103,13 +2118,13 @@
     "set": "Paper-A",
     "session": "Main",
     "medium": "English",
-    "source": "https://maharashtraboardbooks.com/papers/HSC/English/2011/Paper-A",
+    "source": "https://www.shaalaa.com/question-paper-solution/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_65",
     "localPdf": "sources/papers/2005a50d8d37.pdf",
     "pages": 11,
     "status": "verified",
     "analysisStatus": "complete",
-    "sha256": "32862812674c1e7a2dc2de3e91f9be1f36255547083498883b95e368f9b13ae9",
-    "notes": "Local PDF assembled from the publicly displayed original page scans.",
+    "sha256": "91e660cbb9ff3eab536d28ab51a7adb5942fae8a9ab91861add1542e0aa01ef6",
+    "notes": "Replaced obscured archive scan with all 11 clearer public original scans from Shaalaa. Stable paper ID retained.",
     "scanUrls": [
       "https://maharashtraboardbooks.com/webp/Maharashtra-board-previous-year-paper-12th-English-Paper-A-2011-1.webp",
       "https://maharashtraboardbooks.com/webp/Maharashtra-board-previous-year-paper-12th-English-Paper-A-2011-2.webp",
@@ -2126,7 +2141,21 @@
     "requiredMarks": 80,
     "maxMarks": 80,
     "analysisResolution": "section",
-    "reviewNote": "Section totals reviewed (80 required marks). Older literature chapter titles and individual alternative distributions are not mapped; excluded from offered chapter rankings."
+    "reviewNote": "Section totals reviewed (80 required marks). Older literature chapter titles and individual alternative distributions are not mapped; excluded from offered chapter rankings.",
+    "previousScanSha256": "32862812674c1e7a2dc2de3e91f9be1f36255547083498883b95e368f9b13ae9",
+    "scanSources": [
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:d695a7da1a544da8b073dd06216e748f.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:83fcbb5dda7f418f9b9e970bf29f736c.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:de139a0e48604280bd08e090d51b77a3.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:4b3ffdee76354e0b9a7184dad221eeff.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:ef3e61481b5347e69369cb3b2c2c8772.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:9a197530153948ef8e4844c5f18d2f9d.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:7ef0779abfd3401480d1bf2b7230ad0b.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:a8745f5e3c74488aaaae66990b6bcdf3.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:e67949fab89b40c4bba3fb4c0a7be5eb.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:2e73930f46634024af5829e3c70789db.jpg",
+      "https://www.shaalaa.com/images/maharashtra-board-hsc-english-12th-standard-board-exam-2010-2011_2:a6525c09794a4e6980cad79a421e866f.jpg"
+    ]
   },
   {
     "id": "77bcf591ee3b",
