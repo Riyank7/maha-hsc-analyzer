@@ -15,6 +15,8 @@ if (ROOT/'vault').is_dir():
  shutil.copytree(ROOT/'vault',OUT/'vault')
 papers=json.loads((ROOT/'data/papers.json').read_text())
 active=[p for p in papers if p.get('localPdf') and not p.get('duplicateOf') and not p.get('excluded')]
+login=OUT/'login.html'
+if login.exists():login.write_text(login.read_text().replace('data-paper-count>111',f'data-paper-count>{len(active)}'))
 for p in active:
  dest=OUT/p['localPdf'];dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(ROOT/p['localPdf'],dest)
 try:
