@@ -50,3 +50,17 @@ expiration, lock, sign-out and direct paths before authentication changes.
 Public publisher sites remain public. The password protects this site's answer
 catalog, original answers and downloads; external source pages retain their
 own access rules.
+
+## Current content
+
+The 111 collected papers have 68 published solution-reference sets and 43
+original worked-answer sets. Original plaintext includes 1,213 grouped
+question/subquestion records. English writing tasks include all printed
+alternatives, with fictional events and personal responses labelled as models.
+No preparation or partial sets remain in the current catalogue. Missing
+historical PDFs are listed separately in [the recovery audit](PAPER_RECOVERY.md).
+
+Preserve source-error notes when editing answers. For example, a defective MCQ
+must not be forced into a wrong option, and a blurred quantity must not be
+silently invented. Original solutions have targeted mathematical/programming
+checks but have not all been independently teacher-marked.

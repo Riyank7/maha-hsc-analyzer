@@ -18,6 +18,10 @@ The four original failed 2025 PCM / English downloads were recovered, as were 20
 
 ## Data and methodology
 
+The latest recovery added the four 2011 Physics/Chemistry parts and replaced
+2011/2013 English with clearer complete scans. [Recovery audit and remaining
+gaps](docs/PAPER_RECOVERY.md) records rejected session labels and access limits.
+
 - `data/papers.json`: full source audit index, local paths, SHA-256 hashes, duplicate and exclusion flags. Display only rows without `duplicateOf` or `excluded`.
 - `data/questions.json`: reviewed questions / blocks. Older English entries use `marksBasis: required-section`; do not combine them with offered chapter marks.
 - `data/english-sections.json`: required English section allocations for historical comparison.
@@ -49,3 +53,8 @@ Each build emits public, non-sensitive version metadata. Open analyzer and login
 The Answers tab requires the shared password after Google sign-in. The password is not in the repository. The edge verifies a salted PBKDF2 hash and issues a two-hour HttpOnly unlock cookie tied to the Google user. Answer files are AES-256-GCM encrypted before committing; the decryption key and password verifier are encrypted Cloudflare secrets. Plaintext drafts and the local credential file remain under ignored private/. Public publisher solutions are linked with attribution and remain public on their own sites.
 
 See [answer-library maintenance](docs/ANSWERS.md). The locked catalog reports published references, original worked answers and remaining preparation separately.
+
+Current collected-corpus coverage: 68 published solution-reference sets and 43
+original worked-answer sets, with no sets still in preparation. Original sets
+contain 1,213 grouped question/subquestion answers. All are study resources, not
+official marking schemes; uncertainties and source defects are labelled.
