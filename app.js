@@ -4,7 +4,7 @@ let papers=[],questions=[],englishSections=[],statusData={},fingerprint='';
 const loadedVersion=document.querySelector('meta[name="app-version"]')?.content;
 const viewKey='hsc-view';
 function rememberView(){try{sessionStorage.setItem(viewKey,JSON.stringify({tab:document.querySelector('.tab.active')?.dataset.tab,subject:$('#subject').value,year:$('#year').value,analysisSubject:$('#analysisSubject').value,window:$('#window').value}))}catch{}}
-function restoreView(){try{const v=JSON.parse(sessionStorage.getItem(viewKey)||'null');if(!v)return;for(const id of ['subject','year','analysisSubject','window'])if([...$('#'+id).options].some(o=>o.value===v[id]))$('#'+id).value=v[id];if(['overview','papers','analyzer','answers','method'].includes(v.tab))go(v.tab);sessionStorage.removeItem(viewKey)}catch{}}
+function restoreView(){try{const v=JSON.parse(sessionStorage.getItem(viewKey)||'null');if(!v)return;for(const id of ['subject','year','analysisSubject','window'])if([...$('#'+id).options].some(o=>o.value===v[id]))$('#'+id).value=v[id];if(['overview','papers','analyzer','answers','dates','method'].includes(v.tab))go(v.tab);sessionStorage.removeItem(viewKey)}catch{}}
 async function refreshVersion(){if(!loadedVersion)return;try{const r=await fetch('/version.json',{cache:'no-store'});if(!r.ok)return;const v=await r.json();if(v.version&&v.version!==loadedVersion){rememberView();location.reload()}}catch{}}
 function go(name){document.querySelectorAll('.tab,.panel').forEach(x=>x.classList.remove('active'));$(`[data-tab="${name}"]`).classList.add('active');$('#'+name).classList.add('active');document.dispatchEvent(new CustomEvent('hsc-tab-change',{detail:name}))}
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>go(b.dataset.tab));

@@ -1,0 +1,22 @@
+nav{flex-wrap:wrap}
+.timetable-heading{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;margin:28px 0 20px}
+.timetable-heading h2{margin:7px 0 8px;font-size:26px;color:#204e52}
+.timetable-heading p{margin:0;color:#617980;font-size:14px;line-height:1.7}
+.timetable-actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.timetable-actions a{display:inline-block;border:1px solid #cadbd1;border-radius:8px;padding:11px 15px;color:#17695c;text-decoration:none;font-size:13px;font-weight:650;background:white}
+.timetable-actions .primary{background:#17695c;color:white;border-color:#17695c}
+#dates caption{text-align:left;padding:16px;color:#506e72;font-weight:650;background:#fff}
+#dates table{font-size:14px}
+#dates td,#dates th{padding:19px 20px;line-height:1.6}
+#dates tbody th{background:white;color:#204e52;min-width:190px}
+.timetable-code{display:block;font-size:11px;font-weight:400;color:#758590;margin-top:3px}
+#dates td:last-child a{white-space:nowrap;color:#17695c;text-decoration:none;font-weight:600;font-size:12px}
+.timetable-notes{margin-top:20px;max-width:900px}
+.timetable-notes p{font-size:13px;line-height:1.8;color:#5f7180;margin:0 0 8px}
+@media(max-width:650px){
+  .timetable-heading{align-items:flex-start}
+  .timetable-heading h2{font-size:23px}
+  #dates td,#dates th{padding:14px 12px}
+  #dates table{font-size:12px}
+  #dates tbody th{min-width:155px}
+}

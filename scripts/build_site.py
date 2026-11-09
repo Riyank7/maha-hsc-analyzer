@@ -1,12 +1,12 @@
 """Package only public app assets and active PDFs for static hosting."""
-import json,shutil,subprocess,os
+import json,shutil,subprocess,os,hashlib
 from datetime import datetime,timezone
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'dist'
 if OUT.exists():shutil.rmtree(OUT)
 OUT.mkdir()
-for name in ['index.html','styles.css','app.js','stats.js','404.html','_headers','_redirects','_routes.json','login.html','auth.css','login.js','auth-ui.js','privacy.html','answers.js','answers.css']:
+for name in ['index.html','styles.css','app.js','stats.js','404.html','_headers','_redirects','_routes.json','login.html','auth.css','login.js','auth-ui.js','privacy.html','answers.js','answers.css','timetable.js','timetable.css']:
  p=ROOT/name
  if p.exists():shutil.copy2(p,OUT/name)
 for name in ['data','reports']:
@@ -19,6 +19,11 @@ login=OUT/'login.html'
 if login.exists():login.write_text(login.read_text().replace('data-paper-count>111',f'data-paper-count>{len(active)}'))
 for p in active:
  dest=OUT/p['localPdf'];dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(ROOT/p['localPdf'],dest)
+timetable=json.loads((ROOT/'data/timetable-2027.json').read_text())
+document=timetable['document']
+source=ROOT/document['pdf']
+assert hashlib.sha256(source.read_bytes()).hexdigest()==document['sha256'],'Timetable PDF hash mismatch'
+dest=OUT/document['pdf'];dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(source,dest)
 try:
  version=os.environ.get('GITHUB_SHA') or subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
 except (OSError,subprocess.CalledProcessError):

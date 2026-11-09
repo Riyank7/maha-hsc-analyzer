@@ -7,6 +7,9 @@
 /sources/papers/*
   Content-Type: application/pdf
   Cache-Control: public, max-age=86400
+/sources/timetables/*
+  Content-Type: application/pdf
+  Cache-Control: private, no-store
 
 /version.json
   Cache-Control: no-store

@@ -1,0 +1,69 @@
+{
+  "year": 2027,
+  "timeZone": "Asia/Kolkata",
+  "document": {
+    "title": "MSBSHSE HSC General & Bifocal timetable, February–March 2027",
+    "originalFilename": "HSC_GENERAL_and_BIFOCAL_FEB_MAR_2027_TIME_TABLE_c242fc5d57.pdf",
+    "pdf": "sources/timetables/HSC_GENERAL_and_BIFOCAL_FEB_MAR_2027_TIME_TABLE_c242fc5d57.pdf",
+    "pages": 12,
+    "sha256": "e11122d1d03022b3d30f1fc8fe46ddefb00b840c3dfd1d05effe11013cb6ef5d",
+    "provenance": "Original PDF attached by the user; preserved byte for byte.",
+    "reviewedPages": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  "exams": [
+    {
+      "subject": "English",
+      "code": "01",
+      "date": "2027-02-08",
+      "start": "11:00",
+      "end": "14:00",
+      "sourcePage": 1
+    },
+    {
+      "subject": "Physics",
+      "code": "54",
+      "date": "2027-02-12",
+      "start": "11:00",
+      "end": "14:00",
+      "sourcePage": 2
+    },
+    {
+      "subject": "Chemistry",
+      "code": "55",
+      "date": "2027-02-16",
+      "start": "11:00",
+      "end": "14:00",
+      "sourcePage": 2
+    },
+    {
+      "subject": "Mathematics & Statistics (Arts/Science)",
+      "code": "40",
+      "date": "2027-02-20",
+      "start": "11:00",
+      "end": "14:00",
+      "sourcePage": 3
+    },
+    {
+      "subject": "Computer Science I (Bifocal)",
+      "code": "D9",
+      "date": "2027-03-02",
+      "start": "15:00",
+      "end": "18:00",
+      "sourcePage": 5
+    },
+    {
+      "subject": "Computer Science II (Bifocal)",
+      "code": "D9",
+      "date": "2027-03-04",
+      "start": "15:00",
+      "end": "18:00",
+      "sourcePage": 7
+    }
+  ]
+}

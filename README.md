@@ -18,6 +18,13 @@ The four original failed 2025 PCM / English downloads were recovered, as were 20
 
 ## Data and methodology
 
+The Exam dates tab shows the six subjects in this app for the February–March
+2027 written examinations, with fixed IST times and page-specific source links.
+The original user-supplied 12-page Board timetable is preserved unchanged under
+sources/timetables/. Its hash and the reviewed entries are recorded in
+data/timetable-2027.json. The build verifies the hash before packaging the PDF.
+The timetable and document use the existing required Google sign-in.
+
 The latest recovery added the four 2011 Physics/Chemistry parts and replaced
 2011/2013 English with clearer complete scans. [Recovery audit and remaining
 gaps](docs/PAPER_RECOVERY.md) records rejected session labels and access limits.
